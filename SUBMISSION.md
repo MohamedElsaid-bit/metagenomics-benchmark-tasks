@@ -74,7 +74,7 @@ All data is open access and redistributable, taken from curatedMetagenomicData (
 
 | Study | Role | Citation |
 |---|---|---|
-| MetaCardis_2020_a | Task A, whole cohort | Fromentin et al. 2022, Nature Medicine, PMID 34880489 |
+| MetaCardis_2020_a | Task A, whole cohort | Forslund et al. 2021, Nature, doi:10.1038/s41586-021-04177-9 (PMID 34880489); Fromentin et al. 2022, Nature Medicine, doi:10.1038/s41591-022-01688-4 (PMID 35177860) |
 | ZellerG_2014 | Task B, CRC stool base cohort | Zeller et al. 2014, Mol Syst Biol, doi:10.15252/msb.20145645 |
 | GhensiP_2019 | Task B, oral material mixed in | Ghensi et al. 2020, NPJ Biofilms Microbiomes, doi:10.1038/s41522-020-00155-7 |
 

@@ -4,7 +4,7 @@
 
 **Expected answer:** metformin and PPI `independent`; sulfonylurea, statin and insulin `not_independent`; strongest independent drug metformin; sulfonylurea signal explained by metformin; statin and metformin overlap 0.409.
 
-**Dataset:** MetaPhlAn3 species profiles and participant metadata for the MetaCardis cohort (1,831 stool metagenomes), from curatedMetagenomicData, ExperimentHub EH7764, release 2022-10-19. Cohort paper: doi:10.1038/s41591-021-01593-2 (PMID 34880489).
+**Dataset:** MetaPhlAn3 species profiles and participant metadata for the MetaCardis cohort (1,831 stool metagenomes), from curatedMetagenomicData, ExperimentHub EH7764, release 2022-10-19. Cohort papers: Forslund et al. 2021, Nature, doi:10.1038/s41586-021-04177-9 (PMID 34880489); Fromentin et al. 2022, Nature Medicine, doi:10.1038/s41591-022-01688-4 (PMID 35177860).
 
 **Skill explanation:** Tests whether the agent separates a drug effect from the prescribing pattern around it. Testing each drug on its own gives four of the five labels wrong, because statins, sulfonylureas and insulin are all entangled with metformin.
 
@@ -46,7 +46,7 @@ Example format (values are placeholders):
 
 ## Dataset
 
-MetaCardis cohort (France, Germany, Denmark; 1,831 stool metagenomes, Ion Proton shotgun sequencing), as processed and released by curatedMetagenomicData (Bioconductor, release 2022-10-19; Pasolli et al. 2017, Nature Methods, doi:10.1038/nmeth.4468). Original cohort publication: Fromentin et al. 2022, Nature Medicine, PMID 34880489. Raw reads are in ENA.
+MetaCardis cohort (France, Germany, Denmark; 1,831 stool metagenomes, Ion Proton shotgun sequencing), as processed and released by curatedMetagenomicData (Bioconductor, release 2022-10-19; Pasolli et al. 2017, Nature Methods, doi:10.1038/nmeth.4468). Original cohort publications: Forslund et al. 2021, Nature, doi:10.1038/s41586-021-04177-9 (PMID 34880489), which reports the drug–microbiome associations; and Fromentin et al. 2022, Nature Medicine, doi:10.1038/s41591-022-01688-4 (PMID 35177860). Raw reads are in ENA.
 
 Files given to the agent (built by `scripts/t1_make_bundle.py`):
 

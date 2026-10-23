@@ -30,7 +30,7 @@ Example format (values are placeholders):
 
 ## Dataset
 
-MetaCardis cohort (France, Germany, Denmark; 1,831 stool metagenomes, Ion Proton shotgun sequencing), as processed and released by curatedMetagenomicData (Bioconductor, release 2022-10-19; Pasolli et al. 2017, Nature Methods, doi:10.1038/nmeth.4468). Original cohort publication: Fromentin et al. 2022, Nature Medicine, PMID 34880489. Raw reads: ENA (accessions in curatedMetagenomicData metadata).
+MetaCardis cohort (France, Germany, Denmark; 1,831 stool metagenomes, Ion Proton shotgun sequencing), as processed and released by curatedMetagenomicData (Bioconductor, release 2022-10-19; Pasolli et al. 2017, Nature Methods, doi:10.1038/nmeth.4468). Original cohort publications: Forslund et al. 2021, Nature, doi:10.1038/s41586-021-04177-9 (PMID 34880489), which reports the drug–microbiome associations; and Fromentin et al. 2022, Nature Medicine, doi:10.1038/s41591-022-01688-4 (PMID 35177860). Raw reads: ENA (accessions in curatedMetagenomicData metadata).
 
 Files given to the agent (built by `scripts/t1_make_bundle.py`):
 
