@@ -1,0 +1,19 @@
+{
+  "task_id": "mgx_t2d_drug_confounding",
+  "primary_driver": {"accept": ["metformin"]},
+  "driver_fraction_T2D": {"value": 0.518, "tolerance": 0.01},
+  "T2D_intrinsic": {
+    "Escherichia_coli": {"accept": ["increased", "no_robust_difference"]},
+    "Intestinibacter_bartlettii": {"accept": ["no_robust_difference"]},
+    "Faecalibacterium_prausnitzii": {"accept": ["no_robust_difference"]},
+    "Roseburia_hominis": {"accept": ["no_robust_difference"]},
+    "Akkermansia_muciniphila": {"accept": ["no_robust_difference"]}
+  },
+  "driver_effect_within_T2D": {
+    "Escherichia_coli": {"accept": ["increased"]},
+    "Intestinibacter_bartlettii": {"accept": ["decreased"]},
+    "Faecalibacterium_prausnitzii": {"accept": ["decreased"]},
+    "Roseburia_hominis": {"accept": ["decreased"]},
+    "Akkermansia_muciniphila": {"accept": ["no_robust_difference"]}
+  }
+}

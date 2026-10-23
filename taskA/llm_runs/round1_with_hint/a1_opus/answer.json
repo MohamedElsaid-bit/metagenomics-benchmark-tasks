@@ -1,0 +1,11 @@
+{
+  "drug_labels": {
+    "metformin": "independent",
+    "proton_pump_inhibitor": "independent",
+    "sulfonylurea": "confounded_by_co_prescription",
+    "statin": "confounded_by_co_prescription",
+    "insulin": "confounded_by_co_prescription"
+  },
+  "strongest_independent_drug": "metformin",
+  "statin_metformin_overlap": 0.409
+}

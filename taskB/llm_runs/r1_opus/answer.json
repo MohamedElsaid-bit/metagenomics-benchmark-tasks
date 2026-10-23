@@ -1,0 +1,13 @@
+{
+  "n_flagged_samples": 24,
+  "flagged_sample_ids": ["P005","P009","P013","P016","P022","P029","P030","P031","P037","P040","P043","P044","P046","P047","P049","P056","P062","P085","P094","P099","P107","P110","P111","P114"],
+  "flagged_sample_origin": "oral",
+  "crc_vs_control": {
+    "Fusobacterium_nucleatum": "enriched_in_CRC",
+    "Peptostreptococcus_stomatis": "enriched_in_CRC",
+    "Parvimonas_micra": "enriched_in_CRC",
+    "Rothia_dentocariosa": "not_significant",
+    "Eubacterium_rectale": "not_significant",
+    "Streptococcus_salivarius": "not_significant"
+  }
+}

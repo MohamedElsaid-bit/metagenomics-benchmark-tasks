@@ -1,0 +1,16 @@
+{
+  "task_id": "mgx_crc_sample_provenance",
+  "n_flagged_samples": {"value": 12, "tolerance": 0},
+  "flagged_sample_ids": {
+    "accept": ["C016", "C020", "C023", "C036", "C041", "C051", "C057", "C060", "C075", "C083", "C092", "C100"],
+    "exact_set": true
+  },
+  "flagged_sample_origin": {"accept": ["oral"]},
+  "crc_vs_control": {
+    "Fusobacterium_nucleatum": {"accept": ["enriched_in_CRC"]},
+    "Peptostreptococcus_stomatis": {"accept": ["enriched_in_CRC"]},
+    "Parvimonas_micra": {"accept": ["not_significant"]},
+    "Gemella_morbillorum": {"accept": ["not_significant"]},
+    "Faecalibacterium_prausnitzii": {"accept": ["not_significant"]}
+  }
+}

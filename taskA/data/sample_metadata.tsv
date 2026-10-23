@@ -1,0 +1,1832 @@
+sample_id	disease	age	gender	BMI	country	smoker	antibiotics_current_use	treatment	hba1c	ldl	triglycerides	hscrp	bristol_score	number_reads
+S0001	T2D	52	female	30.4866850321	FRA	yes	yes	antilipid;antidiab;metformin;fibrate;statin						21581721
+S0002	T2D	56	male	31.8554693734	FRA	no	no	antilipid;antidiab;metformin;dppiv;statin;PPI						21462130
+S0003	MS	39	female	42.7678839921	DEU	no	no	antihta;at2_inhib	5.56	130.7046	162.0831	2.7	3.0	22216325
+S0004	healthy				DNK		no	no	5.1	139.21200000000002	317.0806	1.58	6.0	21119690
+S0005	healthy				DNK		no	no	5.5	162.41400000000004	112.4839	1.61	3.0	20390730
+S0006	IGT;MS	63	male	28.2782300066	FRA	no		antilipid;antihta;at2_inhib;fibrate	6.1	110.743146	215.06567400000003	2.37	4.0	20437804
+S0007	healthy				DNK		no	no	5.5	96.675	61.11329999999999	384.0	4.0	21631854
+S0008	T2D	59	female	32.5583558695	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;su;metformin;dppiv;insulin;statin;PPI						20747675
+S0009	healthy	26	male	23.1061797592	DEU	no	no	no	4.9	81.5937	39.8565	281.0	4.0	21276950
+S0010	HF;CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;beta_blockers;ca2_cbl;statin;asa;nitrate						25588555
+S0011	CAD;T2D	50	male	25.4427030328	FRA	no		antilipid;antihta;at2_inhib;beta_blockers;statin;antithombo;asa						20353809
+S0012	T2D	28	male	35.9608626497	FRA	yes	no	no						0
+S0013	MS	57	female	39.1496612439	DEU	no	yes	antihta;thiazidique;at2_inhib;ace_inhib;PPI	5.65	156.2268	127.5408	5.2	2.0	20596754
+S0014	IGT;MS	44	female	45.385354911099995	DEU	no	no	antihta;ace_inhib;beta_blockers;PPI	5.76	115.6233	138.1692	31.7	4.0	20419402
+S0015	healthy				DNK		yes	no	5.4	154.68	81.4844	1.67	2.0	20671263
+S0016	MS	35	male	36.1213990849	FRA	no	no	no	5.5	201.532572	122.17345799999998	2.34	5.0	23713630
+S0017	T2D	67	female	33.912513336399996	DEU	no	no	no						21014033
+S0018	T2D	58	male	41.5428072362	FRA	no	no	no						20223434
+S0019	healthy	22	female	22.3744128509	DEU	no	yes	no	5.22	81.9804	131.0836	2.48	4.0	20498979
+S0020	healthy	26	male	21.6273891369	FRA	no		no	5.3	73.828764	86.834028		3.0	20588314
+S0021	T2D	62	male	32.3485667929	FRA	no	no	antilipid;antidiab;su;metformin;dppiv;statin						20061853
+S0022	T2D	59	male	28.8310590508	FRA	no		antilipid;antihta;antidiab;thiazidique;ace_inhib;su;metformin;dppiv;insulin;statin;asa;PPI						20475573
+S0023	MS	20	male	37.575165593200005	DEU	yes	no	no	5.14	104.7957	186.8827	5.88	4.0	20651966
+S0024	IGT	64	male	22.6989619377	FRA	no	no	no	5.7	132.69223799999995	81.78553799999997	384.0	4.0	20915076
+S0025	T2D	48	female	46.0452387566	FRA	yes		antihta;ctrblock						24437892
+S0026	HF;CAD;T2D				DNK		no	antihta;beta_blockers;asa						42872318
+S0027	healthy	58	female	21.4164779031	FRA	no	no	no	5.4	134.68761	51.494598	0.8420000000000001	2.0	22059859
+S0028	IGT;MS	55	female	35.286255290700005	FRA	no	yes	antihta;beta_blockers;ca2_cbl	6.3	146.65984200000003	193.862016	4.8	1.0	22813147
+S0029	T2D	59	male	32.7510204082	DEU	no	no	antilipid;antihta;diuranse;thiazidique;beta_blockers;ezetimibe;xantoxinh						19040312
+S0030	T2D	55	female	40.8710966079	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;su;metformin;glp_1;statin						21684299
+S0031	T2D	72	female	28.7176784975	FRA	no	no	antihta;antidiab;at2_inhib;metformin;asa;PPI						20697392
+S0032	CAD;T2D				DNK		no	antilipid;statin;asa;nitrate						22701878
+S0033	healthy	22	female	20.8326039004	FRA	no	no	no	5.5	106.75240200000002	36.34912799999999	6.46	3.0	20499151
+S0034	healthy	42	female	22.382510410500004	DEU	no	yes	no	4.97	113.3031	68.1989	1.05	4.0	21776658
+S0035	CAD;T2D				DNK		yes	antilipid;statin;asa						20394595
+S0036	CAD	52	male	37.5757575758	FRA	yes	no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;ca2_cbl;metformin;statin;asa						19402201
+S0037	HF;CAD	66	male	23.849776597	FRA	no	yes	antilipid;antihta;diuranse;beta_blockers;statin;amiodaron;cumarine						11510716
+S0038	healthy				DNK		no	no	5.3	139.21200000000002	60.2276	868.0	2.0	35075787
+S0039	IGT;MS	49	female	51.1407162166	FRA	no	yes	no	5.8	97.773228	87.84372599999998	15.6	6.0	21168232
+S0040	T2D				DNK		no	antilipid;antihta;antidiab;ace_inhib;metformin;dppiv;insulin;statin						20307805
+S0041	IGT;MS	72	male	30.9054900594	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;statin;asa	5.7	49.8843	101.979498	12.1	3.0	20272858
+S0042	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;ca2_cbl;statin;ezetimibe;asa;clopidogrel;nitrate;PPI						20408524
+S0043	healthy				DNK		no	no	5.2	116.01	54.9134	0.6759999999999999	4.0	19933298
+S0044	T2D	52	female	50.4877305289	DEU	no	yes	antihta;thiazidique						20909438
+S0045	IGT				DNK		yes	no	5.9	143.079	67.3132	757.0	3.0	21120520
+S0046	HF;CAD;T2D				DNK		no	antilipid;antihta;diuranse;ace_inhib;beta_blockers;statin;asa						12532355
+S0047	T2D	60	female	29.4747531489	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;su;metformin;fibrate						22222023
+S0048	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20302597
+S0049	CAD				DNK		yes	antihta;antidiab;beta_blockers;metformin;dppiv;asa						24561587
+S0050	CAD	56	female	24.976582019	FRA	no	no	antilipid;antihta;beta_blockers;statin;antithombo;asa;PPI						35704120
+S0051	MS	59	female	47.6890530317	DEU	yes	yes	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;asa;PPI						17334769
+S0052	T2D	73	male	28.2775510204	DEU	no	yes	antidiab;su;metformin;dppiv						20374827
+S0053	healthy	50	female	20.7119518074	FRA	no	yes	no	5.5	111.740832	40.38792	1.73	4.0	20128770
+S0054	healthy	63	female	24.4118480726	DEU	no	no	no	5.23	148.4928	54.0277	1.32	4.0	21108962
+S0055	CAD	62	male	23.5262303948	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;kspdiur;beta_blockers;metformin;dppiv;statin;asa;PPI						26429957
+S0056	MS	33	male	42.872242039899994	DEU	no	yes	antihta;ace_inhib;kspdiur;beta_blockers;xantoxinh	5.19	143.85240000000005	178.02569999999997	5.2	3.0	21776442
+S0057	T2D	72	female	45.7785467128	DEU	no	yes	antilipid;antihta;antidiab;diuranse;ace_inhib;ca2_cbl;metformin;dppiv;statin;asa;PPI						23399175
+S0058	HF;CAD				DNK		no	antihta;antidiab;diuranse;kspdiur;beta_blockers;metformin;dppiv;insulin;asa;clopidogrel						28447257
+S0059	MS	33	female	57.3270975057	DEU	no	no	no	5.43	115.2366	212.568	1.06	6.0	21173563
+S0060	MS				DNK		no	antilipid;antihta;ace_inhib;statin;asa	5.3	96.675	96.5413	1.27	4.0	20248474
+S0061	HF;CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;beta_blockers;statin;asa						20656941
+S0062	IGT;MS	52	male	30.389631544	FRA	no	no	antilipid;antihta;thiazidique;at2_inhib;statin;PPI	5.8	168.608934	156.50319	0.1	4.0	20668367
+S0063	T2D	59	male	27.6795859109	FRA	no		antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin						22169003
+S0064	T2D	68	male	39.4775510204	FRA	no		antilipid;antihta;antidiab;thiazidique;at2_inhib;kspdiur;beta_blockers;ca2_cbl;metformin;statin						20406574
+S0065	MS	26	female	47.4013107758	DEU	no	yes	antihta;ace_inhib	5.15	144.2391	154.1118	10.2	6.0	23568596
+S0066	IGT;MS	45	male	38.195670425	FRA	no	yes	antilipid;antihta;ace_inhib;ezetimibe	6.4	154.64133	187.803828	6.98	4.0	20800335
+S0067	T2D	63	male	35.2079395085	DEU	no	no	antilipid;antihta;diuranse;ace_inhib;beta_blockers;statin;asa;xantoxinh						22521472
+S0068	MS	50	female	42.7201070791	DEU	no	yes	antihta;ace_inhib;beta_blockers;PPI	5.07	108.276	108.9411	7.35	4.0	22563617
+S0069	T2D	66	female	27.1787626413	DEU	no	no	antihta;antidiab;thiazidique;at2_inhib;su						23466479
+S0070	healthy	34	male	21.6157468905	DEU	no	no	no	5.2	128.3844	76.1702	0.63	3.0	21623279
+S0071	IGT;MS				DNK		yes	no	5.8	127.611	89.4557	1.54	3.0	25942540
+S0072	T2D	69	female	27.8000320461	DEU	no	no	antihta;antidiab;beta_blockers;metformin						20908649
+S0073	MS	51	female	48.2125975981	DEU	no	yes	antilipid;antihta;antidiab;diuranse;ace_inhib;beta_blockers;ctrblock;metformin;dppiv;statin						10656480
+S0074	T2D	49	male	36.5023750537	FRA	yes	no	antidiab;su;metformin						21069196
+S0075	MS	58	male	52.8796487603	DEU	no	yes	antihta;antidiab;diuranse;ace_inhib;bolus						21426742
+S0076	IGT;MS				DNK		yes	antihta;thiazidique;at2_inhib;PPI	6.1	162.41400000000004	128.42649999999998	8.13	2.0	20724295
+S0077	healthy	60	male	22.6776258192	FRA	no	no	no	5.5	188.562654	84.81463199999997	0.28300000000000003	4.0	20935145
+S0078	MS	65	female	42.505019437	DEU	no	yes	antihta;diuranse;amiodaron;asa	5.65	172.0815	104.5126	3.13	4.0	20018284
+S0079	T2D	67	male	28.2963137996	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;PPI						16374349
+S0080	IGT;MS	68	female	31.8549001677	FRA	no	no	antilipid;antihta;thiazidique;kspdiur;ca2_cbl;ezetimibe;PPI	5.9	129.69918	120.154062	0.6729999999999999	3.0	20425808
+S0081	HF;CAD	72	male	30.102118579499997	FRA	no	no	antilipid;antihta;antidiab;diuranse;ace_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv;statin;asa;clopidogrel;PPI						20327771
+S0082	IGT;MS				DNK		no	antilipid;statin;clopidogrel	6.2	77.34	48.7135	2.0	4.0	21998562
+S0083	IGT;MS	59	female	35.009343656999995	FRA	no	yes	no	6.1	97.773228	130.25104199999998	20.0	3.0	21063321
+S0084	IGT	61	female	19.6511894861	FRA	no	yes	no	5.8	174.59505	52.504296	2.71	4.0	20414000
+S0085	T2D	53	male	32.0730611532	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;metformin;statin						21401456
+S0086	IGT;MS	54	male	31.3543329946	FRA	no	yes	antilipid;antihta;at2_inhib;kspdiur;ca2_cbl;statin	5.8	95.777856	135.299532	0.7240000000000001	2.0	21662032
+S0087	T2D	70	male	27.3814242304	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;ctrblock;metformin;dppiv;insulin;bolus;statin;PPI						20879210
+S0088	IGT;MS	39	male	44.9443934292	DEU	no	no	no	6.41	204.1776	235.5962	13.2	4.0	21843431
+S0089	CAD;T2D	62	female	37.0047649218	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						20318357
+S0090	MS	62	female	48.192771084300006	DEU	yes	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;statin;PPI						20258756
+S0091	T2D	74	male	29.5847505669	DEU	no	no	antilipid;antihta;antidiab;beta_blockers;insulin;statin;xantoxinh						15042681
+S0092	T2D	67	male	42.2895064944	FRA	no	yes	antilipid;antihta;antidiab;at2_inhib;su;metformin;glp_1;insulin;statin						20387532
+S0093	T2D	26	female	54.0830449827	DEU	no	yes	antidiab;metformin;dppiv						10608590
+S0094	IGT;MS				DNK		yes	antihta;thiazidique	5.8	143.079	86.7986	4.65	3.0	20147622
+S0095	healthy	66	male	23.8974822647	FRA	no	no	no	5.5	160.62744600000005	69.66916199999999	1.08	4.0	20267298
+S0096	MS				DNK		yes	no	5.2	123.744	51.3706	0.35100000000000003	4.0	28116045
+S0097	HF;CAD	70	male	28.864426835	FRA	no	no	antilipid;antihta;antidiab;diuranse;ace_inhib;kspdiur;beta_blockers;dppiv;statin;cumarine;PPI						10517242
+S0098	T2D				DNK		yes	PPI						20415514
+S0099	T2D	68	male	33.2235010633	FRA	yes	no	antihta;antidiab;ace_inhib;metformin;insulin;bolus;clopidogrel						20508072
+S0100	CAD;T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;antithombo;asa;nitrate						21177105
+S0101	IGT	64	female	22.8840046713	FRA	no	no	no	5.7	202.530258	102.989196	241.0	4.0	21219536
+S0102	IGT;MS	72	female	35.5323005369	DEU	no	no	antihta;beta_blockers;cumarine;PPI	5.87	189.48300000000003	133.7407	8.31	6.0	22113567
+S0103	healthy				DNK		no	no	5.5	201.084	138.1692	0.8640000000000001	4.0	21253878
+S0104	IGT;MS	50	female	45.2344236128	FRA	no	no	antilipid;antihta;thiazidique;ace_inhib;statin	6.2	72.831078	45.436409999999995	6.03		20549483
+S0105	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa						21876899
+S0106	IGT;MS	70	female	30.1352757544	FRA	no	yes	antilipid;statin;asa	6.3	119.72232	161.55168	2.93	4.0	20477303
+S0107	healthy	50	female	24.2239967924	DEU	yes	yes	no	5.4	110.5962	76.1702	2.68	3.0	22330209
+S0108	IGT	64	male	23.242630385500004	FRA	no	no	no	6.1	98.770914	74.717652	1.94	4.0	22186538
+S0109	MS				DNK		no	no	5.2	100.542	236.4819	5.02	4.0	21704616
+S0110	CAD;T2D	61	male	31.9598878157	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;antithombo;asa						19395384
+S0111	MS	63	male	45.543494036800006	DEU	no	yes	antilipid;antihta;antidiab;diuranse;at2_inhib;beta_blockers;ca2_cbl;insulin;statin;asa;xantoxinh						24424663
+S0112	T2D	52	female	34.6484375	FRA	no	no	antilipid;antidiab;metformin;statin						20488328
+S0113	T2D	71	male	29.9663212905	FRA	yes		antilipid;antihta;antidiab;at2_inhib;su;statin;asa						20611822
+S0114	MS	42	female	56.9191447929	DEU	no	yes	antihta;antidiab;diuranse;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;insulin;bolus						23252674
+S0115	T2D				DNK		no	no						24606799
+S0116	CAD	68	male	31.2261530478	FRA	no		antilipid;antihta;antidiab;beta_blockers;su;metformin;glp_1;statin;asa						20359280
+S0117	IGT;MS	63	female	47.8509815586	DEU	no	yes	antihta;ace_inhib;asa;PPI	5.72	118.7169	132.855	17.1	3.0	20882058
+S0118	healthy	59	male	25.4693877551	DEU	no	yes	antihta;beta_blockers;PPI	5.55	151.1997	97.427	1.35	4.0	20831879
+S0119	MS	29	female	41.4568158169	FRA	yes	no	no	5.5	104.75703	83.804934	21.7	3.0	21174916
+S0120	CAD	60	female	41.6662572105	FRA	yes	no	antilipid;antihta;ace_inhib;beta_blockers;statin;ezetimibe;asa;cumarine;PPI						18198567
+S0121	CAD;T2D				DNK		yes	antilipid;antihta;diuranse;at2_inhib;statin;cumarine;PPI						21550892
+S0122	CAD;T2D	52	male	31.1505983735	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						19985199
+S0123	T2D	69	male	31.1655190664	DEU	no	yes	antilipid;antihta;antidiab;ca2_cbl;metformin;dppiv;statin;xantoxinh						20588292
+S0124	MS	50	female	55.2796026278	DEU	no	yes	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;sglt2						22755129
+S0125	healthy				DNK		yes	no	5.6	162.41400000000004	47.8278	0.96	4.0	24715044
+S0126	T2D	51	female	48.5768281688	DEU	yes	no	antihta;antidiab;ace_inhib;ca2_cbl;metformin;dppiv;asa						22778786
+S0127	T2D	62	female	35.5306974719	FRA	yes	no	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin						23137066
+S0128	IGT;MS	54	female	73.2593473378	DEU	no	yes	antihta;diuranse;ace_inhib;PPI	6.16	144.2391	108.0554	11.9	4.0	22200534
+S0129	MS				DNK		yes	PPI;xantoxinh	5.1	143.079	129.3122	2.84	6.0	21771675
+S0130	T2D	56	male	33.0924036281	FRA	yes		antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;glp_1;statin						20272130
+S0131	healthy	53	female	22.3769605192	DEU	no	no	no	5.05	115.2366	55.7991	0.1	4.0	20288671
+S0132	MS	25	female	37.3007396859	FRA	no	no	no	5.2	151.64827200000005	197.900808	8.93	3.0	21547307
+S0133	T2D	63	female	42.2892963606	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;kspdiur;beta_blockers;glp_1;statin						21438825
+S0134	CAD				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						20231643
+S0135	IGT;MS	39	female	44.7539210384	FRA	no		no	5.9	112.738518	113.08617599999998	10.9	4.0	20409240
+S0136	HF;CAD				DNK		yes	antilipid;antihta;antidiab;diuranse;at2_inhib;kspdiur;beta_blockers;metformin;dppiv;statin;clopidogrel;cumarine						20340621
+S0137	CAD;T2D	31	male	55.5555555556	FRA	yes		no						20523042
+S0138	HF;CAD;T2D				DNK		yes	antilipid;antihta;diuranse;kspdiur;beta_blockers;statin;ezetimibe;amiodaron;asa;clopidogrel;digitalis;nitrate;PPI						20610255
+S0139	MS				DNK		no	no	5.5	177.882	96.5413	2.18	3.0	22340609
+S0140	IGT				DNK		no	no	5.8	108.276	44.285	1.75	3.0	20561851
+S0141	IGT	70	male	20.591986396	FRA	no	no	no	5.8	109.74546	88.853424	0.4920000000000001	4.0	21467413
+S0142	IGT;MS	42	female	39.8518575672	FRA	no		no	5.9	115.731576	60.58188000000001		3.0	21413355
+S0143	T2D	68	male	27.6437452721	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;metformin;statin						20971921
+S0144	IGT;MS	64	female	42.4004761738	FRA	no	yes	antilipid;antihta;at2_inhib;statin	6.2	181.578852	80.77584	7.19	5.0	21648464
+S0145	T2D	71	male	33.3910034602	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;su;metformin;dppiv;insulin;fibrate						21110993
+S0146	MS	52	female	41.076055479299995	DEU	no	yes	antihta;ace_inhib;beta_blockers	5.14	89.7144	139.9406	4.98	3.0	22046303
+S0147	MS	71	female	21.836127636599997	DEU	no	yes	antihta;at2_inhib	5.43	203.7909	155.8832	906.0	5.0	20222818
+S0148	T2D	64	female	28.1154729196	DEU	no	no	antilipid;antihta;antidiab;at2_inhib;metformin;dppiv;statin						15869272
+S0149	IGT	38	female	21.083026779	FRA	no		no	5.7	139.67604	101.979498	4.61	4.0	22897745
+S0150	healthy	45	male	19.3962407279	FRA	no	yes	no	5.4	125.708436	69.66916199999999	0.35600000000000004	5.0	20754782
+S0151	HF;CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;ca2_cbl;statin;asa;nitrate;PPI						20208139
+S0152	T2D	66	male	36.3034072472	DEU	no	yes	antihta;antidiab;diuranse;ace_inhib;beta_blockers;ca2_cbl;ctrblock;metformin;dppiv;asa						20778104
+S0153	T2D	45	male	40.871768261	FRA	yes	no	antilipid;antihta;antidiab;beta_blockers;glp_1;insulin;bolus;statin						20454543
+S0154	CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;statin;antithombo;asa						22566503
+S0155	CAD				DNK		yes	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;statin;antithombo;asa;PPI						22186620
+S0156	MS	22	male	37.5187882992	DEU	yes	yes	PPI	5.12	156.6135	435.7644	3.25	6.0	21703034
+S0157	MS	40	male	33.1674958541	FRA	no	yes	no	5.2	94.78017	279.686346	1.99	4.0	20541768
+S0158	HF;CAD;T2D				DNK		yes	antilipid;antihta;diuranse;ace_inhib;beta_blockers;statin;antithombo						20574910
+S0159	CAD;T2D	53	male	21.3068181818	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;cumarine;PPI						19206824
+S0160	CAD;T2D	54	male	29.8664537669	FRA	no	no	antilipid;antihta;at2_inhib;kspdiur;beta_blockers;ca2_cbl;statin;asa;clopidogrel						14282737
+S0161	T2D	40	female	31.8350620042	FRA	no	yes	antidiab;metformin						20348597
+S0162	IGT;MS	67	female	30.9774755615	FRA	no		antilipid;antihta;thiazidique;at2_inhib;ca2_cbl;statin;PPI	6.1	165.615876	306.94819199999995	2.67	2.0	20237068
+S0163	HF;CAD;T2D				DNK		no	antihta;diuranse;at2_inhib;kspdiur;beta_blockers;cumarine						20078164
+S0164	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;asa;PPI						17430077
+S0165	CAD;T2D	67	male	24.2813894697	FRA	yes	no	antilipid;antihta;ace_inhib;beta_blockers;statin;clopidogrel						21572354
+S0166	IGT;MS				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;digitalis	5.7	77.34	83.2558	3.54	4.0	20476106
+S0167	T2D				DNK		yes	antihta;diuranse;beta_blockers;cumarine;digitalis						28374899
+S0168	T2D	67	female	30.551508845	FRA	no	no	antidiab;metformin;dppiv;insulin;bolus;PPI;redriceomega						21989883
+S0169	IGT;MS	27	female	38.5609418146	FRA	no	yes	cumarine;PPI	5.9	82.80793800000002	75.72734999999999	15.7	3.0	22055498
+S0170	T2D	73	male	28.3562901745	FRA	no	yes	antihta;antidiab;at2_inhib;beta_blockers;metformin						20566372
+S0171	T2D	64	female	33.1869917215	FRA	no		antilipid;antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;metformin;insulin;bolus;statin;clopidogrel						16566199
+S0172	T2D	66	female	38.9135437212	DEU	no	yes	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;glp_1;PPI						21623439
+S0173	IGT;MS	51	male	33.6511391743	FRA	yes	yes	antilipid;antihta;thiazidique;at2_inhib;ezetimibe	6.0	124.71075	140.348022	9.22	4.0	20319371
+S0174	HF;CAD				DNK		no	antihta;antidiab;at2_inhib;kspdiur;beta_blockers;metformin;dppiv;insulin;asa;clopidogrel;PPI						20939284
+S0175	MS	48	female	45.586676242299994	DEU	no	no	antihta;thiazidique;at2_inhib;beta_blockers	5.48	146.1726	120.4552	6.33	6.0	22384404
+S0176	MS	58	female	46.529435611	FRA	no	no	no	5.4	171.601992	54.523692	4.8	4.0	20360252
+S0177	T2D	66	male	32.0105462412	DEU	no	no	antihta;antidiab;at2_inhib;metformin;dppiv						21343764
+S0178	MS	30	female	37.5371320551	FRA	no	yes	no	5.4	130.696866	61.59157800000001	22.2	4.0	20318688
+S0179	T2D	66	male	37.6625273923	DEU	no	no	antihta;antidiab;thiazidique;beta_blockers;ctrblock;metformin;antithombo						20742529
+S0180	IGT;MS	58	male	30.1740166504	FRA	yes	yes	antilipid;statin	6.2	32.923638000000004	295.841514	2.0	4.0	20432861
+S0181	healthy				DNK		no	antilipid;statin	5.5	119.877	97.427	343.0	4.0	23710795
+S0182	T2D	58	female	31.202491690100004	FRA	no	no	antilipid;antihta;thiazidique;at2_inhib;statin;PPI						20070242
+S0183	T2D	73	female	34.119031198	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;insulin;statin;asa;PPI						20039446
+S0184	healthy	34	female	23.9512265931	DEU	yes	no	antihta;beta_blockers	5.44	88.55430000000001	69.0846	0.7559999999999999	4.0	22769494
+S0185	CAD;T2D	74	male	27.769797950799997	FRA	no	no	antihta;ca2_cbl						19548768
+S0186	healthy				DNK		yes	no	5.4	100.542	53.142	569.0	4.0	20201705
+S0187	MS				DNK		yes	antilipid;antihta;thiazidique;at2_inhib;statin	5.4	92.808	136.3978	1.0	4.0	21014342
+S0188	T2D	63	male	34.5987654321	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;insulin;bolus;sglt2						21465352
+S0189	T2D	52	female	23.0204047591	FRA	no	yes	antidiab;insulin;bolus						20435724
+S0190	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						19822696
+S0191	T2D	54	male	34.6957510495	FRA	no	yes	antilipid;antidiab;metformin;glp_1;insulin;bolus;statin;asa						20518573
+S0192	MS	43	male	55.987654321	DEU	yes	yes	no	5.59	122.9706	131.0836	2.68	6.0	20899645
+S0193	T2D	73	female	36.536294078000005	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;insulin;bolus;statin						8791882
+S0194	IGT;MS	61	female	49.2578125	DEU	no	yes	antilipid;antihta;diuranse;thiazidique;at2_inhib;beta_blockers;ca2_cbl;statin;PPI	5.98	215.7786	289.6239	37.9	5.0	20818354
+S0195	MS	67	female	42.2953818016	FRA	no	no	antilipid;fibrate;PPI	5.5	135.685296	144.386814	12.2	4.0	20160634
+S0196	IGT;MS	26	female	42.9221603288	FRA	no	yes	no	5.7	122.715378	129.241344	10.1	4.0	25438259
+S0197	MS	43	female	34.0844671202	DEU	no	no	no	4.96	106.7292	103.6269	2.69	4.0	20975867
+S0198	MS	40	male	41.1812712901	FRA	no		no	5.6	98.770914	85.82432999999997	8.28	4.0	21251591
+S0199	healthy	60	female	22.0025510204	DEU	no	no	antilipid;statin	5.41	129.9312	111.5982	0.1	4.0	19991543
+S0200	T2D	71	male	33.7122176602	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;su;statin						21315793
+S0201	T2D	70	female	46.3622836557	FRA	no	no	antidiab;metformin						20497245
+S0202	healthy	74	male	20.281233099	DEU	no	yes	no	5.54	111.7563	51.3706	366.0	4.0	20108016
+S0203	T2D	58	male	28.3605349156	FRA	no	yes	antihta;antidiab;ca2_cbl;su;metformin						20267380
+S0204	IGT;MS	52	female	56.6415638519	DEU	no	yes	antihta;at2_inhib;beta_blockers;PPI	6.22	92.808	73.5131	16.6	6.0	20328808
+S0205	CAD;T2D	63	male	21.9031443629	FRA	no	no	antilipid;antihta;diuranse;thiazidique;ace_inhib;beta_blockers;statin;asa						26272204
+S0206	MS	43	female	50.5859375	DEU	no	no	antihta;thiazidique;at2_inhib;beta_blockers	5.26	126.0642	162.9688	25.5	6.0	21958064
+S0207	MS	58	female	42.4474030243	DEU	no	no	antihta;thiazidique;at2_inhib	5.15	136.89180000000002	95.6556	17.0	5.0	21801688
+S0208	T2D	46	female	41.3066083402	FRA	no	no	antidiab;metformin;dppiv;insulin;bolus						20103532
+S0209	IGT;MS	38	female	44.8320354753	FRA	yes		no	6.0	194.54877	151.45469999999997		4.0	21489154
+S0210	IGT;MS	36	female	43.712915036000005	DEU	yes	yes	no	5.83	108.6627	131.0836	10.6	5.0	22834356
+S0211	MS	18	female	38.115385994499995	DEU	no	yes	antihta;ace_inhib;beta_blockers	5.4	93.5814	146.14049999999995	24.5	2.0	21501414
+S0212	T2D	29	male	39.6160086533	FRA	no	no	antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;metformin						20558528
+S0213	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;asa						20659538
+S0214	T2D	60	male	25.9973257066	FRA	no	no	antilipid;antidiab;metformin;dppiv;statin						20235744
+S0215	T2D				DNK		no	antilipid;antihta;antidiab;ace_inhib;kspdiur;beta_blockers;ca2_cbl;metformin;insulin;statin;digitalis						21953252
+S0216	T2D	57	male	34.5195669387	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv;statin;cumarine						20924244
+S0217	IGT;MS	54	female	39.7758142873	FRA	no	yes	antihta;ace_inhib	6.3	211.509432	88.853424	6.29	5.0	20269961
+S0218	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate						20464211
+S0219	healthy	36	female	20.06179579	FRA	no	yes	no	5.3	133.689924	74.717652	698.0	3.0	20732147
+S0220	IGT;MS	46	female	46.2109571087	FRA	no	no	no	5.9	119.72232	108.037686	13.8	4.0	20073174
+S0221	T2D				DNK		no	antilipid;antihta;antidiab;thiazidique;beta_blockers;metformin;dppiv;statin						20415825
+S0222	T2D	53	male	29.6592615774	FRA	no	no	antidiab;su;metformin;dppiv;insulin						21452902
+S0223	HF;CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						21252841
+S0224	IGT;MS	51	female	40.115122214	FRA	no	no	antilipid;antihta;beta_blockers;statin	6.1	171.601992	93.901914	3.05	5.0	21025395
+S0225	IGT				DNK		no	no	5.7	96.675	84.1415	821.0	6.0	20774667
+S0226	MS	65	male	45.95679012350001	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;insulin;bolus;statin;PPI;xantoxinh						21097917
+S0227	CAD;T2D	58	male	24.7842600308	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						16245904
+S0228	MS				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;ca2_cbl;statin;asa	5.0	81.20700000000002	43.3993	8.32	3.0	20926288
+S0229	T2D	71	female	27.5877453896	DEU	no	yes	antihta;antidiab;beta_blockers;ca2_cbl;metformin;dppiv;insulin;sglt2						20714423
+S0230	MS				DNK		yes	PPI	5.6	181.749	92.9985	3.27	3.0	20500045
+S0231	CAD;T2D	68	male	25.1261318454	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;asa						20009741
+S0232	HF;CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;asa						25234952
+S0233	T2D	66	female	37.342841058400005	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;fibrate;asa						17848745
+S0234	T2D	53	female	35.8878127298	FRA	no	yes	antidiab;su;dppiv;insulin						26776065
+S0235	MS	28	female	48.5402494331	DEU	no	yes	no	5.32	143.079	207.2538	13.1	4.0	21402653
+S0236	T2D	70	male	30.3114186851	DEU	no	no	antidiab;insulin;bolus						14332410
+S0237	IGT;MS	44	female	39.0131799325	FRA	no	yes	no	5.7	121.717692	137.318928	2.94	7.0	20145850
+S0238	IGT;MS	54	male	36.3980875581	FRA	no		no	5.9	124.71075	131.26074	11.9	3.0	20222667
+S0239	IGT;MS	56	female	43.044982698999995	DEU	no	yes	antihta;diuranse;beta_blockers;PPI	6.02	154.29330000000004	135.5121	15.0	4.0	20191194
+S0240	MS	35	female	38.6862012832	DEU	yes	yes	antihta;at2_inhib;ca2_cbl;PPI	5.46	147.7194	95.6556	2.67	6.0	20367170
+S0241	MS	35	male	44.1666666667	DEU	yes	yes	no	5.68	136.5051	108.9411	4.46	5.0	20726580
+S0242	CAD;T2D	61	male	26.7251933471	FRA	no	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;ezetimibe;asa;clopidogrel;PPI						20861502
+S0243	CAD;T2D	36	male	30.6689460838	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;cumarine;heparine;PPI						20666563
+S0244	IGT;MS	56	male	28.6369809931	FRA	no	yes	antihta;at2_inhib	6.0	178.585794	290.79302399999995	1.49	4.0	53885331
+S0245	CAD	63	male	22.8748810525	FRA	no		antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;statin;asa;PPI						12023501
+S0246	healthy	50	female	22.7918367347	FRA	yes		no	5.3	95.777856	72.69825599999999			20370646
+S0247	T2D	63	male	29.119318181799997	DEU	no	no	antilipid;antihta;antidiab;ca2_cbl;metformin;dppiv;statin;ezetimibe;xantoxinh						21306882
+S0248	T2D	62	male	26.6597647138	FRA	no	yes	antilipid;antihta;at2_inhib;ca2_cbl;statin						21359151
+S0249	CAD;T2D	65	male	23.661438615500003	FRA	no	no	antihta;at2_inhib;PPI						21159480
+S0250	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;ezetimibe;asa						18752024
+S0251	healthy	63	male	23.4908579793	FRA	no	yes	no	5.6	85.800996	43.417014	513.0	3.0	20607099
+S0252	T2D	47	female	38.5663265931	FRA	no	no	antihta;antidiab;ace_inhib;metformin;dppiv;insulin;bolus						21904328
+S0253	T2D	66	female	27.8851873885	DEU	no	yes	antihta;antidiab;beta_blockers;metformin;dppiv						15926186
+S0254	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;ca2_cbl;statin;asa						20989247
+S0255	T2D	42	male	38.2210546069	FRA	yes	yes	antidiab;su;metformin						21377095
+S0256	MS				DNK		yes	no	5.4	116.01	218.7679	228.0	4.0	20660407
+S0257	T2D	49	female	27.1044021416	DEU	no	yes	antihta;antidiab;ace_inhib;ca2_cbl;metformin;dppiv						20124466
+S0258	healthy	32	female	18.6273243802	DEU	no	no	no	5.39	72.31290000000001	38.0851	4.4	3.0	20818230
+S0259	T2D	74	male	29.8257795733	DEU	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;metformin;dppiv;statin;ezetimibe;asa						20991151
+S0260	MS	40	female	58.9097642838	DEU	no	no	antihta;thiazidique;at2_inhib;beta_blockers	5.58	85.84740000000002	99.1984	23.1	7.0	21136330
+S0261	MS				DNK		no	cumarine	5.6	143.079	79.71300000000002	22.4	2.0	25276284
+S0262	MS	58	female	45.582986317700005	DEU	no	yes	antihta;diuranse;ace_inhib;beta_blockers;PPI;xantoxinh	5.01	71.1528	174.48289999999997	18.0	4.0	20746186
+S0263	HF;CAD;T2D				DNK		no	antihta;beta_blockers						20724229
+S0264	HF;CAD	60	male		FRA		no	antihta;diuranse;at2_inhib;kspdiur;beta_blockers;PPI						20649252
+S0265	HF;CAD;T2D	59	male	29.7223141681	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;amiodaron;asa;clopidogrel;nitrate						21363024
+S0266	IGT;MS	52	female	38.7136107301	DEU	no	no	antihta;at2_inhib;ca2_cbl	5.86	180.5889	199.2825	23.4	3.0	21458177
+S0267	IGT;MS	55	female	45.061491795600006	FRA	no		no	6.2	161.625132	185.784432	22.4	3.0	23556710
+S0268	MS	63	female	39.3525092296	FRA	no	yes	antihta;thiazidique;at2_inhib	5.4	122.715378	113.08617599999998	12.6	1.0	20186452
+S0269	IGT;MS	56	female	49.0486926941	FRA	no	no	no	5.8	94.78017	146.40621000000004	4.01	4.0	39769684
+S0270	T2D				DNK		no	antilipid;antidiab;metformin;dppiv;statin						20860179
+S0271	T2D	51	male	38.4395857843	FRA	no	no	antidiab;metformin;PPI						20535174
+S0272	IGT;MS	43	male	54.5727829807	DEU	no	yes	antihta;ace_inhib	5.81	134.18490000000003	139.9406	34.5	4.0	20914946
+S0273	healthy	42	male	23.5260770975	FRA	no		no	5.3	139.67604	35.33943		4.0	20311636
+S0274	IGT;MS	51	male	39.288481405	FRA	no	yes	antihta;at2_inhib;kspdiur;ca2_cbl	5.9	172.599678	144.386814	5.58	3.0	20844657
+S0275	T2D	69	male	26.7082899757	DEU	no	no	antihta;thiazidique;at2_inhib;beta_blockers;ca2_cbl;antithombo						21717500
+S0276	healthy				DNK		no	no	5.6	146.946	80.5987	4.74	4.0	41173052
+S0277	T2D	59	male	43.8031663516	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;insulin;bolus;statin						21209164
+S0278	IGT;MS	46	female	40.7612456747	DEU	no	yes	no	5.72	104.0223	107.1697	2.02	3.0	23654045
+S0279	healthy	45	male	24.701438835500003	FRA	no	no	no	4.8	136.682982	69.66916199999999	7.71	4.0	20857801
+S0280	CAD	53	male	26.0106923409	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;statin;ezetimibe;asa;PPI						20414123
+S0281	healthy	33	male	24.8651409237	DEU	no	no	no	5.27	114.84990000000002	131.0836	5.72	3.0	21141833
+S0282	CAD;T2D	59	male	19.9115337484	FRA	no	no	antilipid;antihta;ace_inhib;statin;asa;clopidogrel;cumarine;PPI						21006559
+S0283	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa;PPI						20584464
+S0284	CAD	67	male	20.0183654729	FRA		no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;su;statin;antithombo;asa;PPI						20647388
+S0285	T2D	67	female	36.4069690993	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;metformin;dppiv;statin						20699503
+S0286	T2D	70	female	36.3916105821	DEU	yes	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ace_inhib;ca2_cbl;metformin;dppiv;bolus;statin;xantoxinh						20203535
+S0287	healthy				DNK		no	no	5.5	220.419	131.96929999999998	0.7140000000000001	4.0	28923901
+S0288	CAD	64	female	33.1321540062	FRA	no	no	antilipid;antihta;antidiab;diuranse;thiazidique;at2_inhib;beta_blockers;ctrblock;antagrenine;metformin;insulin;bolus;statin;asa;clopidogrel						21044753
+S0289	MS	23	male	39.9777293015	FRA	no	no	no	5.6	94.78017	140.348022	2.8	4.0	20261418
+S0290	T2D	66	male	30.993035396999996	FRA	no	no	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;su;metformin;asa						20041216
+S0291	CAD;T2D	60	female	32.8613736866	FRA	no		antilipid;antihta;ace_inhib;beta_blockers;statin;asa;PPI						20491359
+S0292	T2D	71	male	28.935146334	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;insulin;statin						15643423
+S0293	IGT;MS	60	female	42.1774655345	FRA	no	yes	no	6.2	178.585794	148.42560600000004	6.9	4.0	21153627
+S0294	CAD;T2D	59	male	23.8086901719	FRA	no	no	antilipid;antihta;at2_inhib;statin;ezetimibe;asa						17562650
+S0295	CAD;T2D				DNK		no	antilipid;statin;asa						23950401
+S0296	T2D	52	male	25.6203529517	DEU	no	no	antidiab;metformin;dppiv						19980255
+S0297	T2D	47	female	37.2084481175	FRA	no	no	antidiab;su;metformin;dppiv						20212865
+S0298	CAD	62	male	27.6816608997	FRA	no	no	antidiab;su;metformin;dppiv;insulin						20034822
+S0299	T2D	52	male	27.8635374653	FRA	no	no	antidiab;metformin;glp_1						20143791
+S0300	IGT;MS	25	female	40.6262386048	FRA	no	no	no	5.8	102.761658	94.911612	6.21	3.0	19290056
+S0301	IGT;MS	48	male	35.8705025138	FRA	no	no	no	5.7	121.717692	92.892216	3.23	3.0	20965108
+S0302	T2D	57	male	32.3461467246	FRA	no	no	antidiab;metformin						21746138
+S0303	MS	45	male	56.683251426999995	DEU	no	no	antihta;antidiab;diuranse;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;xantoxinh						20639883
+S0304	T2D	67	male	28.262357335900003	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;dppiv;statin;xantoxinh						21607615
+S0305	CAD	62	male	32.7787067747	FRA	no		antilipid;statin;asa						18205784
+S0306	HF;CAD;T2D				DNK		yes	antihta;diuranse;at2_inhib;kspdiur;beta_blockers;amiodaron;cumarine						26622639
+S0307	MS	26	female	42.8218899695	DEU	no	yes	no	5.18	129.1578	166.5116	21.2	2.0	20195587
+S0308	IGT;MS	45	male	25.4876224779	DEU	yes	yes	no	5.72	111.3696	147.0262	1.16	3.0	20501495
+S0309	IGT;MS	57	male	41.5740740741	DEU	no	yes	antihta;thiazidique;at2_inhib;ca2_cbl;PPI	5.89	115.6233	129.3122	8.09	6.0	20397299
+S0310	T2D	61	male	30.4612969448	FRA	no		antilipid;antidiab;insulin;bolus;statin;ezetimibe						20756581
+S0311	T2D	68	male	34.8943985308	FRA	no	no	antihta;antidiab;at2_inhib;metformin						19792327
+S0312	T2D	57	male	27.7196703293	FRA	no	no	antidiab;su;metformin;dppiv;insulin						21367137
+S0313	MS	23	male	41.1706349206	DEU	no	no	antihta;thiazidique;ace_inhib;ca2_cbl;ctrblock	5.13	113.6898	63.7704	2.95	4.0	20603142
+S0314	T2D	56	male	57.6963138353	FRA	no	yes	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;metformin;asa;PPI						20888463
+S0315	T2D	60	male	30.0162249865	FRA	no	yes	antilipid;antidiab;su;statin;asa						20692694
+S0316	healthy	31	female	20.5498866213	DEU	no	yes	no	4.75	97.8351	51.3706	243.0	4.0	20049949
+S0317	CAD;T2D	61	male		FRA	yes	no	no						24234379
+S0318	MS	64	female	40.1101928375	DEU	no	yes	antihta;beta_blockers;cumarine	5.61	132.2514	136.3978	5.98	4.0	20352038
+S0319	IGT;MS	31	male	57.79404615520001	DEU	no	yes	antihta;thiazidique;at2_inhib;beta_blockers;ca2_cbl;PPI	5.7	149.65290000000005	187.7684	11.1	3.0	22296456
+S0320	T2D	60	male	27.3819454597	DEU	yes	no	antihta;antidiab;beta_blockers;metformin;glp_1;dppiv						22656645
+S0321	CAD				DNK		no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;dppiv;statin;asa						21312236
+S0322	T2D	68	female	29.3252060619	DEU	no	yes	no						22956475
+S0323	CAD;T2D				DNK		yes	antilipid;antihta;diuranse;at2_inhib;ca2_cbl;statin;antithombo;asa						20395708
+S0324	HF;CAD;T2D	69	male	26.1224489796	FRA	no	no	antihta;diuranse;ace_inhib;beta_blockers;antithombo;asa						20454619
+S0325	IGT	62	male	24.2030908243	FRA	no	no	no	5.7	103.759344	231.220842	2.69	2.0	22411475
+S0326	CAD;T2D				DNK		yes	antilipid;antihta;ca2_cbl;statin;asa						15505246
+S0327	MS	45	female	33.368049991999996	FRA	no	yes	antilipid;antihta;at2_inhib;ca2_cbl;statin	5.3	99.7686	51.494598	1.08	4.0	20066697
+S0328	T2D	71	female	32.1484375	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;ctrblock;metformin;dppiv;statin						21139026
+S0329	T2D	65	female	48.5528247205	DEU	no	yes	antihta;antidiab;ace_inhib;beta_blockers;metformin;glp_1;dppiv						17280302
+S0330	T2D	65	male	31.1746565012	FRA	no	no	antilipid;antihta;thiazidique;ace_inhib;kspdiur;ezetimibe;PPI;xantoxinh						20721137
+S0331	healthy				DNK		yes	no	5.6	85.07400000000001	51.3706	1.51	4.0	20072788
+S0332	T2D	57	female	42.9825297635	DEU	yes	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;statin						18120396
+S0333	T2D	74	male	29.744199881	FRA	no	yes	antilipid;antidiab;metformin;fibrate						14096199
+S0334	IGT;MS	58	male	26.1686187612	FRA	yes	no	antilipid;statin	6.0	128.701494	213.04627799999997	1.88		21305344
+S0335	HF;CAD				DNK		yes	antihta;antidiab;diuranse;kspdiur;beta_blockers;su						19497751
+S0336	HF;CAD				DNK		no	antilipid;antihta;diuranse;ace_inhib;kspdiur;beta_blockers;statin;asa						20485083
+S0337	healthy				DNK		yes	no	4.8	100.542	75.2845	1.93	4.0	20896850
+S0338	MS	24	female	46.7152286174	DEU	yes	yes	no	5.63	138.8253	154.9975	21.6	5.0	20517150
+S0339	HF;CAD;T2D	26	female	16.6132668803	FRA	no		antihta;ace_inhib;kspdiur;beta_blockers;asa;cumarine;PPI						6468482
+S0340	IGT;MS	55	female	33.9775031523	FRA	no	no	antihta;thiazidique;at2_inhib	6.3	114.73389	100.96979999999998	959.0	1.0	20321395
+S0341	HF;CAD;T2D	72	male	23.6559858331	FRA	yes	yes	antilipid;antihta;diuranse;ace_inhib;kspdiur;beta_blockers;statin;amiodaron;asa;cumarine						20452554
+S0342	healthy	51	female	25.088297775300003	DEU	no	no	no	4.6	157.38690000000005	93.8842	6.44	4.0	20545852
+S0343	CAD;T2D	66	male	35.133184876	FRA	no	yes	antilipid;antihta;thiazidique;ace_inhib;kspdiur;beta_blockers;statin;clopidogrel;PPI						21182231
+S0344	healthy	26	female	21.6649731456	DEU	yes	no	no	5.54	61.09860000000001	74.3988	1.19	4.0	20308700
+S0345	T2D	62	male	24.3523852952	FRA	no	no	antihta;antidiab;ace_inhib;su;metformin;asa						20783865
+S0346	T2D	68	male	35.289115646300004	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;insulin;bolus						7021422
+S0347	T2D	62	female	40.1838421319	DEU	no	no	antilipid;antihta;ace_inhib;beta_blockers;ca2_cbl;statin;PPI						21058080
+S0348	IGT	52	male	21.9519529553	FRA	yes		no	5.8	23.944464	29.281242		3.0	21502236
+S0349	HF;CAD;T2D	45	male	30.5821890593	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;cumarine;other_antiarythmic;PPI						20643053
+S0350	T2D	71	male	31.3856336806	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;metformin;dppiv;insulin;bolus;statin;cumarine						24315820
+S0351	healthy	49	male	24.698918877199997	FRA	no	no	no	5.3	121.717692	55.53339	3.7	4.0	20159090
+S0352	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa						20592084
+S0353	MS	37	male	51.6053524089	DEU	no	yes	antilipid;antihta;antidiab;ace_inhib;metformin;dppiv;statin						20650209
+S0354	MS	56	female	52.0703125	DEU	no	yes	antihta;at2_inhib;PPI	5.57		189.5398	23.8	4.0	41235591
+S0355	healthy	76	male	21.4904450175	DEU	no	yes	antihta;at2_inhib	5.38	156.6135	77.0559	1.36	4.0	20149057
+S0356	MS	34	female	47.4196213942	DEU	no	yes	antihta;ace_inhib	5.48	69.60600000000001	88.57	7.54	4.0	23104873
+S0357	healthy				DNK		no	antihta;at2_inhib	5.0	119.877	47.8278	2.63	2.0	20965257
+S0358	MS	54	female	38.2212968471	DEU	no	yes	no	5.35	134.9583	66.4275	10.5	4.0	20389782
+S0359	MS				DNK		no	antilipid;antihta;ca2_cbl;statin	5.4	77.34	133.7407	1.61	4.0	22819677
+S0360	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						26186664
+S0361	healthy				DNK		no	no	5.6	108.276	46.0564	1.03	3.0	20835981
+S0362	IGT;MS	49	female	36.695288137	DEU	no	yes	antihta;ace_inhib	5.89	123.744	77.0559	9.65	6.0	21679908
+S0363	T2D	58	male	29.5414390458	FRA	no	yes	antidiab;su;metformin;dppiv						20792793
+S0364	IGT;MS	47	female	47.647384672799994	DEU	no	yes	antihta;diuranse;beta_blockers	5.81	135.345	180.6828	12.8	3.0	21345805
+S0365	MS	64	male	28.378216581599997	FRA	no	no	antilipid;statin	4.9	94.78017	575.5278599999998	473.0	4.0	20718873
+S0366	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa						21337802
+S0367	MS				DNK		no	no	5.3	112.143	64.6561	923.0	2.0	23741026
+S0368	MS	46	male	33.815498441399995	FRA	no	no	no	5.6	449.956386	752.22501	1.57	4.0	20370156
+S0369	IGT;MS				DNK		no	antilipid;antihta;thiazidique;at2_inhib;statin	5.8	85.07400000000001	84.1415	1.4	4.0	21093698
+S0370	MS	42	female	36.7337278107	FRA	no	no	antilipid;statin	5.5	105.754716	148.42560600000004	9.96	4.0	21379738
+S0371	MS	41	female	39.0234375	FRA	no	no	no	5.3	150.650586	73.707954	8.81	4.0	20559186
+S0372	MS	48	female	50.551604006400005	DEU	no	no	antihta;at2_inhib;PPI	5.58	89.7144	126.6551	15.4	1.0	20145662
+S0373	healthy	42	male	22.839506172800004	DEU	no	yes	no	5.47	190.2564	104.5126	246.0	4.0	21107036
+S0374	healthy	71	female	24.9770431589	DEU	no	yes	antihta;beta_blockers	5.33	171.6948	102.7412	2.77	3.0	20554015
+S0375	healthy	53	female	24.1632653061	DEU	yes	no	no	5.56	130.3179	148.7976	4.29	5.0	20488983
+S0376	CAD;T2D	66	male	26.765280694	FRA	no	yes	antilipid;antihta;ace_inhib;kspdiur;beta_blockers;statin;asa						20417863
+S0377	T2D	67	female	30.99648458630001	DEU	yes	no	antihta;antidiab;thiazidique;at2_inhib;kspdiur;beta_blockers;metformin;asa;PPI						20786214
+S0378	healthy	70	female	21.4109449848	FRA	no	yes	no		130.696866	57.552786	284.0	4.0	20673043
+S0379	IGT;MS	26	female	36.7820069204	FRA	no	no	no	5.8	139.67604	253.434198	6.35	4.0	20811669
+S0380	T2D	67	female	31.278422235100003	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;insulin;bolus						10200154
+S0381	HF;CAD	59	male	28.7319214876	FRA	yes	yes	antilipid;antihta;antidiab;ace_inhib;beta_blockers;insulin;bolus;statin;antithombo;PPI						20656193
+S0382	T2D	45	female	34.6473653946	FRA	yes		antilipid;antihta;antidiab;at2_inhib;beta_blockers;glp_1;bolus;fibrate;PPI						20822635
+S0383	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;asa;PPI						21108417
+S0384	CAD	56	female	25.5968594776	FRA	yes	no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						25102591
+S0385	IGT;MS	57	female	53.6339342843	DEU	no	yes	antilipid;antihta;diuranse;statin;asa	6.2	105.9558	131.96929999999998	19.7	6.0	21495317
+S0386	healthy	63	male	22.0379156162	FRA	no	yes	no	5.2	143.666784	62.60127599999999	7.24	4.0	20367728
+S0387	MS	25	female	39.7428833792	DEU	yes	yes	no	5.07	105.18240000000002	118.6838	6.28	4.0	20494715
+S0388	healthy	66	female	21.634527089099997	DEU	no	no	no	5.29	157.00019999999995	56.6848	1.34	3.0	22086064
+S0389	MS	24	female	37.9818594104	DEU	yes	yes	no	5.33	108.276	120.4552	4.4	3.0	20853843
+S0390	MS	25	female	47.4963667591	FRA	no	no	no	4.6	132.69223799999995	242.32752	4.85	4.0	25437836
+S0391	T2D	62	female	30.2642327603	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;insulin;bolus;statin						21252931
+S0392	IGT;MS	58	male	27.9195011338	FRA	no		antihta;at2_inhib;ca2_cbl	5.9	72.831078	162.561378	1.95	5.0	21989635
+S0393	CAD;T2D	60	female	34.3846450617	FRA	yes	yes	antilipid;antihta;diuranse;ace_inhib;beta_blockers;statin;antithombo;PPI						20191168
+S0394	IGT;MS	63	female	48.2563196139	FRA	no	yes	antihta;thiazidique;ca2_cbl;ctrblock;xantoxinh	6.1	182.576538	266.56027199999994	13.6	3.0	23312037
+S0395	MS				DNK		no	antihta;ace_inhib	5.3	92.808	58.4562	0.56	4.0	21064158
+S0396	IGT;MS	24	female	38.111506167399995	FRA	no	yes	PPI	5.8	98.770914	78.75644399999999	6.25	4.0	20068540
+S0397	MS	40	female	39.6283930904	FRA	yes	yes	no	5.5	147.657528	133.28013599999997	8.88	3.0	26772863
+S0398	T2D	59	female	36.7337278107	DEU	no	no	antihta;antidiab;at2_inhib;metformin;dppiv						14720316
+S0399	MS	56	male	61.0004526935	DEU	yes	no	antihta;antidiab;at2_inhib;metformin;dppiv;insulin;bolus;glitazone						20680361
+S0400	IGT;MS	54	female	34.7079376521	DEU	no	yes	PPI	6.25	186.0027	183.3399	3.27	4.0	20816902
+S0401	MS	26	female	38.4205693297	DEU	no	yes	no	5.46	104.0223	85.9129	17.2	4.0	20261658
+S0402	MS	53	female	51.8957756233	DEU	no	no	antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;metformin;dppiv;PPI						21416570
+S0403	IGT;MS	49	female	49.6513429752	DEU	yes	yes	PPI	5.9	140.3721	181.5685	5.49		20719619
+S0404	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;statin;asa;nitrate						20307633
+S0405	IGT;MS	41	female	65.9969437513	DEU	no	no	antihta;diuranse;ace_inhib	5.97	97.4484	173.5972	20.6	4.0	29174648
+S0406	CAD;T2D	70	male	26.712802768200003	FRA	no	no	antilipid;antihta;beta_blockers;statin;antithombo;asa;PPI						18633549
+S0407	T2D	60	female	36.8843471778	FRA	no	no	no						25044094
+S0408	MS	35	female	36.2283737024	DEU	yes	yes	no						16242243
+S0409	T2D	53	male	28.1531107682	FRA	no		antihta;antidiab;at2_inhib;su;metformin;glp_1;asa						20634332
+S0410	CAD;T2D	47	female	31.8434793726	FRA	no	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;ezetimibe;asa;clopidogrel;PPI						14767900
+S0411	T2D	63	female	24.3717321639	FRA	no	no	antidiab;metformin						22164764
+S0412	IGT;MS				DNK		yes	no	6.0	185.616	152.3404	3.29	4.0	34127336
+S0413	T2D	62	male	26.708586429	DEU	no	no	antidiab;metformin;dppiv						18748735
+S0414	T2D	75	male	26.139695965100003	FRA	no	no	antidiab;metformin						15449599
+S0415	T2D	63	female	32.3723721165	FRA	no		antilipid;antihta;antidiab;at2_inhib;metformin;glp_1;insulin;ezetimibe;asa						20804636
+S0416	T2D	74	male	34.6486685155	DEU	no	yes	antilipid;antidiab;metformin;dppiv;statin						24259026
+S0417	MS	47	male	42.6216918715	DEU	yes	yes	antihta;at2_inhib	5.31	159.7071	211.6823	1.32	4.0	20634327
+S0418	T2D	53	female	29.000594884	FRA	no	yes	antidiab;metformin						20739591
+S0419	healthy	42	female	22.1103617007	DEU	yes	no	no	5.12	112.143	67.3132	369.0	4.0	21042502
+S0420	CAD				DNK		yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;kspdiur;metformin;dppiv;statin;asa						21748301
+S0421	healthy				DNK		yes	no					4.0	22044845
+S0422	CAD;T2D	51	male		FRA	yes	no	no						19211134
+S0423	IGT;MS	33	female	52.0155067936	FRA	no	no	no	5.8	72.831078	73.707954	23.4	4.0	26452110
+S0424	T2D	63	male	22.9155317248	FRA	no	no	no						22651238
+S0425	MS	27	male	41.1750624124	DEU	yes	yes	no	5.43	81.5937	190.4255	1.42	4.0	22391454
+S0426	T2D	64	male	28.4944539031	FRA	no		antilipid;antihta;antidiab;at2_inhib;su;metformin;fibrate;asa;PPI						22288961
+S0427	MS	62	female	52.8471396486	DEU	no	yes	antihta;thiazidique;at2_inhib;ca2_cbl;PPI						15822787
+S0428	IGT;MS				DNK		yes	antihta;ace_inhib	5.7	92.808	45.1707	10.6	5.0	22487632
+S0429	MS				DNK		no	no	5.5	123.744	247.1103	0.8690000000000001	3.0	20481416
+S0430	T2D	62	female	29.3670992135	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;statin;PPI						20516828
+S0431	CAD				DNK		no	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;ezetimibe;asa						20182578
+S0432	T2D	40	female	26.249256395	FRA	no	no	antidiab;su;metformin;glp_1						20905469
+S0433	CAD;T2D				DNK		yes	antilipid;statin;asa;PPI						21380611
+S0434	HF;CAD				DNK		no	antilipid;antihta;antidiab;ace_inhib;kspdiur;beta_blockers;metformin;dppiv;statin;asa						21681818
+S0435	CAD;T2D	58	male	28.5151863193	FRA	yes	no	antilipid;antihta;beta_blockers;statin;asa;PPI						10340427
+S0436	T2D	69	female	33.5370629132	FRA	no	no	antilipid;antihta;antidiab;diuranse;at2_inhib;ca2_cbl;su;metformin;glp_1;insulin;statin;asa;other_antiarythmic;PPI						20638711
+S0437	HF;CAD				DNK		yes	antilipid;antihta;antidiab;diuranse;ace_inhib;beta_blockers;ca2_cbl;metformin;glp_1;dppiv;insulin;statin;asa;clopidogrel;nitrate;PPI;xantoxinh						26543564
+S0438	IGT;MS	52	female	48.1775848185	DEU	no	yes	antihta;ace_inhib	5.8	108.276	108.0554	17.5	4.0	20287153
+S0439	IGT;MS	66	female	30.7094789068	FRA	no	no	antilipid;statin	6.0	76.821822	155.493492	1.88	3.0	22517995
+S0440	healthy	64	female	19.5307665652	FRA	no	yes	no	5.4	113.736204	75.72734999999999	206.0	3.0	20311272
+S0441	T2D	64	female	37.7560225868	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;metformin;glp_1;dppiv;insulin;statin;ezetimibe;asa						18028720
+S0442	IGT;MS				DNK		no	antilipid;antihta;beta_blockers;ca2_cbl;statin	6.0	81.20700000000002	85.9129	1.05	3.0	20594571
+S0443	T2D	60	female	39.0184423106	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;ctrblock;metformin;dppiv;insulin;bolus;sglt2;statin						15429455
+S0444	T2D	62	female	31.4460898562	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;dppiv;asa						20701774
+S0445	T2D	58	female	27.434842249699997	FRA	no	yes	antihta;antidiab;at2_inhib;su;metformin;dppiv;insulin;bolus						21151639
+S0446	T2D				DNK		no	antilipid;antihta;antidiab;beta_blockers;ca2_cbl;metformin;dppiv;statin;asa;PPI						24432858
+S0447	IGT;MS				DNK		yes	no	5.9	185.616	123.11229999999998	3.93	2.0	20990381
+S0448	MS				DNK		yes	no	5.6	146.946	165.6259	7.4	5.0	32376739
+S0449	T2D	71	female	39.8177288858	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;metformin						20811778
+S0450	MS	53	male	51.5402095695	DEU	no	yes	no	5.37	115.2366	52.2563	20.2	4.0	20683635
+S0451	CAD;T2D	67	male	30.3649514626	FRA	no	no	antilipid;antihta;at2_inhib;beta_blockers;statin;antithombo;asa						17797062
+S0452	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;asa						25263935
+S0453	T2D	67	male	27.9571280992	DEU	no	no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv;statin;xantoxinh						15715694
+S0454	T2D	67	male	29.7586910804	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;ctrblock;metformin;dppiv;statin						17172429
+S0455	IGT;MS				DNK		no	antihta;thiazidique	5.8	146.946	179.79709999999997	7.25	3.0	21378138
+S0456	IGT	67	male	21.3832795734	FRA	yes	no	no	5.9	132.69223799999995	82.79523599999997	0.8140000000000001	4.0	21946465
+S0457	T2D	55	male	32.7424182844	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;metformin;statin;PPI						20537779
+S0458	healthy				DNK		yes	no	5.5	119.877	112.4839	0.98	4.0	21708326
+S0459	MS	30	male	39.6160086533	FRA	no		no	5.6	112.738518	108.037686	8.7	2.0	20196920
+S0460	IGT;MS	66	female	22.8658536585	FRA	no	no	antilipid;antihta;at2_inhib;ca2_cbl;statin;asa	5.7	83.805624	94.911612	0.37	1.0	21202385
+S0461	T2D	72	male	27.059422990700003	FRA	no		antilipid;antihta;antidiab;thiazidique;ca2_cbl;metformin;dppiv;statin;asa;PPI						21090238
+S0462	HF;CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;clopidogrel;nitrate						19286322
+S0463	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;ca2_cbl;statin;asa;PPI						23202275
+S0464	T2D	51	female	35.0285873802	FRA	no	yes	antihta;antidiab;thiazidique;ace_inhib;su;metformin;glp_1						21462754
+S0465	CAD;T2D	51	male	28.7317468902	FRA	yes	no	no						22274900
+S0466	T2D	57	female	37.2732426304	DEU	no	yes	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;statin;asa;PPI						20608075
+S0467	CAD;T2D	49	male	25.1595442547	FRA	no	yes	antilipid;antihta;ace_inhib;statin;antithombo;asa						20175521
+S0468	MS	57	female	44.30976919729999	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;metformin;glp_1;dppiv;statin;amiodaron;cumarine						21089951
+S0469	T2D	60	female	33.0448979592	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv						20410891
+S0470	T2D	74	female	29.551020408200003	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;dppiv;insulin;bolus;asa;PPI						20442709
+S0471	T2D	66	male	31.504356985500003	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;kspdiur;ca2_cbl;su;metformin;statin						16756845
+S0472	T2D	69	female	31.1292289251	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;metformin;dppiv;statin;asa;PPI						20372190
+S0473	T2D	75	male	28.6635385745	FRA	no	yes	antihta;antidiab;ace_inhib;ca2_cbl;su;metformin;insulin;asa;PPI						20073790
+S0474	T2D	47	female	30.079101336599997	DEU	no	yes	antihta;antidiab;at2_inhib;metformin;dppiv						15941541
+S0475	MS	21	male	45.82754702689999	FRA	no	no	no	5.4	202.530258	293.822118	1.65		21252227
+S0476	MS	62	female	36.2830059087	FRA	no		antihta;thiazidique;at2_inhib;ca2_cbl						21646873
+S0477	IGT;MS	41	female	40.8169826879	FRA	yes	yes	no	6.0	128.701494	84.81463199999997	3.98	4.0	20671287
+S0478	MS	40	female	39.2220763163	FRA	yes	yes	no	5.4	171.601992	108.037686	8.06	3.0	20491099
+S0479	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						23741815
+S0480	IGT;MS	47	female	46.719775319499995	FRA	no	yes	no	5.8	158.632074	71.688558	9.65	1.0	28080413
+S0481	IGT;MS	63	female	32.3282266783	FRA	no	no	antilipid;antihta;thiazidique;at2_inhib;statin;ezetimibe	6.1	131.69455200000002	76.73704799999999	442.0	4.0	21054203
+S0482	T2D	73	male	25.2630227351	DEU	yes	yes	antidiab;metformin;dppiv;asa						15333632
+S0483	MS	45	male	56.9958589892	FRA	yes	yes	no						22263777
+S0484	IGT;MS	43	female	48.800602388	FRA	no	no	no	5.7	112.738518	155.493492	14.7	4.0	24687394
+S0485	CAD	66	male	34.2291401194	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;statin;nitrate;PPI						21486871
+S0486	healthy	73	female	19.7801463464	DEU	no	yes	no	5.56	188.3229	65.5418	0.8290000000000001	1.0	20220127
+S0487	T2D	66	male	30.4961310878	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv						20336826
+S0488	MS	28	female	41.0436928437	DEU	no	no	no	5.56	99.3819	103.6269	5.8	2.0	20163179
+S0489	CAD				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa						19668915
+S0490	MS	57	female	44.3820984316	FRA	no		PPI						23486005
+S0491	T2D				DNK		yes	antihta;thiazidique;at2_inhib;beta_blockers;ca2_cbl;ctrblock;asa						20664631
+S0492	healthy	75	female	23.433744592199997	DEU	yes	yes	no	5.43	205.72440000000003	132.855	2.09	5.0	21044331
+S0493	MS				DNK		no	antilipid;antihta;thiazidique;ca2_cbl;statin;clopidogrel	5.6	127.611	66.4275	2.44	4.0	29903985
+S0494	MS	46	male	52.6361429067	DEU		no	no						20057626
+S0495	T2D	64	female	34.3699494446	FRA	no	yes	antihta;antidiab;at2_inhib;beta_blockers;metformin;PPI						20325757
+S0496	T2D	65	male	28.4869658694	DEU	no	no	antidiab;insulin						16246009
+S0497	T2D;HF	70	male	29.5847750865	FRA	no	yes	antihta;ace_inhib;beta_blockers;asa;PPI						20934696
+S0498	MS	24	male	46.8083326926	FRA	no	yes	no	5.3	92.784798	89.86312199999998	0.8420000000000001	4.0	28708688
+S0499	T2D	62	female	46.264257336899995	DEU	no	yes	antilipid;antihta;antidiab;diuranse;metformin;glp_1;dppiv;statin;asa						20378376
+S0500	MS	54	female	36.6285119667	DEU	no	yes	antihta;thiazidique;beta_blockers;ca2_cbl	5.6	233.5668	201.0539	15.4	4.0	21169317
+S0501	MS	56	female	49.0274350414	DEU	no	yes	antihta;thiazidique;at2_inhib;ca2_cbl;PPI	5.58	174.7884	86.7986	15.3	4.0	21047685
+S0502	HF;CAD				DNK		no	antilipid;antihta;antidiab;diuranse;ace_inhib;beta_blockers;bolus;statin;antithombo						20889076
+S0503	IGT				DNK		no	PPI	5.9	150.81300000000005	69.0846	5.05	3.0	25706672
+S0504	healthy	46	female	23.157218248400003	FRA	no	no	no	5.0	107.750088	57.552786	401.0	4.0	21108914
+S0505	T2D	56	female	37.1336703029	FRA	no	no	antihta;antidiab;ca2_cbl;su;metformin;dppiv						20205963
+S0506	IGT;MS	36	female	44.370982552799994	DEU	yes	yes	no	5.72	111.7563	85.0272	3.22	4.0	21116694
+S0507	IGT;MS	52	female	33.396690185	FRA	no	yes	no	6.2	93.782484	440.22832799999986	6.11	4.0	20668705
+S0508	T2D	61	male	32.2057322198	FRA	no		antilipid;antihta;thiazidique;at2_inhib;statin;xantoxinh						20209068
+S0509	T2D	53	male	26.5226582111	DEU	yes	yes	antidiab;metformin;dppiv;xantoxinh						10597884
+S0510	T2D	63	male	27.5652377293	FRA	no		antilipid;antihta;antidiab;ace_inhib;su;metformin;dppiv;insulin;statin						20130721
+S0511	MS				DNK		no	no	5.2	146.946	88.57	1.41	2.0	20396757
+S0512	CAD;T2D				DNK		yes	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;statin;asa						20338107
+S0513	HF;CAD;T2D				DNK		yes	antilipid;antihta;diuranse;ace_inhib;beta_blockers;statin;asa						35157902
+S0514	IGT;MS	46	female	35.4082840237	FRA	no	yes	antihta;at2_inhib	5.7	98.770914	89.86312199999998	8.91	4.0	20510478
+S0515	IGT;MS	50	female	43.6016395658	FRA	no	yes	antihta;thiazidique;at2_inhib	6.0	161.625132	100.96979999999998	6.15	3.0	20195258
+S0516	T2D				DNK		yes	antidiab;metformin;dppiv						32014533
+S0517	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;asa;xantoxinh						20812531
+S0518	T2D	40	female	43.115383093999995	FRA	no	no	antidiab;glp_1;PPI						20674639
+S0519	MS	54	female	39.8828125	FRA	no		no	5.6	152.645958	125.20255199999998		4.0	20580133
+S0520	MS				DNK		yes	antihta;thiazidique;at2_inhib;ca2_cbl	5.5	116.01	120.4552	3.74	4.0	21422072
+S0521	healthy				DNK		no	no	5.5	96.675	87.6843	2.84	3.0	24809046
+S0522	T2D	65	male	36.6623726643	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;ca2_cbl;su;metformin;glp_1;statin;asa						21000903
+S0523	healthy				DNK		no	no	5.4	150.81300000000005	48.7135	14.5	2.0	21325669
+S0524	MS				DNK		yes	no	5.3	77.34	122.22659999999998	3.73	4.0	21641062
+S0525	T2D	42	female	32.1003401361	FRA	no	no	antihta;antidiab;thiazidique;at2_inhib;metformin						24030759
+S0526	healthy				DNK		no	no	5.5	135.345	124.8837	1.4	3.0	20488556
+S0527	MS	60	female	46.8881767583	DEU	yes	yes	antilipid;antihta;antidiab;diuranse;thiazidique;at2_inhib;metformin;dppiv;insulin;bolus;statin;PPI						20554413
+S0528	T2D				DNK		yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;metformin;dppiv;statin;asa						20373213
+S0529	MS	48	female	47.9844830494	DEU	no	yes	antihta;at2_inhib;ca2_cbl	5.55	187.9362	132.855	1.97	3.0	20884581
+S0530	healthy	64	male	24.1849849033	FRA	no	no	no	5.5	151.64827200000005	74.717652	10.5	3.0	20213058
+S0531	healthy	38	female	21.2599785333	FRA	no	no	no	5.1	74.82645000000002	40.38792	0.5920000000000001	4.0	20848050
+S0532	MS	56	male	29.07411916420001	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;statin;ezetimibe;asa;PPI	5.5	85.800996	262.52148	2.4	6.0	22912713
+S0533	CAD	68	male	30.3560799692	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;metformin;statin;ezetimibe;clopidogrel;PPI						21948084
+S0534	healthy				DNK		no	no	5.6	100.542	102.7412	23.8	4.0	24927506
+S0535	T2D	63	male	29.2069705296	DEU	yes	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;ctrblock;metformin;dppiv;statin;PPI						20193022
+S0536	CAD;T2D	41	male	29.6208115962	FRA	no	no	antilipid;antihta;beta_blockers;statin;antithombo;asa;PPI						23749334
+S0537	T2D	62	male	35.560575074	FRA	no	no	antihta;diuranse;thiazidique						20738428
+S0538	T2D	54	female	30.6654758955	FRA	no	no	antilipid;antidiab;su;metformin;dppiv;statin						21518752
+S0539	MS	63	male	36.507110648600005	DEU	no	yes	antihta;antidiab;ca2_cbl;metformin;dppiv;insulin;bolus						14860081
+S0540	T2D	69	male	36.1331886138	DEU	no	yes	antilipid;antihta;antidiab;diuranse;thiazidique;at2_inhib;beta_blockers;metformin;insulin;bolus;statin;ezetimibe;asa						21060653
+S0541	T2D	22	female	47.8617114334	FRA	no	no	antidiab;metformin						21260849
+S0542	IGT;MS				DNK		no	no	5.7	174.015	101.85549999999998	297.0	3.0	22911435
+S0543	CAD	66	female	34.5348726873	FRA	no		antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;ezetimibe;asa;PPI						18733424
+S0544	healthy	20	female	23.7562230612	DEU	no	yes	no	5.06	80.0469	79.71300000000002	562.0	3.0	20465156
+S0545	MS	39	female	40.1256192762	FRA	no	no	no	5.4	141.671412	85.82432999999997	6.68	3.0	21869358
+S0546	T2D	61	male	33.5884890377	FRA	no	yes	antilipid;antihta;antidiab;beta_blockers;su;metformin;dppiv;statin;ezetimibe;clopidogrel						21279868
+S0547	HF;CAD;T2D				DNK		no	antilipid;antihta;diuranse;ace_inhib;beta_blockers;ca2_cbl;statin;ezetimibe;asa;nitrate;xantoxinh						24346982
+S0548	CAD;T2D				DNK		no	antilipid;antihta;diuranse;statin;antithombo;asa						22383175
+S0549	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;nitrate						22342923
+S0550	T2D	66	female	28.7203228195	DEU	no	no	no						20182917
+S0551	healthy	64	female	23.6392059401	FRA	no	no	no	5.4	103.759344	49.475202	1.06	1.0	20679371
+S0552	T2D	60	female	26.149532123	DEU	no	yes	antihta;antidiab;beta_blockers;ca2_cbl;metformin;dppiv						15799217
+S0553	IGT				DNK		yes	no	5.8	96.675	44.285	8.16	2.0	24448306
+S0554	IGT;MS	63	male	28.3122417355	FRA	no	no	antilipid;antihta;ace_inhib;statin;asa	5.9	125.708436	92.892216	853.0	4.0	22879001
+S0555	T2D	64	female	38.0020811655	FRA	no	no	antilipid;antidiab;metformin;fibrate;xantoxinh						20950818
+S0556	MS	55	female	46.5447767331	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;ace_inhib;ca2_cbl;metformin;glp_1;dppiv;asa						20527460
+S0557	T2D	49	female	25.48082351610001	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;metformin;insulin;bolus;statin;asa						21364888
+S0558	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate;PPI						20372949
+S0559	T2D	72	female	31.9280078895	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;kspdiur;beta_blockers;su;acarbose;statin						20653057
+S0560	IGT;MS	76	female	33.5492923415	FRA	no	no	antilipid;antihta;thiazidique;kspdiur;statin	6.3	125.708436	124.19285399999998	453.0	3.0	20773520
+S0561	HF;CAD				DNK		yes	antilipid;antihta;antidiab;diuranse;ace_inhib;beta_blockers;metformin;dppiv;statin;asa;digitalis;xantoxinh						25669714
+S0562	MS	61	female	38.0859375	DEU	no	no	antihta;thiazidique;beta_blockers;PPI	5.58	116.7834	121.3409	3.4	3.0	21878410
+S0563	T2D	62	male	34.7980401991	DEU	no	no	antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv						20422995
+S0564	IGT;MS	50	male	30.3734359892	FRA	no	yes	no	6.1	138.678354	178.71654599999997	1.13	3.0	20756125
+S0565	T2D	60	female	35.0292622496	FRA	no		antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;dppiv;statin;ezetimibe						21023644
+S0566	MS	43	female	47.6070052854	DEU	yes	yes	antidiab;metformin;dppiv;insulin;bolus;sglt2;PPI						18717096
+S0567	CAD;T2D	65	male	26.7325996431	FRA	no	no	antilipid;antihta;beta_blockers;statin;asa;clopidogrel						22155482
+S0568	healthy	62	female	22.3907678908	DEU	no	no	no	5.59	160.0938	116.0267	647.0	4.0	20265460
+S0569	MS	37	female	45.403393351800005	DEU	no	no	no	5.31	108.6627	54.0277	10.7	5.0	21483931
+S0570	MS				DNK		no	no	5.4	139.21200000000002	131.96929999999998	3.09	4.0	20670935
+S0571	T2D	36	female	42.5997718497	FRA	no	no	antidiab;metformin						20297727
+S0572	CAD				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;nitrate						20150286
+S0573	healthy				DNK		no	antihta;at2_inhib	5.4	77.34	85.9129	884.0	3.0	25866775
+S0574	MS	48	male	43.0907650521	DEU	no	yes	antihta;thiazidique;ace_inhib;beta_blockers	5.43	134.9583	156.7689	2.79	4.0	20365498
+S0575	T2D	56	male	32.0321698053	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;su;metformin;dppiv						15764352
+S0576	HF;CAD				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						21096886
+S0577	T2D	67	male	28.2790153819	FRA	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;statin;asa						16412256
+S0578	IGT;MS				DNK		yes	no	5.7	197.217	100.08409999999998	345.0	3.0	21407277
+S0579	CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;ca2_cbl;statin;asa						21927040
+S0580	T2D	63	male	27.6037958348	FRA	no	yes	antidiab;su;metformin						15329274
+S0581	CAD	68	male	25.349252477199997	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;statin;asa						20580551
+S0582	healthy				DNK		no	no	5.2	92.808	61.99899999999999	0.52	5.0	20317311
+S0583	T2D	52	female	37.2000744001	FRA	yes	no	antilipid;statin						20100819
+S0584	IGT;MS	36	female	39.6765692771	FRA	no	yes	no	6.2	147.657528	39.378221999999994	20.5	6.0	20760780
+S0585	HF;CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;kspdiur;beta_blockers;statin;asa						21053712
+S0586	MS				DNK		no	antihta;thiazidique;ace_inhib;beta_blockers;clopidogrel	5.6	146.946	181.5685	3.21	3.0	21641929
+S0587	T2D	46	female	35.976331360900005	FRA	yes	no	no						22546441
+S0588	MS				DNK		yes	antihta;thiazidique	5.1	100.542	99.1984	0.7559999999999999	3.0	23589073
+S0589	IGT;MS	20	female	55.5058137928	FRA	no		no	6.1	148.655214	116.11526999999998		4.0	26927034
+S0590	CAD;T2D				DNK		no	antilipid;antihta;thiazidique;beta_blockers;ca2_cbl;statin;asa;PPI						23302458
+S0591	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						25987773
+S0592	healthy	52	male	21.6201768519	DEU	yes	no	no	5.31	154.29330000000004	116.9124	279.0	4.0	20296034
+S0593	MS	49	female	35.8168343935	FRA	no	no	no	5.4	154.64133	58.562484	1.93	2.0	22318618
+S0594	MS	51	male	37.0470524608	DEU	no	yes	antihta;ace_inhib;ca2_cbl	4.86	112.9164	77.0559	0.7559999999999999	2.0	20691131
+S0595	IGT;MS	61	female	37.9329201536	FRA	no	no	antihta;at2_inhib;ca2_cbl	6.3	199.5372	138.328626	3.98	4.0	20383012
+S0596	T2D	68	male	27.3008458528	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;insulin;statin;ezetimibe;asa						26212114
+S0597	MS	50	female	60.9548672916	DEU	no	no	antihta;diuranse;thiazidique	5.26	143.079	143.4834	7.83	2.0	21450292
+S0598	healthy				DNK		no	no	5.1	104.409	69.9703	1.06	4.0	20320551
+S0599	MS	74	male	23.502066115700003	DEU	no	no	antihta;at2_inhib;beta_blockers;ca2_cbl	5.29	132.6381	79.71300000000002	19.8	3.0	20439523
+S0600	T2D				DNK		yes	antilipid;antidiab;metformin;dppiv;ezetimibe;asa;PPI						21521297
+S0601	T2D				DNK		no	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;su;metformin;dppiv;asa						26925447
+S0602	T2D	56	female	36.6701352758	DEU	no	yes	antihta;antidiab;ace_inhib;metformin;dppiv;PPI						20066021
+S0603	MS	62	female	59.7923875433	DEU	no	yes	asa						26778268
+S0604	CAD	69	male	40.0308641975	FRA	no		antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;glp_1;insulin;bolus;statin;asa;clopidogrel;PPI						14894359
+S0605	T2D	62	female	28.3092403628	FRA	no	yes	antidiab;dppiv						19290400
+S0606	healthy	63	female	24.5389649018	DEU	no	no	no	5.39	127.9977	58.4562	1.78	4.0	19874996
+S0607	healthy				DNK		no	no	5.1	81.20700000000002	61.11329999999999	0.1	6.0	20611515
+S0608	T2D	72	male	29.8642110511	DEU	yes	yes	antihta;antidiab;diuranse;ace_inhib;beta_blockers;metformin;dppiv;cumarine;xantoxinh						15794629
+S0609	healthy	52	female	23.5928259153	FRA	no	yes	no	5.4	97.773228	58.562484	1.34	3.0	21222592
+S0610	healthy				DNK		yes	antilipid;statin;asa	5.5	88.941	61.99899999999999	0.1	4.0	21164534
+S0611	T2D				DNK		no	antilipid;antihta;antidiab;thiazidique;ace_inhib;metformin;dppiv;insulin;statin						20552295
+S0612	T2D	59	female	34.2906574394	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;metformin;dppiv;ezetimibe;asa						20078602
+S0613	healthy				DNK		no	no	5.2	108.276	101.85549999999998	1.21	6.0	19411944
+S0614	healthy	48	male	19.6657511237	FRA	no	no	no		123.713064	60.58188000000001	1.51		22127241
+S0615	T2D	65	male	33.2945146167	DEU	no	yes	antihta;antidiab;diuranse;ace_inhib;beta_blockers;metformin;dppiv;insulin;bolus;asa						20779231
+S0616	healthy	54	male	21.3546683357	FRA	no	no	no	5.5	133.689924	74.717652	9.27	4.0	21826251
+S0617	CAD	63	female	28.388749109499997	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;PPI						14069542
+S0618	MS				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa	5.6	69.60600000000001	67.3132	408.0	5.0	20560141
+S0619	T2D	56	female	32.6127488032	FRA	no	yes	antihta;antidiab;at2_inhib;ca2_cbl;su						22303068
+S0620	MS	55	male	31.0396548746	FRA	no	no	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;ctrblock;su;metformin;dppiv						20350831
+S0621	MS	49	female	36.696902405100005	DEU	no	yes	antihta;thiazidique;at2_inhib;beta_blockers	5.66	131.09130000000002	169.16869999999997	2.99	3.0	20954434
+S0622	MS	42	female	45.21604938270001	FRA	no		no	5.1	70.835706	39.378221999999994		4.0	20287653
+S0623	IGT;MS	57	male	43.568961389799995	FRA	yes	no	no	5.7	81.810252	95.92131	4.8	4.0	20064602
+S0624	MS	61	female	41.2510820881	FRA	no	yes	antilipid;statin	5.6	114.73389	111.06678	4.55	4.0	21245288
+S0625	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						20870722
+S0626	IGT;MS	70	female	41.1958171698	FRA	no	no	antilipid;antihta;at2_inhib;statin;asa	6.1	75.82413600000002	126.21225	0.38	6.0	20420053
+S0627	IGT;MS	44	male	36.0188854699	FRA	no		no	5.7	135.685296	149.435304	13.3	4.0	21675777
+S0628	CAD;T2D	63	male	49.9995147563	FRA	no	no	antilipid;antihta;ace_inhib;ca2_cbl;statin;asa;PPI						19952453
+S0629	IGT				DNK		no	no	5.8	139.21200000000002	90.3414	316.0	3.0	20213131
+S0630	T2D	48	female	35.5078125	FRA	no	yes	antihta;antidiab;at2_inhib;ca2_cbl;su;metformin						20529872
+S0631	T2D	57	female	32.5268723084	DEU	no	no	antihta;antidiab;at2_inhib;metformin;dppiv						14399696
+S0632	T2D	70	female	32.2265625	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;ctrblock;glp_1						21089043
+S0633	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate						19229075
+S0634	T2D	67	female	28.8707449726	DEU	no	no	antihta;antidiab;at2_inhib;beta_blockers;metformin;dppiv;PPI						21255194
+S0635	T2D	63	male	28.2760530042	FRA	no	no	antidiab;metformin						20177155
+S0636	T2D	70	male	33.0067358191	FRA	yes	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;statin;asa						15272000
+S0637	T2D	59	female	29.2122553474	FRA	no		antihta;antidiab;beta_blockers;metformin						20801035
+S0638	T2D	61	female	32.3700629128	DEU	no	yes	antihta;antidiab;beta_blockers;metformin;dppiv						18137276
+S0639	T2D	47	male	27.3292947014	DEU	no	yes	antidiab;dppiv						15264128
+S0640	T2D				DNK		no	antihta;thiazidique;at2_inhib;ca2_cbl;asa						21646369
+S0641	MS	53	female	38.3838383838	FRA		no	no	4.8	139.67604	64.620672	7.34		22670457
+S0642	healthy	51	female	24.140625	FRA	no	no	no	5.2	134.68761	38.368524	1.19	2.0	20609771
+S0643	MS	31	female	45.077251808	DEU	no	no	no	5.25	119.877	100.08409999999998	7.64	4.0	20350710
+S0644	MS	28	male	38.6426760053	DEU	yes	yes	antihta;ace_inhib;beta_blockers	5.45	156.2268	107.1697	7.19	4.0	20520201
+S0645	healthy	55	male	23.196135079	FRA	no	no	no	5.4	114.73389	71.688558	0.1	4.0	20289732
+S0646	T2D	69	male	28.8069800515	FRA	no		antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;dppiv;statin;asa						21010849
+S0647	CAD	57	male	30.839653847399997	FRA	no	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						19109354
+S0648	CAD	65	male	27.117768595	FRA		no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						26522892
+S0649	T2D	69	female	35.334795075100004	FRA	no	yes	antilipid;antidiab;metformin;statin;PPI						21199202
+S0650	T2D	62	male	30.6391793912	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;su;metformin;dppiv;statin;cumarine;digitalis						20791036
+S0651	HF;CAD				DNK		yes	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;ezetimibe;clopidogrel;PPI						20639451
+S0652	T2D	43	male	37.1468144044	FRA	yes		antidiab;metformin;dppiv;asa						20927534
+S0653	T2D	67	male	33.3789969595	DEU	no	yes	antidiab;su;metformin;dppiv;glitazone						14613965
+S0654	T2D				DNK		yes	no						21091511
+S0655	T2D	63	female	37.5212585034	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;dppiv;statin;ezetimibe;clopidogrel;PPI						23658098
+S0656	T2D	54	female	25.1865817745	FRA	no	yes	antilipid;antidiab;su;metformin;statin						21794966
+S0657	T2D	62	male	30.085097376599997	DEU	no	no	antilipid;antidiab;insulin;bolus;statin						21963122
+S0658	IGT;MS	64	female	37.4457381638	DEU	no	yes	antilipid;antihta;diuranse;thiazidique;at2_inhib;ca2_cbl;statin;antithombo;PPI;xantoxinh	6.14	101.7021	142.5977	3.3	4.0	23094625
+S0659	healthy	39	female	18.7531495079	FRA	no	no	no	5.1	82.80793800000002	43.417014	0.1		21816556
+S0660	MS				DNK		no	no	5.6	100.542	123.11229999999998	1.41	2.0	23037866
+S0661	IGT;MS	28	male	43.6815193572	DEU	no	yes	antihta;ace_inhib;ca2_cbl	5.72	119.1036	137.2835	14.1	3.0	26245622
+S0662	T2D	63	female	32.0944080874	FRA	no	no	no						24870507
+S0663	healthy	35	male	24.2793005671	DEU	no	no	no	5.29	116.01	138.1692	0.58	4.0	20012871
+S0664	CAD				DNK		yes	antilipid;antihta;antidiab;beta_blockers;insulin;bolus;statin;antithombo;asa						20998391
+S0665	T2D	50	male	27.7469135802	FRA	no	no	no						21555436
+S0666	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate						25273046
+S0667	IGT;MS				DNK		yes	antihta;ca2_cbl	5.8	104.409	166.5116	1.09	3.0	20743544
+S0668	HF;CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;ca2_cbl;statin;asa;nitrate						21169396
+S0669	T2D	66	male	30.7580354073	FRA	no	no	antihta;antidiab;ca2_cbl;su;metformin;dppiv						20252524
+S0670	CAD				DNK		no	antilipid;antihta;at2_inhib;ca2_cbl;statin;antithombo;asa;nitrate						20963063
+S0671	CAD;T2D	57	male	24.7245200085	FRA	no	no	antilipid;statin						15587431
+S0672	MS	35	female	40.5994055192	FRA	no	yes	no	5.4	111.740832	67.649766	8.05	6.0	22576770
+S0673	MS	38	male	45.516304347799995	DEU	no	yes	no	5.67	136.1184	114.2553	5.1	5.0	20340153
+S0674	T2D	54	female	38.4580498866	FRA	no	yes	PPI						20807431
+S0675	MS	47	male	46.3009720995	DEU	no	no	antihta;thiazidique	5.21	102.0888	264.8243	5.34	7.0	26378737
+S0676	T2D				DNK		no	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv;statin						17124831
+S0677	IGT;MS	21	male	36.2036141194	FRA	no	yes	no	5.7	103.759344	141.35772	0.7340000000000001	5.0	21870431
+S0678	healthy	44	male	22.7786841706	FRA	no	no	no	5.6	71.833392	88.853424	1.3	4.0	21273393
+S0679	CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;statin;antithombo;asa;xantoxinh						19996381
+S0680	MS	40	male	62.685185185200005	DEU	yes	no	antihta;diuranse;ace_inhib;kspdiur;beta_blockers;antithombo						17679146
+S0681	IGT;MS	37	female	60.0390625	DEU	no	no	no	6.21	106.3425	112.4839	8.73	5.0	22687433
+S0682	IGT;MS	73	male	26.4520821149	DEU	no	no	antilipid;statin	6.1	100.542	59.3419	0.1	4.0	22252737
+S0683	CAD				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo						23349077
+S0684	IGT;MS	27	female	50.3970793029	DEU	yes	yes	no	5.78	104.0223	73.5131	16.8	4.0	23021094
+S0685	T2D				DNK		no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;glp_1;dppiv;statin;cumarine;digitalis;PPI;xantoxinh						20703261
+S0686	HF;CAD;T2D				DNK		yes	antilipid;antihta;diuranse;at2_inhib;kspdiur;beta_blockers;statin;asa						22949676
+S0687	T2D	62	female	27.717685235300003	DEU	no	yes	antilipid;antidiab;insulin;bolus;statin						20474706
+S0688	T2D	50	female	48.2006920415	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;dppiv;insulin;bolus						20700686
+S0689	CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;beta_blockers;statin;antithombo;asa						23180054
+S0690	healthy	67	male	21.981664556	FRA	no	yes	no	5.6	131.69455200000002	73.707954	247.0	4.0	21240088
+S0691	HF;CAD;T2D	71	male		FRA	yes	no	antilipid;antihta;diuranse;ace_inhib;statin;asa;clopidogrel;other_antiarythmic;PPI						23761503
+S0692	T2D	60	female	31.5485848206	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;glp_1;insulin;statin						20583827
+S0693	IGT	26	male	21.0471007694	FRA	no	yes	no	5.7	54.87273	45.436409999999995	0.1	3.0	21197331
+S0694	healthy				DNK		no	no	5.2	146.946	87.6843	0.35	4.0	24354253
+S0695	T2D				DNK		no	antilipid;antidiab;metformin;dppiv;insulin;bolus;statin;asa;PPI						25576825
+S0696	MS	28	female	48.2698961938	DEU	no	yes	no	5.41	88.1676	138.1692	23.4	4.0	20736392
+S0697	MS	44	female	41.0380622837	DEU	no	yes	PPI						20548869
+S0698	T2D	61	male	37.0341364938	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;su;metformin;insulin;bolus;statin;asa						20317168
+S0699	healthy				DNK		yes	no	5.3	112.143	87.6843	393.0	3.0	22608089
+S0700	MS				DNK		no	antihta;beta_blockers	5.6	146.946	205.4824	279.0	2.0	20075150
+S0701	T2D	41	male	52.4411605621	FRA	no	no	no						18172838
+S0702	T2D	66	male	37.242228378	FRA	no		antilipid;antihta;antidiab;at2_inhib;glp_1;statin						20207058
+S0703	T2D	59	female	42.0508625818	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv						21488475
+S0704	MS	31	female	42.7901699065	DEU	no	yes	no	4.94	107.1159	79.71300000000002	6.53	3.0	20353155
+S0705	T2D	62	female	31.319728995100004	DEU	no	yes	antihta;antidiab;thiazidique;ace_inhib;ctrblock;metformin;dppiv						20344760
+S0706	T2D	54	male	29.5844875346	FRA	no	no	antihta;antidiab;thiazidique;beta_blockers;metformin;dppiv						20897364
+S0707	T2D				DNK		yes	no						20851423
+S0708	healthy	48	female	22.6304235537	DEU	no	no	antihta;beta_blockers	5.27	84.3006	73.5131	0.5760000000000001	6.0	21026475
+S0709	healthy				DNK		yes	no	5.6	143.079	87.6843	4.16	3.0	24520709
+S0710	T2D	66	male	31.278528611	FRA	yes	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;statin;asa						19597419
+S0711	T2D	56	female	30.4928148252	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;su;glp_1;statin;PPI						20891852
+S0712	healthy	42	female	19.7515566244	FRA	no	no	no	5.4	116.729262	36.34912799999999	249.0	3.0	21015127
+S0713	healthy	46	female	21.0333790581	DEU	no	yes	antihta;beta_blockers	5.34	140.3721	83.2558	0.1	2.0	20434293
+S0714	MS				DNK		no	antihta;at2_inhib;ca2_cbl						21152280
+S0715	HF;CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;beta_blockers;statin;asa						22404482
+S0716	HF;CAD	54	male	27.4394463668	FRA	no	no	antilipid;statin;asa;clopidogrel;PPI						20694343
+S0717	T2D	59	male	32.307192160999996	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;metformin;statin;asa						20227847
+S0718	IGT				DNK		no	no	6.0	135.345	116.9124	445.0	4.0	20635944
+S0719	healthy	66	male	21.5011266342	FRA	no	yes	no	5.4	132.69223799999995	56.54308799999999	387.0	4.0	20110863
+S0720	MS	54	female	36.0258022638	DEU	no	yes	antihta;beta_blockers	5.56	132.6381	309.1093	5.45	4.0	21472315
+S0721	healthy				DNK		no	antihta;ace_inhib;clopidogrel	4.7	108.276	89.4557	205.0	6.0	21117127
+S0722	MS	59	female	45.9181753171	DEU	no	yes	antihta;beta_blockers	5.23	109.8228	131.96929999999998	9.6	4.0	20433158
+S0723	healthy	55	male	22.1112687123	FRA	no	yes	no	5.5	106.75240200000002	58.562484	7.47	4.0	22424551
+S0724	T2D	33	female	43.2178113842	FRA	no	no	no						11364709
+S0725	T2D	70	female	29.645796993	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;metformin;dppiv;statin						9979147
+S0726	HF;CAD;T2D	60	female	21.6658633462	FRA	no	yes	antilipid;statin;asa						0
+S0727	CAD				DNK		no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;metformin;dppiv;statin;asa						23119678
+S0728	HF;CAD;T2D				DNK		no	antilipid;antihta;diuranse;at2_inhib;beta_blockers;ca2_cbl;statin;asa;clopidogrel						22462384
+S0729	T2D	71	male	32.744161181500004	DEU	no	no	antihta;antidiab;diuranse;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;asa;PPI;xantoxinh						21856793
+S0730	IGT				DNK		no	antilipid;antihta;ca2_cbl;statin;clopidogrel	5.8	54.13800000000001	187.7684	2.1	4.0	20681289
+S0731	healthy	50	female	21.9386846347	DEU	no	yes	antihta;thiazidique;beta_blockers	5.28	104.0223	32.7709	1.21	2.0	20966681
+S0732	IGT;MS	51	female	39.9454654612	FRA	no	yes	antihta;thiazidique;at2_inhib	6.4	216.49786200000003	206.98809	1.25	3.0	20321440
+S0733	IGT	63	male	23.9231367478	FRA	no	yes	no	5.9	95.777856	79.76614199999999	6.01	5.0	22180923
+S0734	healthy	64	female	24.0600958049	DEU	no	yes	antihta;beta_blockers	5.18	158.93370000000004	57.5705	598.0	3.0	20789142
+S0735	IGT;MS	53	female	47.8125	DEU	no	yes	antihta;thiazidique;ace_inhib	5.83	184.4559	89.4557	14.9	5.0	20612737
+S0736	T2D	72	male	28.3623058892	FRA	no	no	antihta;antidiab;thiazidique;at2_inhib;su;metformin;dppiv;insulin;asa						20592816
+S0737	T2D	51	female	32.1911894829	DEU	yes	no	antidiab;metformin;dppiv						20138149
+S0738	IGT;MS	59	male	39.2733564014	DEU	no	no	antihta;at2_inhib;asa	5.95	137.2785	230.282	6.74	4.0	22437256
+S0739	IGT;MS				DNK		yes	no	5.7	181.749	139.9406	7.45	4.0	28304171
+S0740	CAD;T2D	55	male	24.69070097	FRA	no		antilipid;antihta;ace_inhib;beta_blockers;statin;asa						20962557
+S0741	IGT;MS	51	female	50.1440220699	DEU	no	yes	antihta;ca2_cbl	5.73	210.36480000000003	240.0247	6.78	4.0	20888458
+S0742	healthy				DNK		no	no	5.6	150.81300000000005	141.71200000000005	1.05	4.0	21481628
+S0743	MS				DNK		no	no	5.4	135.345	70.85600000000002	1.93	4.0	23443232
+S0744	healthy	62	male	20.760002445	FRA	no	no	no	5.2	119.72232	196.89111	1.2	4.0	20224196
+S0745	CAD;T2D	65	male	27.2314983051	FRA	no	no	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;statin;asa						21699219
+S0746	T2D	70	male	25.7851430282	DEU	no	yes	antidiab;metformin;dppiv						23738249
+S0747	IGT				DNK		no	no	5.7	181.749	76.1702	13.6	4.0	20641297
+S0748	MS				DNK		yes	antihta;ca2_cbl;cumarine	5.6	158.547	149.68329999999995	4.5	4.0	31577480
+S0749	CAD;T2D				DNK		yes	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;antithombo;asa						21874873
+S0750	CAD;T2D	75	male	27.7777777778	FRA	no	no	asa;clopidogrel						16773856
+S0751	MS	51	male	42.113933468	DEU	yes	no	antihta;antidiab;ace_inhib;metformin;glp_1;dppiv;insulin						21333750
+S0752	T2D	64	female	36.2202732333	DEU	no	no	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv						20042420
+S0753	IGT;MS				DNK		no	antihta;ca2_cbl	5.8	150.81300000000005	110.7125	0.7170000000000001	3.0	20678553
+S0754	MS	49	female	47.5	DEU	no	yes	antihta;thiazidique;at2_inhib;beta_blockers	5.65	95.5149	105.3983	5.39	6.0	20992910
+S0755	MS				DNK		no	antilipid;antihta;thiazidique;at2_inhib;statin;asa	5.4	112.143	72.6274	871.0	3.0	26190007
+S0756	IGT;MS				DNK		yes	antilipid;antihta;beta_blockers;ca2_cbl;statin;asa	5.7	65.73899999999999	78.8273	722.0	6.0	21107946
+S0757	T2D	68	female	22.6824457594	FRA	no	yes	no						21479916
+S0758	T2D	27	female	51.3429057395	FRA	no	yes	no						20910282
+S0759	IGT;MS	72	male	25.7033167959	FRA	no		antilipid;statin;asa	5.8	101.763972	94.911612	0.66	4.0	20642049
+S0760	CAD				DNK		no	antilipid;antihta;ca2_cbl;statin;asa;clopidogrel						20520489
+S0761	IGT;MS	28	male	55.8809322546	DEU	no	yes	antihta;thiazidique;at2_inhib;PPI	6.05	57.61830000000001	58.4562	9.32	1.0	20510848
+S0762	T2D	70	male	37.6205575373	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;kspdiur;beta_blockers;metformin;dppiv;statin;xantoxinh						16674982
+S0763	CAD	71	female	33.9533296802	FRA	no	yes	antilipid;antihta;diuranse;ace_inhib;kspdiur;beta_blockers;statin;clopidogrel;cumarine;PPI						24642543
+S0764	MS	57	male	41.2577479339	DEU	yes	yes	antihta;thiazidique;ace_inhib;beta_blockers						22312898
+S0765	MS	33	female	39.4617836461	FRA	yes		no	5.6	217.495548	125.20255199999998		4.0	23739327
+S0766	healthy	46	female	20.6727556249	FRA	no	no	no	5.4	100.766286	49.475202	308.0	4.0	20010895
+S0767	healthy	57	female	23.7494824796	DEU	no	yes	no	5.31	127.611	111.5982	1.49	1.0	31282798
+S0768	CAD	67	male	29.1147698345	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;PPI						21620898
+S0769	IGT;MS	55	female	33.8616061848	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;ezetimibe;PPI	6.3	113.736204	166.60017	1.68	6.0	20735824
+S0770	CAD	70	female	25.390625	FRA	no	yes	no						22632907
+S0771	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						22299525
+S0772	T2D	60	female	33.3056445552	FRA	no	no	antidiab;metformin;asa						21004620
+S0773	T2D	44	female	45.6864839207	DEU	no	yes	no						20684070
+S0774	IGT;MS	45	male	25.9591880115	FRA	yes	yes	antilipid;antihta;at2_inhib;fibrate	5.9	178.585794	109.047384	398.0	2.0	23821109
+S0775	T2D	62	male	52.981856038100005	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;ca2_cbl;statin						20712874
+S0776	MS	49	female	50.98855359	DEU	no	no	antihta;beta_blockers	5.38	94.74150000000002	56.6848	12.4	4.0	20467177
+S0777	IGT;MS	56	female	44.745057232	DEU	no	no	antihta;at2_inhib;beta_blockers;ca2_cbl	5.7	220.0323	152.3404	13.7	4.0	22951969
+S0778	healthy	65	female	21.7797530365	FRA	no	no	no	5.4	153.643644	64.620672	0.1	3.0	20261110
+S0779	IGT;MS	51	female	38.8078966042	FRA	no	no	antilipid;antihta;thiazidique;ace_inhib;ca2_cbl;statin	5.7	154.64133	80.77584	2.21	4.0	22213647
+S0780	T2D	54	male	29.581555451999996	FRA	no	no	antilipid;antidiab;metformin;statin						20521696
+S0781	MS	72	female	31.3976527968	DEU	yes	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;PPI	5.65	120.2637	115.141	18.5	4.0	20162447
+S0782	MS	32	male	37.4490466798	DEU	no	no	antihta;beta_blockers	5.19	97.8351	149.68329999999995	5.52	4.0	22369977
+S0783	IGT				DNK		no	no	5.8	116.01	69.0846	1.01	4.0	20174784
+S0784	healthy				DNK		no	antihta;thiazidique;asa	5.3	119.877	148.7976	1.84	4.0	20188075
+S0785	healthy	23	female	19.8542534206	DEU	no	yes	no	4.78	73.0863	54.0277	0.1	3.0	20393883
+S0786	HF;CAD;T2D	59	male	20.5714285714	FRA	no	yes	antihta;diuranse;ace_inhib;kspdiur;cumarine;digitalis						15329294
+S0787	T2D	49	male	38.4167951736	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;metformin;glp_1;dppiv;insulin;asa						15413149
+S0788	T2D	48	male	24.649196700300003	FRA		no	antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;dppiv;insulin;statin;asa						23913158
+S0789	healthy				DNK		no	no	5.5	116.01	54.9134	10.1	4.0	21209592
+S0790	HF;CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;kspdiur;beta_blockers;statin;asa;nitrate						20921663
+S0791	T2D	50	female	26.2244226208	FRA	no	yes	antidiab;metformin						16705124
+S0792	HF;CAD	61	male	37.3702422145	FRA	yes	yes	antilipid;antihta;antidiab;diuranse;ace_inhib;kspdiur;beta_blockers;su;glp_1;dppiv;insulin;statin;asa;cumarine;digitalis;PPI						15576057
+S0793	MS				DNK		no	no	5.5	139.21200000000002	86.7986	1.46	4.0	24260192
+S0794	CAD	66	male	25.0486148382	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;su;metformin;statin;asa						21509843
+S0795	MS	29	male	60.7742878013	DEU	no	no	antihta;ace_inhib;beta_blockers	5.32	77.7267	80.5987	9.87	4.0	21468192
+S0796	MS				DNK		no	no	5.6	185.616	60.2276	1.74	4.0	24887270
+S0797	healthy	41	male	25.1543209877	DEU	no	no	antihta;ace_inhib	5.16	110.5962	71.7417	0.1	4.0	25776079
+S0798	CAD;T2D	50	male	26.1224489796	FRA	yes	no	no						20009881
+S0799	CAD;T2D	66	male	26.0175919225	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;PPI						19213495
+S0800	HF;CAD				DNK		yes	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;insulin;sglt2;statin;antithombo;asa						22507870
+S0801	CAD;T2D	51	male	23.717588907399996	FRA	no	no	antilipid;antihta;beta_blockers;statin;asa						21743912
+S0802	IGT;MS				DNK		yes	no	5.8	162.41400000000004	114.2553	2.32	4.0	21596824
+S0803	IGT;MS				DNK		no	no	6.0	123.744	85.0272	2.15	4.0	20557214
+S0804	T2D	33	female	35.0499343765	FRA	no	yes	antidiab;su;metformin;glp_1;insulin						20175411
+S0805	healthy				DNK		no	antilipid;statin	5.6	81.20700000000002	85.0272	401.0	3.0	22228699
+S0806	T2D	55	female	34.7980401991	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;su;metformin;asa						20175811
+S0807	IGT;MS	63	female	27.4259395745	FRA	no	no	antilipid;antihta;ace_inhib;ca2_cbl;statin;ezetimibe;asa	6.3	118.724634	66.64006799999999	565.0	1.0	20083464
+S0808	T2D	75	female	26.658239143400003	DEU	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;su;metformin;dppiv;statin						21049860
+S0809	IGT;MS				DNK		yes	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;ca2_cbl;statin;antithombo	5.8	73.473	46.9421	2.07	4.0	20140774
+S0810	MS	22	female	42.3908929455	FRA		no	no	5.2	121.717692	57.552786	6.52		20915050
+S0811	T2D	52	female	27.088438405	FRA	no	yes	antidiab;metformin						20050147
+S0812	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;ezetimibe;asa						14416796
+S0813	CAD;T2D	43	female	25.9645421721	FRA	no	no	antihta;diuranse;at2_inhib;beta_blockers;antithombo;asa;PPI						17411959
+S0814	HF;CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;kspdiur;beta_blockers;statin;clopidogrel						21147236
+S0815	healthy	66	female	19.1281816796	DEU	no	yes	no	5.57	141.1455	62.8847	618.0	4.0	20311037
+S0816	healthy				DNK		no	PPI	5.3	201.084	56.6848	715.0	3.0	21139424
+S0817	T2D	61	male	31.570819869	DEU	no	no	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;su;metformin;dppiv;asa						11827363
+S0818	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20973710
+S0819	IGT;MS	44	male	50.0354442344	DEU	no	yes	antihta;beta_blockers;xantoxinh	5.81	87.00750000000002	186.8827	8.64	4.0	27299384
+S0820	T2D	67	male	27.3094298833	FRA	no	yes	antilipid;antihta;antidiab;at2_inhib;beta_blockers;su;metformin;dppiv;fibrate;statin;xantoxinh						20635101
+S0821	IGT;MS	34	female	44.641256409300006	FRA	yes	no	no	6.1	111.740832	96.931008	9.88		20454624
+S0822	T2D	57	male	32.7380952381	FRA	no	yes	antilipid;statin						20896234
+S0823	healthy	58	female	19.5131204919	FRA	no	no	no	5.4	160.62744600000005	83.804934	1.36	3.0	21407767
+S0824	healthy				DNK		no	antilipid;antihta;beta_blockers;statin;asa	5.6	123.744	61.99899999999999	1.04	3.0	20667403
+S0825	MS				DNK		no	no	5.3	170.14800000000002	192.1969	913.0	4.0	20616180
+S0826	T2D	61	female	31.810314640300003	FRA	no	no	antidiab;metformin						20260078
+S0827	T2D	66	male	36.2215909091	FRA	yes		antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;insulin;bolus;fibrate;statin						13440935
+S0828	T2D	62	male	31.81876034110001	FRA	no	yes	antidiab;su;metformin;glp_1						20852677
+S0829	CAD;T2D				DNK		no	antilipid;statin;antithombo;asa						21301828
+S0830	T2D	66	male	34.2616213152	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;metformin;glp_1;statin;ezetimibe;clopidogrel;xantoxinh						13722541
+S0831	MS				DNK		yes	no		112.143	226.7392	1.22	4.0	20313562
+S0832	CAD				DNK		yes	antilipid;antihta;antidiab;at2_inhib;beta_blockers;metformin;dppiv;statin;asa;clopidogrel;PPI						20074774
+S0833	MS				DNK		no	no	5.2	85.07400000000001	185.1113	378.0	4.0	20777733
+S0834	T2D	72	male	32.3183391003	DEU	no	no	antihta;antidiab;at2_inhib;ca2_cbl;insulin						34000386
+S0835	T2D	52	male	58.5327783559	DEU	no	yes	antilipid;antihta;antidiab;diuranse;at2_inhib;kspdiur;ctrblock;su;metformin;glp_1;dppiv;statin;cumarine;PPI;xantoxinh						20943062
+S0836	HF;CAD				DNK		yes	antilipid;antihta;antidiab;at2_inhib;kspdiur;beta_blockers;metformin;dppiv;statin;asa						46774207
+S0837	MS	54	female	42.0202020202	DEU	no	yes	antihta;at2_inhib	5.69	118.3302	73.5131	12.8	6.0	23884351
+S0838	T2D	45	female	29.2846730529	FRA	no	no	antilipid;antidiab;metformin;dppiv;statin						20750115
+S0839	IGT	60	female	20.3125	FRA	no	yes	antihta;beta_blockers	5.7	93.782484	48.465504	637.0	3.0	20065393
+S0840	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;kspdiur;beta_blockers;statin;antithombo;asa						20104106
+S0841	T2D	49	female	30.5397727273	DEU	yes	no	antilipid;antidiab;metformin;dppiv;fibrate						20999885
+S0842	T2D	54	male	31.6979745883	FRA	no	yes	no						21335421
+S0843	MS	26	female	43.3258310249	DEU	yes	yes	PPI	5.36	111.7563	122.22659999999998	2.19	4.0	20608881
+S0844	healthy	47	female	21.4421456488	DEU	no	yes	no	5.43	90.1011	35.42800000000001	617.0	3.0	20809142
+S0845	T2D	50	male	30.3049218189	DEU	no	yes	antihta;antidiab;at2_inhib;beta_blockers;su;metformin;dppiv						3012399
+S0846	MS				DNK		no	no	5.6	185.616	57.5705	792.0	4.0	21916785
+S0847	IGT;MS	23	female	51.1911615271	FRA	yes	no	no	6.2	105.754716	117.124968		4.0	20778026
+S0848	healthy				DNK		yes	no	5.5	112.143	50.48489999999999	0.92	2.0	21729946
+S0849	MS	61	female	42.8349231907	FRA	no	yes	no	5.6	191.555712	137.318928	2.21	4.0	21086975
+S0850	HF;CAD;T2D				DNK		no	antilipid;antihta;diuranse;at2_inhib;beta_blockers;ca2_cbl;statin;antithombo						24390564
+S0851	MS	63	male	46.8821119709	DEU	no	yes	antilipid;antihta;antidiab;diuranse;ace_inhib;kspdiur;beta_blockers;metformin;glp_1;dppiv;statin;asa;xantoxinh						17395218
+S0852	CAD;T2D	62	male	23.4997783704	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						38386610
+S0853	healthy				DNK		yes	no	5.4	108.276	37.1994	0.1	4.0	23339720
+S0854	CAD				DNK		yes	antilipid;antihta;beta_blockers;statin;asa;clopidogrel						25831941
+S0855	healthy	53	female	23.046875	FRA	no	no	no	5.5	126.706122	72.69825599999999	787.0	4.0	21123838
+S0856	T2D	69	male	37.0122406591	FRA	no	no	antilipid;antihta;at2_inhib;kspdiur;ca2_cbl;statin;xantoxinh						20014326
+S0857	MS				DNK		no	antihta;beta_blockers;ca2_cbl;antithombo	5.4	112.143	83.2558	516.0	4.0	22689202
+S0858	T2D	59	male	27.5706752494	FRA	no	yes	antilipid;antihta;antidiab;at2_inhib;beta_blockers;su;metformin;dppiv;statin						20043788
+S0859	T2D	62	female	32.1003401361	DEU	no	yes	antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv						14068364
+S0860	CAD				DNK		no	antilipid;antihta;at2_inhib;ca2_cbl;statin;asa;nitrate						20158854
+S0861	IGT;MS				DNK		yes	antilipid;antihta;ca2_cbl;statin	5.7	92.808	69.9703	5.55	4.0	21196728
+S0862	MS	29	female	45.2595173496	FRA	no		asa	5.3	125.708436	135.299532		4.0	20148317
+S0863	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						21616994
+S0864	HF;CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;kspdiur;beta_blockers;statin;asa;PPI						21545420
+S0865	T2D	71	male	26.3248802374	DEU	no	yes	antihta;antidiab;ace_inhib;acarbose;asa						15795948
+S0866	IGT;MS	49	male	42.3712186611	FRA	no	no	antilipid;antihta;ace_inhib;fibrate	6.3	145.662156	183.765036	2.86	3.0	20782306
+S0867	HF;CAD				DNK		no	antilipid;antihta;antidiab;diuranse;at2_inhib;kspdiur;insulin;statin;amiodaron;asa;nitrate						20139823
+S0868	MS	35	female	39.8286722096	DEU	no	no	no	5.11	141.53220000000005	168.283	17.0	5.0	22936630
+S0869	MS	36	female	52.5834476452	DEU	no	no	antihta;diuranse;beta_blockers;PPI	5.5	134.57160000000002	97.427	39.5	4.0	21064640
+S0870	IGT;MS	64	female	28.5959283856	FRA	no	no	antihta;kspdiur;beta_blockers	6.2	150.650586	227.18205	5.18	5.0	22164660
+S0871	CAD				DNK		no	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;asa;clopidogrel						20370763
+S0872	MS	41	female	37.568637304	FRA	no	no	no	5.1	178.585794	489.70353	7.6	4.0	22153595
+S0873	T2D	52	male	27.8792608898	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;su;metformin;statin;asa						21704522
+S0874	IGT;MS	56	female	41.9765020821	DEU	yes	yes	antihta;thiazidique;at2_inhib;ca2_cbl	5.85	114.84990000000002	106.284	10.0	4.0	22248279
+S0875	healthy	35	female	18.66340075	DEU	no	yes	no	5.34	107.8893	146.14049999999995	1.48	3.0	20958595
+S0876	IGT	62	male	31.2061258718	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;statin;asa;PPI	5.7	116.729262	98.950404	696.0	4.0	20486556
+S0877	MS	28	female	35.1283751493	DEU	no	no	no	5.24	96.675	76.1702	1.89	6.0	21190857
+S0878	IGT;MS	52	male	39.983340274899994	DEU	no	yes	antilipid;antihta;at2_inhib;statin	5.77	145.7859	206.3681	7.48	4.0	21736388
+S0879	T2D	49	male	32.0799771653	FRA	no	yes	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;su;metformin;dppiv;insulin;statin;asa						21167895
+S0880	MS	29	female	42.1644120708	DEU	yes	no	no	4.97	175.5618	198.3968	10.8	3.0	20210085
+S0881	CAD				DNK		no	antilipid;antihta;antidiab;diuranse;at2_inhib;beta_blockers;metformin;dppiv;insulin;statin;antithombo;asa;PPI						42467267
+S0882	healthy	55	female	21.8782185325	FRA	no		no	5.6	92.784798	51.494598	648.0	4.0	20258585
+S0883	healthy	57	male	23.1237516106	FRA	no	yes	no	5.3	78.817194	61.59157800000001	14.0	4.0	20759211
+S0884	MS				DNK		yes	antihta;thiazidique	5.0	150.81300000000005	87.6843	5.1	4.0	21726815
+S0885	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;ca2_cbl;statin;asa;PPI						15593878
+S0886	healthy	24	female	24.38237297860001	DEU	no	yes	no	5.17	49.1109	42.5136	1.38	2.0	20162189
+S0887	T2D				DNK		yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;su;metformin;glp_1;dppiv;statin						24186550
+S0888	healthy	62	male	21.3869274136	FRA	no	no	no	5.6	137.680668	78.75644399999999	0.1	4.0	22772191
+S0889	healthy	56	female	21.2283869476	FRA	no	no	no	5.2	102.761658	41.397618	475.0	4.0	21265713
+S0890	MS	35	female	50.411522633699995	FRA	yes	yes	no	5.4	113.736204	75.72734999999999	16.1	4.0	23747800
+S0891	T2D	75	male	26.8917871901	DEU	yes	yes	antihta;antidiab;ace_inhib;metformin;PPI						21258155
+S0892	T2D	60	female	34.247504340300004	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;dppiv;statin						20617347
+S0893	T2D	62	female	28.1050697222	FRA	no	yes	antilipid;antihta;antidiab;ace_inhib;su;metformin;glp_1;statin;PPI						20458827
+S0894	T2D	59	female	29.55106965860001	DEU	yes	no	antihta;antidiab;beta_blockers;metformin;dppiv						16920303
+S0895	HF;CAD;T2D				DNK		yes	antilipid;antihta;diuranse;ace_inhib;kspdiur;beta_blockers;statin;amiodaron;antithombo						27320163
+S0896	MS	32	male	48.8945834976	FRA	no		antilipid;antihta;thiazidique;at2_inhib;statin;ezetimibe	5.3	139.67604	86.834028	0.99	4.0	20198800
+S0897	healthy	64	male	50.3259342521	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;statin;asa;xantoxinh						20872544
+S0898	CAD;T2D	66	female	41.1764705882	FRA		no	antilipid;antihta;diuranse;ace_inhib;statin;amiodaron;asa;cumarine						19613228
+S0899	T2D	62	male	33.0114604564	DEU	no	yes	antilipid;antihta;antidiab;at2_inhib;metformin;dppiv;insulin;bolus;statin						11232120
+S0900	healthy				DNK		no	no	5.5	119.877	75.2845	1.57	4.0	20922947
+S0901	healthy				DNK		no	no	5.2	119.877	57.5705	383.0	4.0	21051889
+S0902	healthy	50	female	22.8623685414	DEU	no	yes	no	5.54	158.547	79.71300000000002	0.1	3.0	20769676
+S0903	T2D	71	male	21.7447199265	DEU	yes	yes	antihta;antidiab;ace_inhib;insulin;bolus						20435426
+S0904	IGT;MS	50	female	26.5051240521	FRA	no	no	no	6.0	160.62744600000005	270.599064	1.27	4.0	20775041
+S0905	T2D	40	female	34.5983843926	FRA	no	no	antidiab;metformin						20905221
+S0906	MS				DNK		yes	no	5.6	73.473	108.0554	2.9	3.0	23857959
+S0907	MS				DNK		yes	no	5.4	108.276	82.3701	1.59	4.0	20663682
+S0908	MS	68	female	23.6652443616	DEU	no	no	antilipid;antihta;ace_inhib;ca2_cbl;statin;asa	5.54	102.86220000000002	74.3988	0.1	2.0	21175354
+S0909	MS	31	female	22.8377893766	DEU	no	yes	no	5.42	117.5568	109.8268	2.8	3.0	22016742
+S0910	MS	59	male	25.500515830700003	FRA	no	yes	antilipid;antihta;diuranse;thiazidique;at2_inhib;kspdiur;ca2_cbl;statin						20787934
+S0911	IGT;MS	52	male	39.7086368366	FRA	no	no	antihta;thiazidique	5.9	141.671412	78.75644399999999	10.5	4.0	20009860
+S0912	MS	49	female	52.378328742	DEU	no	yes	antihta;diuranse;thiazidique;ace_inhib;beta_blockers;ca2_cbl;xantoxinh	4.94	135.345	133.7407	33.3	6.0	21340022
+S0913	CAD				DNK		yes	antihta;antidiab;ace_inhib;beta_blockers;su;metformin;glp_1;dppiv;antithombo;asa						20902519
+S0914	MS	42	female	44.6422836294	FRA	no	yes	no						19969524
+S0915	CAD;T2D				DNK		no	antilipid;statin;asa						23436237
+S0916	MS	38	female	40.159202553	FRA	no	yes	no	4.8	106.75240200000002	137.318928	12.5	4.0	20412460
+S0917	healthy	48	female	21.2011266142	FRA	no	yes	no	5.4	105.754716	88.853424	897.0	3.0	20021485
+S0918	MS	38	female	45.4156088675	FRA	no	yes	no	5.3	139.67604	79.76614199999999	6.24	4.0	59431114
+S0919	IGT;MS	27	male	42.3853969754	FRA	yes	yes	no	6.4	148.655214	191.84262	4.49	6.0	53101817
+S0920	MS	38	male	46.9907799601	FRA	no	no	no	5.4	126.706122	163.57107599999995	4.17	4.0	20263006
+S0921	T2D	42	female	41.5958580246	FRA	no	yes	antihta;thiazidique;at2_inhib;ca2_cbl						17074448
+S0922	T2D	56	female	40.8172607422	FRA		no	antihta;antidiab;at2_inhib;ca2_cbl;metformin						20592182
+S0923	MS				DNK		no	antihta;thiazidique	5.6	154.68	74.3988	2.41	5.0	20846874
+S0924	healthy	51	female	23.617594341	FRA	no		no	5.6	146.65984200000003	102.989196		2.0	20102403
+S0925	T2D	68	male	26.632304985900003	DEU	no	no	antihta;antidiab;ace_inhib;ca2_cbl;metformin;dppiv						10685630
+S0926	IGT;MS	67	male	31.7752013098	DEU	no	yes	antilipid;antihta;thiazidique;ace_inhib;statin	5.96	91.6479	454.3641	3.2	4.0	20869378
+S0927	T2D	55	female	27.4762046401	FRA	no		antidiab;metformin						20722951
+S0928	T2D	75	female	38.9468132581	FRA	no	no	antihta;antidiab;at2_inhib;beta_blockers;metformin;insulin;bolus;cumarine;other_antiarythmic						20229892
+S0929	IGT;MS	52	female	43.0343653061	FRA	no		no	5.8	107.750088	199.920204	10.3	6.0	25166249
+S0930	healthy	65	female	23.2332602462	DEU	no	no	antihta;ace_inhib	5.51	108.276	65.5418	887.0	4.0	22052625
+S0931	IGT;MS	33	male	53.93889660399999	DEU	no	no	no	5.83	139.5987	158.5403	7.27	4.0	20644499
+S0932	MS	57	male	43.0208578067	FRA	no	yes	PPI						23959410
+S0933	IGT;MS	60	female	25.8752668387	FRA	no	no	antilipid;fibrate	5.8	130.696866	98.950404	0.52	5.0	20467984
+S0934	T2D	57	female	28.131487889299997	DEU	no	no	antihta;antidiab;at2_inhib;metformin;dppiv						20951239
+S0935	T2D	62	female	26.696500906599997	FRA	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;su;metformin;statin						15362947
+S0936	MS				DNK		yes	antilipid;antihta;thiazidique;ace_inhib;statin	5.6	81.20700000000002	129.3122	1.47	2.0	21105153
+S0937	IGT;MS	32	female	41.6047048939	FRA	no		no	5.7	116.729262	110.05708199999998	17.5	4.0	23876267
+S0938	T2D	74	male	31.7510415352	DEU	no	yes	antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv						22795227
+S0939	IGT;MS	53	female	33.5468291326	FRA	no	yes	PPI	5.8	144.66447000000005	97.94070599999998	11.1	3.0	21891822
+S0940	healthy				DNK		no	no	5.5	116.01	112.4839	1.13	3.0	20341968
+S0941	healthy				DNK		yes	no	5.2	154.68	77.9416	483.0	3.0	21459276
+S0942	T2D	65	male	26.1110651871	FRA	no	no	antidiab;su						21347216
+S0943	T2D	62	female	29.0864598148	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;su;statin;cumarine						25378111
+S0944	IGT;MS	49	female	50.7015306122	DEU	no	no	antihta;ace_inhib;cumarine	6.15	160.86720000000005	172.71149999999997	9.71	4.0	24787258
+S0945	healthy				DNK		no	no	5.1	88.941	39.8565	428.0	4.0	23178272
+S0946	T2D	51	male	34.8044527741	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;metformin;statin						20508712
+S0947	T2D	74	female	28.4763313609	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;dppiv;statin						14272166
+S0948	CAD;T2D				DNK		yes	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;ca2_cbl;statin;asa;PPI						16955303
+S0949	T2D	55	female	48.1653593374	FRA	no		antihta;thiazidique;at2_inhib;ca2_cbl						19880858
+S0950	CAD				DNK		yes	antilipid;antihta;antidiab;diuranse;kspdiur;su;metformin;dppiv;statin;asa;clopidogrel						22447549
+S0951	IGT;MS	39	male	37.3174689021	FRA	no	yes	no	5.8	138.678354	235.259634	5.82	4.0	20038486
+S0952	IGT;MS	59	female	43.522160838199994	FRA	no	no	antihta;thiazidique	6.0	167.611248	114.095874	12.1	4.0	20755422
+S0953	IGT;MS	55	female	52.8628165454	FRA	no	yes	antihta;at2_inhib	6.3	167.611248	161.55168	6.47	4.0	21766569
+S0954	MS	45	female	46.4553202479	DEU	no	no	no	5.21	127.611	114.2553	3.46	4.0	20150918
+S0955	IGT;MS	59	male	27.0098589466	FRA	no	yes	antilipid;fibrate;statin	6.0	65.84727600000001	59.57218199999999	249.0	3.0	20574086
+S0956	MS				DNK		no	no	5.6	139.21200000000002	146.14049999999995	3.89	3.0	34527533
+S0957	IGT;MS				DNK		yes	antilipid;antihta;ace_inhib;statin;clopidogrel	6.2	50.271	46.0564	504.0	4.0	22119779
+S0958	HF;CAD;T2D				DNK		no	antilipid;antihta;diuranse;at2_inhib;kspdiur;beta_blockers;statin;asa						19832687
+S0959	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						22665459
+S0960	T2D				DNK		yes	antilipid;antihta;antidiab;at2_inhib;beta_blockers;su;metformin;dppiv;statin;antithombo						20359763
+S0961	IGT;MS				DNK		no	antihta;at2_inhib	6.2	112.143	62.8847	2.29	2.0	20929530
+S0962	IGT;MS	55	male	43.0976203353	DEU	no	yes	antihta;thiazidique;ace_inhib;ctrblock;xantoxinh	5.83	106.7292	75.2845	6.93	4.0	23433427
+S0963	healthy				DNK		no	no	5.6	119.877	106.284	991.0	4.0	20748110
+S0964	MS	48	female	46.4098366133	DEU	no	yes	antihta;diuranse;thiazidique;at2_inhib;ace_inhib;ca2_cbl;ctrblock	5.42	119.877	198.3968	23.3	3.0	20967604
+S0965	T2D	40	male	27.0262667181	FRA	yes		antilipid;antidiab;su;metformin;statin						21624414
+S0966	T2D	71	female	33.4177356561	FRA	no	no	antidiab;su;metformin;glp_1;PPI						20348752
+S0967	healthy				DNK		no	no	5.5	119.877	66.4275	0.8390000000000001	6.0	20060493
+S0968	CAD	68	male	28.216267420700003	FRA	no		antilipid;antihta;antidiab;at2_inhib;beta_blockers;metformin;statin;asa;PPI						21850116
+S0969	T2D	69	male	27.76922813860001	DEU		no	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;metformin;dppiv;statin;asa						18254285
+S0970	MS				DNK		yes	no	5.3	131.47799999999998	182.4542	1.2	3.0	21759232
+S0971	MS	28	female	48.1193302019	DEU	no	no	no	5.04	104.409	158.5403	6.84	4.0	21909446
+S0972	T2D				DNK		yes	antilipid;antihta;thiazidique;at2_inhib;fibrate;asa						20275254
+S0973	MS	44	female	52.07348771270001	DEU	no	yes	antilipid;antihta;diuranse;thiazidique;ace_inhib;beta_blockers;ca2_cbl;statin;asa;PPI	5.16	83.1405	108.9411	3.47	6.0	21700416
+S0974	T2D	66	male	27.8981923376	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;metformin;statin;PPI						15054978
+S0975	CAD	61	male	33.418193553	FRA	yes		antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						18748575
+S0976	IGT;MS	51	female	45.8667413606	FRA	no	no	no	6.1	169.60662000000005	96.931008	16.1	4.0	22027221
+S0977	CAD;T2D	56	male	22.343158464	FRA	yes	no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20440043
+S0978	IGT;MS				DNK		no	antilipid;statin	5.8	104.409	92.1128	0.49	3.0	22652059
+S0979	T2D	64	female	34.5827562327	DEU	no	no	antihta;antidiab;beta_blockers;metformin;dppiv;insulin						20284373
+S0980	IGT;MS				DNK		no	antihta;thiazidique	6.0	116.01	202.8253	2.46	4.0	22052261
+S0981	T2D	73	male	26.7361243033	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;su;metformin;statin;asa						14257883
+S0982	MS				DNK		yes	no	5.3	139.21200000000002	125.7694	2.79	4.0	21344665
+S0983	IGT;MS	40	female	60.808989314799994	FRA	no	yes	no	5.9	114.73389	150.445002	17.8	4.0	20229431
+S0984	MS	46	male	43.1828922495	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;glp_1;dppiv;insulin;bolus;statin;ezetimibe;xantoxinh						20080926
+S0985	healthy	70	male	25.3607825654	FRA	no	no	no	5.5	150.650586	117.124968	1.54	4.0	20090045
+S0986	T2D	66	female	31.4590436718	FRA	no	no	antihta;antidiab;ace_inhib;ca2_cbl;metformin						20308728
+S0987	MS	46	female	45.1150739217	DEU	no	yes	antihta;thiazidique;PPI	5.41	52.97790000000001	91.2271	14.9	3.0	25728444
+S0988	T2D	62	female	30.1905886321	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;su;metformin;dppiv;statin						21390869
+S0989	MS	49	female	40.3305794768	FRA	no	no	no	5.4	128.701494	65.63037	12.4	4.0	20181291
+S0990	T2D				DNK		no	antilipid;antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;metformin;dppiv;statin;xantoxinh						21354241
+S0991	healthy	53	male	21.800887356799997	DEU	no	no	no	5.33	90.8745	67.3132	273.0	4.0	20415996
+S0992	CAD				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;statin;asa						20593574
+S0993	IGT;MS	59	female	45.8688865765	FRA	no	yes	antilipid;statin;PPI	5.7	220.48860600000003	172.65835800000005	2.99	3.0	20207772
+S0994	T2D				DNK		no	antilipid;antihta;antidiab;ca2_cbl;metformin;glp_1;dppiv;statin;ezetimibe						25247040
+S0995	IGT;MS				DNK		yes	no	5.7	119.877	66.4275	545.0	3.0	24333005
+S0996	T2D	31	female	40.7501232447	FRA	no	no	antidiab;metformin						20270412
+S0997	HF;CAD				DNK		no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;statin;asa;PPI						21130129
+S0998	IGT	39	female	24.7255565815	DEU	no	yes	no	5.79	157.00019999999995	120.4552	238.0	4.0	21151004
+S0999	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;ca2_cbl;statin;clopidogrel						20871664
+S1000	MS				DNK		no	antihta;at2_inhib;ca2_cbl	5.6	119.877	101.85549999999998	1.82	4.0	20665053
+S1001	IGT;MS	61	male	49.9691358025	FRA	no	no	no	5.8	90.789426	101.979498	3.22	4.0	20139041
+S1002	CAD;T2D	54	male	27.2243990735	FRA	no	yes	antilipid;antihta;ca2_cbl;statin;clopidogrel;PPI						20670572
+S1003	T2D	66	female	30.156106519699996	DEU	yes	no	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;cumarine						16802590
+S1004	IGT	50	female	25.415333028499997	DEU	no	yes	no	5.72	112.5297	53.142	375.0	4.0	20291062
+S1005	IGT;MS	65	female	33.4086851431	FRA	no		antilipid;statin	6.0	134.68761	148.42560600000004	505.0	4.0	21904311
+S1006	T2D	66	female	25.2922891153	FRA	no	no	no						20072578
+S1007	CAD;T2D	68	male	30.0814357073	FRA	no	no	antilipid;antihta;at2_inhib;kspdiur;beta_blockers;statin;ezetimibe;asa;PPI						20520250
+S1008	MS	46	female	40.6962826169	DEU	no	yes	no	5.37	140.7588	61.11329999999999	2.44	4.0	21848485
+S1009	T2D	64	female	37.814452812	DEU	no	yes	antihta;thiazidique;at2_inhib						21257232
+S1010	T2D	52	female	31.4496604156	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;metformin						21827924
+S1011	T2D	56	female	33.0110776029	FRA	no	yes	antilipid;antihta;antidiab;ca2_cbl;insulin;bolus;statin;PPI						19695211
+S1012	IGT;MS	66	male	28.4736570248	DEU	no	yes	no	6.18	191.0298	108.0554	1.03	4.0	22106742
+S1013	IGT;MS	51	female	41.7213704209	FRA	no	no	no	5.8	138.678354	69.66916199999999	5.17	7.0	21391144
+S1014	MS				DNK		yes	no	5.5	77.34	64.6561	4.45	2.0	20599384
+S1015	CAD;T2D				DNK		no	antilipid;statin;antithombo;asa						20606284
+S1016	IGT;MS	61	female	48.0394742694	FRA	no		antihta;diuranse;ca2_cbl;PPI	5.9	96.77554200000002	58.562484	5.66	3.0	18735198
+S1017	MS	53	male	52.314814814799995	DEU	no	yes	antihta;antidiab;diuranse;at2_inhib;ace_inhib;beta_blockers;ca2_cbl;dppiv;bolus;xantoxinh						20162859
+S1018	MS				DNK		yes	no	5.5	112.143	77.0559	657.0	4.0	20243869
+S1019	T2D	65	male	29.2692706071	DEU	yes	no	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;dppiv;xantoxinh						20648617
+S1020	HF;CAD				DNK		yes	antilipid;antihta;antidiab;ace_inhib;kspdiur;beta_blockers;su;metformin;dppiv;statin;asa						20215346
+S1021	MS	62	female	45.5455856433	DEU	no	no	antilipid;antihta;antidiab;diuranse;thiazidique;ace_inhib;beta_blockers;ctrblock;insulin;bolus;statin;antithombo						14566617
+S1022	HF;CAD	59	female	28.2096681565	FRA	no	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;clopidogrel;PPI						20336875
+S1023	T2D	67	female	35.3381428186	DEU	no	yes	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;insulin;bolus						21354577
+S1024	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						31881161
+S1025	T2D				DNK		no	antihta;at2_inhib;ca2_cbl;xantoxinh						25238356
+S1026	IGT	63	female	23.2220118983	DEU	no	no	antilipid;antihta;beta_blockers;statin	5.84	87.7809	61.11329999999999	0.1	4.0	20561125
+S1027	healthy	32	female	20.8734676483	FRA	no	yes	no	5.0	116.729262	46.446108	0.1	3.0	20593060
+S1028	IGT;MS	57	female	51.6061867936	DEU	no	no	antihta;thiazidique;at2_inhib;beta_blockers;ctrblock	6.1	141.53220000000005	144.36909999999995	20.6	6.0	20425639
+S1029	MS	22	male	57.0947542533	DEU	yes	no	no						24941122
+S1030	IGT;MS	46	female	35.3880512609	FRA	no	yes	PPI	5.7	198.539514	157.51288799999998	6.08	4.0	21584178
+S1031	T2D	68	male	29.091745138	FRA	no	no	antihta;antidiab;at2_inhib;su						20256305
+S1032	IGT;MS	60	male	32.214532872	FRA	no	yes	antihta;thiazidique;at2_inhib;kspdiur;ca2_cbl	5.7	134.68761	70.67886	2.66	4.0	22159608
+S1033	IGT;MS				DNK		no	no	6.1	85.07400000000001	50.48489999999999	2.68	4.0	22524299
+S1034	T2D	64	female	30.625	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;statin						28369039
+S1035	T2D	58	male	36.512345679	DEU	no	no	antihta;antidiab;at2_inhib;metformin;dppiv;xantoxinh						4413711
+S1036	IGT	70	female	24.415237246599997	FRA	no	yes	no	5.8	157.634388	94.911612	3.58	3.0	21169220
+S1037	MS				DNK		no	no	5.3	88.941	255.9673	1.24	2.0	21147279
+S1038	MS	39	female	56.8163265306	DEU	no	yes	antihta;ace_inhib;beta_blockers;xantoxinh	5.38	122.1972	249.7674	10.4	6.0	20824703
+S1039	healthy	34	female	25.251765674	FRA	no	no	no	5.0	73.828764	75.72734999999999	3.0	5.0	24422949
+S1040	MS	55	male	44.4581238672	DEU	yes	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;metformin;dppiv;statin;asa;clopidogrel;nitrate						21778414
+S1041	HF;CAD;T2D				DNK		yes	antilipid;antihta;antidiab;diuranse;ace_inhib;kspdiur;metformin;dppiv;statin;antithombo;digitalis;xantoxinh						20402561
+S1042	HF;CAD				DNK		yes	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;ca2_cbl;statin;asa						23582245
+S1043	CAD;T2D				DNK		no	antilipid;antihta;diuranse;beta_blockers;ca2_cbl;statin;antithombo;asa;clopidogrel;PPI						25491808
+S1044	IGT;MS	42	female	70.0835598983	FRA		no	no	5.9	78.817194	137.318928	30.0		21855686
+S1045	HF;CAD				DNK		yes	antihta;antidiab;beta_blockers;ca2_cbl;metformin;dppiv;clopidogrel						20435485
+S1046	T2D	57	female	35.9169550173	DEU	no	yes	antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv;insulin;bolus;asa;PPI						18686638
+S1047	healthy	54	female	20.8415217939	FRA	no	no	no	5.6	133.689924	65.63037	213.0	6.0	21972830
+S1048	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;asa						20507231
+S1049	HF;CAD				DNK		yes	antilipid;antihta;antidiab;at2_inhib;metformin;glp_1;dppiv;insulin;statin;clopidogrel;nitrate						20421928
+S1050	healthy	63	female	19.5590237995	FRA	no	yes	no	5.3	163.620504	71.688558	0.1	3.0	21052668
+S1051	CAD;T2D	56	female	28.8461538462	FRA	no	yes	antilipid;statin;asa;PPI						15033135
+S1052	T2D	33	female	43.3319160998	DEU	yes	yes	antihta;antidiab;ace_inhib;metformin;dppiv						21528852
+S1053	CAD;T2D	65	male	37.8030928566	FRA	no	yes	antilipid;antihta;diuranse;at2_inhib;beta_blockers;statin;ezetimibe;asa;clopidogrel						34851867
+S1054	MS				DNK		no	no	5.5	96.675	80.5987	8.44	6.0	20589329
+S1055	MS	52	female	41.9834710744	DEU	no	no	antihta;ace_inhib	5.57	144.62580000000003	111.5982	4.63	3.0	21585412
+S1056	T2D	67	male	26.6022174148	DEU	yes	no	antihta;antidiab;beta_blockers;ca2_cbl;metformin;dppiv;xantoxinh						20061045
+S1057	T2D	59	female	42.419582211999995	FRA	no	no	antidiab;metformin;glp_1						20300111
+S1058	IGT	54	female	20.8317099972	FRA	no	yes	no	5.8	149.65290000000005	92.892216	448.0	4.0	20986946
+S1059	T2D				DNK		no	no						24843974
+S1060	HF;T2D	52	female	23.0656976269	FRA	no	yes	antilipid;antihta;thiazidique;beta_blockers;statin;asa;PPI						20181273
+S1061	IGT;MS				DNK		no	antihta;thiazidique;kspdiur;ca2_cbl	6.0	127.611	124.8837	1.45	6.0	22230176
+S1062	T2D	55	female	28.7147917018	FRA	yes		antihta;thiazidique;at2_inhib;PPI						22822688
+S1063	IGT;MS	49	male	39.893949075	FRA	no	no	antilipid;statin;asa	5.8	104.75703	99.960102	1.54	6.0	20953289
+S1064	IGT;MS	56	female	54.026384263500006	FRA	no	no	no	6.3	105.754716	205.978392	10.4	4.0	23670655
+S1065	T2D	56	male	40.3292112716	FRA	no	yes	antihta;ace_inhib;ca2_cbl						20587838
+S1066	healthy	63	female	23.6725749468	FRA	no		no	5.6	177.588108	52.504296	596.0	4.0	25930069
+S1067	IGT;MS	49	female	45.7967158013	FRA	no	yes	cumarine;PPI	6.1	98.770914	86.834028	9.16	3.0	20705613
+S1068	T2D	59	female	30.637440161199997	FRA	no	yes	antidiab;metformin;dppiv						20456612
+S1069	T2D	69	female	31.6101444584	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;dppiv;statin;other_antiarythmic						22776731
+S1070	IGT;MS	40	female	39.144287665	DEU	yes	yes	antihta;beta_blockers	6.42	179.8155	140.8263	5.51	4.0	21080493
+S1071	CAD;T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;antithombo;asa;nitrate						18294952
+S1072	healthy	70	female	23.3497128101	FRA	no	yes	no	5.6	181.578852	68.659464	1.51	2.0	30214092
+S1073	MS	55	female	36.3515356842	FRA	no	no	antihta;thiazidique;kspdiur	5.4	121.717692	80.77584	6.95	6.0	20564841
+S1074	healthy	30	male	21.4809391169	DEU	no	no	no	5.36	110.5962	135.5121	7.7	3.0	20589823
+S1075	MS	34	female	41.4500340636	DEU	no	yes	no	5.18	109.4361	226.7392	14.7	4.0	26458398
+S1076	T2D	61	female	33.641842734	FRA	no	yes	antihta;antidiab;ca2_cbl;su;metformin;asa;PPI						21845039
+S1077	MS	49	female	39.9529826664	FRA	no		antihta;thiazidique;at2_inhib;beta_blockers	5.0	149.65290000000005	76.73704799999999	8.15	4.0	20345716
+S1078	healthy	32	female	22.838625053	DEU	no	yes	no	5.35	124.1307	61.11329999999999	14.7	3.0	20291395
+S1079	IGT;MS	48	female	34.9014377464	FRA	no		no	6.1	222.483978	206.98809	1.0	4.0	21635605
+S1080	MS	25	female	45.648148148100006	DEU	yes	yes	no	5.66	101.3154	105.3983	10.4	3.0	20200679
+S1081	healthy	37	female	23.5482395976	DEU	no	no	no	5.26	58.77840000000001	66.4275	637.0	3.0	20566537
+S1082	CAD				DNK		no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;dppiv;insulin;statin;asa;clopidogrel;nitrate						21329038
+S1083	IGT;MS	49	female	36.2095398747	FRA	no	no	no	6.1	122.715378	146.40621000000004	4.46	2.0	21989156
+S1084	healthy				DNK		yes	PPI	5.2	119.877	89.4557	245.0	4.0	21175016
+S1085	MS	48	female	41.0034602076	DEU	yes	no	PPI	5.49	124.5174	131.0836	8.23	3.0	21113591
+S1086	T2D	61	female	29.296875	DEU	yes	yes	antilipid;antihta;antidiab;ace_inhib;metformin;dppiv;statin						21378495
+S1087	T2D	60	female	37.9286940552	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;glp_1;statin						20908505
+S1088	MS	25	female	48.0489723334	DEU	yes	yes	antidiab;metformin;glp_1;dppiv;insulin						22521685
+S1089	CAD;T2D				DNK		yes	antilipid;antihta;thiazidique;ace_inhib;ca2_cbl;statin;clopidogrel;nitrate;PPI						22507231
+S1090	healthy				DNK		no	no	4.9	96.675	58.4562	1.14	4.0	22663666
+S1091	CAD;T2D	58	male	27.2543332909	FRA	no		antilipid;antihta;ca2_cbl;statin;antithombo;asa						21196468
+S1092	CAD;T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;statin;antithombo;asa;nitrate;PPI						22922963
+S1093	MS	56	female	54.52827087439999	DEU	no	yes	antidiab;metformin;dppiv;insulin;bolus;asa						24464973
+S1094	T2D	45	male	42.0984234465	FRA	no	yes	antilipid;antihta;antidiab;ace_inhib;su;metformin;fibrate;xantoxinh						21046624
+S1095	CAD;T2D				DNK		no	antilipid;statin;asa						20096101
+S1096	T2D	42	female	37.2585409748	FRA	no	no	no						20299421
+S1097	healthy	37	female	18.3249103044	DEU	no	no	no	5.45	57.2316	47.8278	407.0	4.0	20361168
+S1098	T2D	68	female	34.4634348341	DEU	no	no	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;dppiv;asa						18584627
+S1099	MS	29	female	60.7533088137	DEU	no	yes	antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;dppiv;insulin;bolus						12107949
+S1100	MS	55	male	55.0103305785	DEU	no	no	antidiab;insulin;bolus;PPI						46361760
+S1101	T2D	74	male	29.8292718258	FRA	no	yes	antidiab;metformin						20363038
+S1102	MS	65	female	22.3046875	DEU	no	yes	antilipid;antihta;at2_inhib;statin	5.59	119.4903	87.6843	912.0	4.0	20583902
+S1103	CAD				DNK		yes	antilipid;antihta;diuranse;at2_inhib;beta_blockers;ca2_cbl;statin;antithombo;asa;clopidogrel;digitalis;PPI						30880992
+S1104	T2D	42	female	47.1913580247	DEU	yes	no	antihta;antidiab;beta_blockers;sglt2;PPI						22022668
+S1105	T2D	73	female	29.5625701009	DEU	no	no	antilipid;antihta;antidiab;diuranse;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;statin;asa						12898376
+S1106	CAD;T2D	57	male	33.0575261472	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;PPI						20525101
+S1107	T2D	64	female	31.71875	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;dppiv;insulin;bolus;asa						21941824
+S1108	healthy	24	female	21.2483607014	FRA	no	no	no	5.5	75.82413600000002	44.426712	454.0	4.0	25104251
+S1109	T2D	67	female	33.7874687264	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;insulin;bolus;statin						20458010
+S1110	CAD				DNK		no	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;asa;clopidogrel;PPI						20871988
+S1111	CAD	68	male	28.9229205981	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;clopidogrel;PPI						20551406
+S1112	healthy	69	male	20.7454510709	FRA	no	no	no	5.6	108.747774	44.426712	0.37	4.0	21081037
+S1113	IGT;MS	45	female	34.1207100592	FRA	no	no	antihta;beta_blockers;ca2_cbl;asa	6.3	108.747774	54.523692	0.7440000000000001	3.0	20911344
+S1114	healthy	75	male	25.180785124	DEU	no	no	no	5.62	138.4386	97.427	513.0	4.0	20152035
+S1115	T2D	54	male	33.178360101399996	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;su;metformin;glp_1;statin						20071302
+S1116	healthy				DNK		yes	antihta;beta_blockers;antithombo	5.6	131.47799999999998	100.96979999999998	667.0	4.0	21915990
+S1117	T2D	66	male	32.5085216513	DEU	no	no	antihta;antidiab;diuranse;thiazidique;at2_inhib;beta_blockers;ca2_cbl;ctrblock;su;metformin;glp_1;dppiv						16161476
+S1118	MS	29	female	44.4071597719	DEU	no	yes	antihta;ace_inhib;cumarine	5.29	85.84740000000002	94.7699	24.3	3.0	20401131
+S1119	MS	42	female	38.0588914954	DEU	no	yes	antihta;beta_blockers;PPI	5.44	173.62830000000002	477.39229999999986	5.18	4.0	20164926
+S1120	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						21733077
+S1121	MS	66	male	42.8948080043	DEU	no	yes	antilipid;antihta;antidiab;diuranse;thiazidique;at2_inhib;kspdiur;beta_blockers;metformin;dppiv;insulin;bolus;sglt2;statin;asa;PPI;xantoxinh						13885244
+S1122	CAD				DNK		yes	antilipid;antihta;thiazidique;at2_inhib;statin;asa						20190617
+S1123	healthy	34	male	24.8456790123	DEU	yes	yes	no	5.08	141.1455	44.285	376.0	4.0	21797280
+S1124	IGT;MS				DNK		no	antihta;at2_inhib;kspdiur;beta_blockers;antithombo;PPI	6.3	127.611	102.7412	2.79	4.0	21350644
+S1125	MS				DNK		yes	antilipid;statin	5.6	69.60600000000001	92.9985	0.35700000000000004	4.0	62661428
+S1126	T2D	69	female	31.879271231999997	DEU	no	no	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;PPI						20418922
+S1127	healthy				DNK		yes	antilipid;statin;clopidogrel	5.4	88.941	54.9134	2.14	4.0	21242337
+S1128	MS	35	female	49.6253002976	DEU	no	yes	no	5.49	102.0888	56.6848	16.7	4.0	21785901
+S1129	IGT;MS	63	female	32.5773865066	FRA	no	no	antilipid;antihta;thiazidique;at2_inhib;ca2_cbl;statin;ezetimibe	6.0	68.840334	50.48489999999999	495.0	3.0	21198167
+S1130	T2D	69	female	28.7331755728	FRA	no	no	antihta;antidiab;ace_inhib;metformin;insulin;bolus;PPI						20076473
+S1131	IGT;MS	42	female	51.9770408163	DEU	yes	yes	antihta;ace_inhib	5.73	114.4632	126.6551	10.7	3.0	20004355
+S1132	CAD;T2D	37	male	26.1224489796	FRA	yes	no	no						18414386
+S1133	T2D	44	male	33.154700413200004	FRA	no	no	no						15977019
+S1134	T2D	54	male	27.9815383046	FRA	yes	no	antihta;antidiab;thiazidique;ace_inhib;su;metformin;dppiv						20282437
+S1135	CAD;T2D	56	male	28.2513889698	FRA	no		antilipid;antihta;at2_inhib;statin;antithombo;asa						15137983
+S1136	healthy				DNK		no	no	5.4	146.946	78.8273	963.0	4.0	25727392
+S1137	MS	54	female	32.146643411599996	FRA	no	yes	antilipid;antihta;ca2_cbl;statin	5.6	164.61819	86.834028	17.1	3.0	20298151
+S1138	HF;CAD				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;ca2_cbl;statin;asa;PPI						20201202
+S1139	MS	39	female	38.8533610946	DEU	no	no	no	5.46	109.4361	124.8837	2.72	3.0	20750013
+S1140	T2D	54	female	33.2309814336	FRA	no	no	antilipid;antidiab;metformin;statin;ezetimibe						20503887
+S1141	MS				DNK		no	antilipid;antihta;ace_inhib;statin;xantoxinh	5.1	34.803000000000004	147.0262	415.0	6.0	20549539
+S1142	IGT;MS	29	female	41.1791496724	FRA	no	yes	no	5.7	139.67604	58.562484	8.41	4.0	21313918
+S1143	MS	50	female	55.5671175858	DEU	no	yes	antihta;antidiab;diuranse;beta_blockers;metformin;dppiv						20979549
+S1144	IGT	56	female	20.7008167413	FRA	no	yes	no	5.8	108.747774	65.63037	524.0	3.0	19905862
+S1145	MS	32	female	37.34375	DEU	no	no	no	5.34	121.8105	171.8258	9.71	4.0	20365819
+S1146	T2D	76	female	28.9283366206	DEU	no	no	antihta;antidiab;thiazidique;at2_inhib;metformin;dppiv;asa						23379071
+S1147	IGT				DNK		no	no	5.7	81.20700000000002	40.7422	467.0	2.0	19969688
+S1148	MS	61	female	35.5879292404	DEU	no	no	no	5.55	183.6825	278.1098	10.2	4.0	20188030
+S1149	HF;CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;beta_blockers;statin;clopidogrel;cumarine;digitalis						20788220
+S1150	MS				DNK		no	no	5.1	146.946	152.3404	1.42	4.0	29293834
+S1151	MS	29	female	36.464691709899995	FRA	no	no	no	5.5	109.74546	110.05708199999998	4.87	3.0	20721788
+S1152	MS	25	female	42.3529411765	DEU	yes	no	no	5.42	135.7317	157.6546	19.8	4.0	20320197
+S1153	CAD	70	male	24.0507321461	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;su;metformin;dppiv;statin;asa;clopidogrel;PPI						21198828
+S1154	HF;CAD;T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;kspdiur;beta_blockers;statin;asa;nitrate						21009568
+S1155	MS	30	female	36.4334374647	DEU	no	no	antihta;beta_blockers	5.37	114.0765	156.7689	25.3	4.0	20469219
+S1156	MS	53	male	31.8791433332	FRA	no	no	antihta;thiazidique;ace_inhib;PPI	5.5	144.66447000000005	169.62926399999995	4.63	4.0	20597521
+S1157	IGT	58	female	22.6477866721	FRA	no	yes	PPI	5.7	100.766286	55.53339	0.32	4.0	20076481
+S1158	healthy	38	female	21.490184414	DEU	no	yes	no	5.47	86.2341	40.7422	484.0	3.0	20590477
+S1159	MS	57	female	23.7812128419	DEU	no	yes	no	5.15	114.84990000000002	87.6843	0.1	4.0	20855376
+S1160	MS				DNK		no	antihta;beta_blockers	5.3		852.0433999999997	534.0	5.0	21007253
+S1161	T2D				DNK		yes	antihta;antidiab;thiazidique;metformin;dppiv;asa						21738517
+S1162	CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;ca2_cbl;statin;antithombo;asa						20607595
+S1163	healthy	43	female	20.0045724737	DEU	yes	no	no	4.21	98.6085	69.0846	0.1	6.0	21765630
+S1164	T2D	59	female	30.1276577312	DEU	no	yes	antihta;antidiab;ace_inhib;su;metformin;dppiv						22704648
+S1165	healthy	54	male	20.73812735	DEU	no	yes	no	5.18	131.8647	55.7991	0.1	4.0	20770664
+S1166	T2D	60	male	31.6128299648	DEU	no	yes	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;statin;ezetimibe						20108544
+S1167	MS	61	female	48.01486975970001	FRA	no	yes	antihta;thiazidique;kspdiur	5.6	63.85190400000001	38.368524	14.5	4.0	23543308
+S1168	HF;CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;kspdiur;beta_blockers;statin;amiodaron;asa						19721788
+S1169	MS	33	female	52.2900681575	FRA	no	yes	no	5.5	78.817194	136.30923	14.9	4.0	24745836
+S1170	CAD	58	male	36.379769299	FRA	no	no	antilipid;antihta;beta_blockers;statin;antithombo;asa;clopidogrel;nitrate						20726725
+S1171	MS	58	female	40.6620114965	DEU	no	yes	antihta;at2_inhib;beta_blockers;PPI	5.31	155.4534	158.5403	4.5	3.0	20743946
+S1172	T2D	60	male	32.401902496999995	DEU	yes	no	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;ctrblock;metformin;dppiv;asa						20565521
+S1173	MS	60	female	41.8642402495	DEU	yes	no	antilipid;antidiab;metformin;statin;asa						22427342
+S1174	healthy				DNK		no	no	5.5	92.808	84.1415	289.0	1.0	21294667
+S1175	T2D	47	female	37.9261995144	FRA	no	no	antidiab;su;metformin						20961139
+S1176	IGT				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo	5.8	50.271	52.2563	0.4270000000000001	2.0	20989320
+S1177	T2D	46	male	30.4809313818	FRA	yes	no	antilipid;antidiab;metformin;dppiv;statin						21337558
+S1178	IGT;MS	58	male	34.7482331055	FRA	no	yes	antihta;thiazidique;at2_inhib;kspdiur;beta_blockers;ca2_cbl	5.7	91.787112	195.88141199999995	4.55	4.0	20670823
+S1179	T2D	58	male	35.0193221846	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;kspdiur;ca2_cbl;su;metformin;dppiv;insulin;statin						17159963
+S1180	CAD	56	male	36.7309458219	FRA	no		no						12124578
+S1181	T2D				DNK		no	antilipid;antihta;antidiab;ace_inhib;su;metformin;dppiv;statin;clopidogrel						20551011
+S1182	T2D	29	male	27.390424818400003	FRA	no	no	antidiab;metformin						20946177
+S1183	healthy	64	female	25.1204648526	DEU	yes	no	no	5.63	207.2712	186.8827	838.0	4.0	20015493
+S1184	T2D	63	male	27.1050248981	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;metformin;statin						15475680
+S1185	healthy	58	female		FRA	no	no	no						22326410
+S1186	healthy				DNK		no	no	5.5	139.21200000000002	166.5116	246.0	4.0	23581659
+S1187	MS				DNK		yes	antilipid;antihta;at2_inhib;statin	5.4	100.542	94.7699	797.0	1.0	20107573
+S1188	CAD;T2D	56	male		FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						28805675
+S1189	IGT;MS	62	female	54.986225895299995	FRA	no		antihta;thiazidique;at2_inhib	6.0	97.773228	91.882518	27.3	6.0	21441629
+S1190	HF;CAD;T2D				DNK		no	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;statin;ezetimibe;antithombo;asa;clopidogrel						20878409
+S1191	MS	46	female	36.9792422703	DEU	no	yes	no	5.59	170.53470000000004	118.6838	1.82	6.0	26512869
+S1192	CAD;T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;asa						18493148
+S1193	MS	46	female	49.30612244899999	DEU	no	yes	xantoxinh	5.39	81.9804	171.8258	5.91	4.0	48573858
+S1194	IGT;MS	62	male	27.5584407478	DEU	no	yes	antilipid;antihta;ace_inhib;statin;ezetimibe	6.33	107.1159	194.854	991.0	4.0	21328150
+S1195	healthy				DNK		yes	no		100.542	80.5987	1.06	4.0	21235303
+S1196	T2D	58	male	24.2053806709	FRA	no	yes	antidiab;metformin						20104297
+S1197	healthy	52	male	25.0258946173	DEU	no	yes	no	5.22	150.81300000000005	115.141	682.0	4.0	20886145
+S1198	HF;CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;kspdiur;beta_blockers;ca2_cbl;statin;asa						23991752
+S1199	IGT;MS	72	female	24.8	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;ca2_cbl;statin;PPI	6.1	98.770914	74.717652	1.94	3.0	21236455
+S1200	T2D	66	female	38.0871705017	FRA	no	no	antihta;antidiab;ca2_cbl;ctrblock;metformin;dppiv						20664896
+S1201	MS	50	male	58.2716049383	DEU	no	yes	antihta;antidiab;beta_blockers;metformin;dppiv						15735322
+S1202	MS				DNK		no	no	5.4	104.409	60.2276	1.16	4.0	40547721
+S1203	T2D	35	female	49.476584022	DEU	no	yes	antihta;antidiab;thiazidique;ace_inhib;metformin;dppiv						20725693
+S1204	MS				DNK		no	antihta;beta_blockers	5.0	116.01	222.3107	3.3	3.0	21504146
+S1205	T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;ca2_cbl;statin;asa						21069101
+S1206	T2D	71	female	37.1855584211	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;su;metformin;dppiv;insulin;statin;ezetimibe						19994189
+S1207	MS	53	male	50.648148148100006	DEU	no	yes	antihta;antidiab;diuranse;thiazidique;glp_1;cumarine						20704271
+S1208	T2D	64	male	25.8865587794	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;kspdiur;metformin;dppiv;statin;xantoxinh						21931204
+S1209	healthy				DNK		no	no	5.4	92.808	68.1989	917.0	2.0	23430819
+S1210	MS	45	female	39.2777307107	FRA	no		no	5.4	107.750088	123.183156	14.9	4.0	20088734
+S1211	IGT;MS	64	female	48.3496234578	FRA	no	yes	antihta;at2_inhib	6.4	123.713064	73.707954	3.89	3.0	20743930
+S1212	CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;statin						21138552
+S1213	MS	34	male	36.1312669832	DEU	no	no	antihta;thiazidique;at2_inhib;ca2_cbl	5.25	139.5987	114.2553	1.25	4.0	20929252
+S1214	T2D	71	male	29.8706939757	DEU	no	no	antilipid;antihta;antidiab;diuranse;thiazidique;metformin;dppiv;insulin;bolus;statin;asa						24888809
+S1215	MS	58	female	47.7823502515	DEU	no	no	antihta;thiazidique;at2_inhib;ca2_cbl;ctrblock	5.38	155.4534	103.6269	9.13	5.0	23892948
+S1216	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate;PPI						21985609
+S1217	healthy				DNK		no	no	5.3	123.744	90.3414	2.03	4.0	25349095
+S1218	MS	25	female	51.8562557802	DEU	no	yes	no						20205351
+S1219	HF;CAD;T2D				DNK		no	antilipid;statin;antithombo;asa						20785305
+S1220	IGT;MS	40	female	39.2713700353	FRA	no	no	no	6.1	105.754716	69.66916199999999	8.02	4.0	20612691
+S1221	IGT;MS	56	female	58.6328125	DEU	no	yes	no	6.12	112.143	108.0554	6.47	5.0	20147245
+S1222	MS	49	female	37.3784846621	FRA	yes	yes	antihta;beta_blockers	5.5	75.82413600000002	58.562484	1.62	3.0	19921093
+S1223	HF;CAD;T2D				DNK		yes	antilipid;antihta;diuranse;ace_inhib;beta_blockers;ca2_cbl;ezetimibe;antithombo;asa;PPI						26230630
+S1224	T2D	60	male	32.065306122399996	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;su;metformin;statin;asa;PPI						22206650
+S1225	T2D	52	male	26.5251901879	FRA	no	no	antilipid;antidiab;metformin;statin						10204470
+S1226	MS				DNK		yes	antihta;at2_inhib						25875912
+S1227	IGT;MS	58	female	38.9649018441	DEU	yes	no	no	5.84	174.015	141.71200000000005	12.8	6.0	19968061
+S1228	T2D	59	male	35.740740740700005	DEU	no	no	antilipid;antihta;antidiab;thiazidique;ca2_cbl;metformin;dppiv;insulin;bolus;sglt2;statin						18984577
+S1229	T2D	57	female	26.5723211261	FRA	yes	yes	antidiab;metformin						21172866
+S1230	T2D	59	male	37.8357438017	DEU	yes	yes	antihta;antidiab;thiazidique;at2_inhib;metformin;glp_1;dppiv;insulin						21156733
+S1231	IGT				DNK		yes	no	5.7	177.882	86.7986	0.8340000000000001	2.0	26152074
+S1232	T2D				DNK		yes	antilipid;antihta;antidiab;ace_inhib;metformin;glp_1;dppiv;insulin;statin						20531346
+S1233	IGT;MS				DNK		no	no	5.9	127.611	127.5408	1.24	3.0	20511712
+S1234	IGT	61	male	24.919374336399997	FRA	no	yes	no	5.7	120.720006	78.75644399999999	1.59	4.0	20153941
+S1235	T2D	54	female	42.1518114325	FRA	yes	no	antilipid;antidiab;metformin;fibrate						20489728
+S1236	healthy				DNK		no	antihta;ca2_cbl	5.3	108.276	43.3993	3.12	3.0	21101681
+S1237	T2D	66	male	31.9902624762	DEU	no	yes	antihta;antidiab;thiazidique;ace_inhib;metformin;dppiv;sglt2						20615834
+S1238	T2D	54	male	25.691200606	FRA	no	yes	antidiab;su;dppiv						23096301
+S1239	T2D	60	male	25.2920025	FRA	no	no	antidiab;su;metformin						21105900
+S1240	T2D	65	female	27.555057595999997	DEU	no	no	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;dppiv						21748003
+S1241	MS	33	female	37.0606575964	FRA	no	no	no	4.9	100.766286	100.96979999999998	4.56	2.0	21320256
+S1242	T2D	65	female	32.2063771831	FRA	no		antidiab;metformin						20699300
+S1243	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;nitrate						20576142
+S1244	IGT;MS	57	female	39.6234888042	FRA	no	yes	no	6.1	182.576538	114.095874	5.22	6.0	20896293
+S1245	T2D	57	male	32.0838925127	DEU	yes	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;su;metformin;dppiv;insulin;fibrate;statin;PPI						23673267
+S1246	HF;CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;statin;asa						0
+S1247	healthy				DNK		yes	no	5.5	127.611	46.0564	225.0	2.0	27589434
+S1248	CAD	53	female	24.8845130752	FRA	no	yes	asa						20522332
+S1249	HF;CAD;T2D				DNK		yes	antihta;diuranse;at2_inhib;asa;other_antiarythmic						25270884
+S1250	IGT				DNK		no	no	5.9	116.01	121.3409	363.0	4.0	21809915
+S1251	MS	36	male	49.3987744248	DEU	yes	no	no	5.57	112.143	149.68329999999995	2.77	4.0	21158844
+S1252	MS				DNK		no	no	5.3	146.946	286.0811	3.22	3.0	28642564
+S1253	T2D	66	male	28.012906298	FRA	yes	no	antilipid;antidiab;metformin;statin						14504566
+S1254	MS				DNK		no	antihta;ca2_cbl	5.5	100.542	154.9975	1.77	3.0	22058322
+S1255	MS	51	male	39.4371779627	DEU	no	no	no						20889203
+S1256	CAD;T2D	63	male	24.4114106548	FRA	no	no	antilipid;antihta;beta_blockers;statin;asa						19422108
+S1257	healthy				DNK		no	no	5.5	116.01	89.4557	925.0	6.0	21832140
+S1258	T2D	58	female	29.6208115962	DEU	no	yes	antihta;antidiab;at2_inhib;su;glp_1;insulin;PPI						20162342
+S1259	IGT				DNK		yes	no	5.8	119.877	88.57	695.0	3.0	22403245
+S1260	T2D	73	male	28.8505304436	DEU	no	yes	antihta;antidiab;at2_inhib;metformin;dppiv						21997652
+S1261	T2D	71	male	24.776793718	DEU	yes	no	antilipid;antihta;antidiab;ace_inhib;su;metformin;dppiv;statin;asa						21294264
+S1262	CAD				DNK		yes	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;bolus;statin;asa						25913011
+S1263	T2D	51	female	24.6482064852	FRA	yes	no	antilipid;antidiab;su;metformin;insulin;statin						21360078
+S1264	MS	61	female	45.66544653840001	FRA	no	no	antihta;ace_inhib	5.3	127.703808	73.707954	11.3	1.0	20570336
+S1265	healthy	62	male	23.9158163265	FRA	no	no	no	5.3	194.54877	90.87282	4.77	2.0	21239476
+S1266	MS	35	male	41.0505025725	FRA	no	yes	no	5.6	94.78017	89.86312199999998	5.81	4.0	20053142
+S1267	healthy				DNK		no	no	5.6	123.744	56.6848	0.1	4.0	21106715
+S1268	T2D	46	male	32.2294635896	FRA	no	yes	antilipid;antidiab;metformin;statin;asa						20275364
+S1269	T2D	65	female	30.3527866391	DEU	no	no	antihta;antidiab;beta_blockers;metformin;dppiv;PPI						20002588
+S1270	T2D	69	female	33.4772226128	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;metformin;fibrate						20873101
+S1271	healthy				DNK		yes	no	5.4	139.21200000000002	64.6561	0.7759999999999999	3.0	20393932
+S1272	IGT;MS	31	male	39.5303197879	FRA	yes		no	6.3	56.868102	250.405104	3.21	4.0	20158194
+S1273	IGT;MS	55	female	34.3624487809	FRA	no	yes	antihta;at2_inhib;ca2_cbl	6.1	167.611248	126.21225	5.69	6.0	20414408
+S1274	IGT;MS	69	female	28.8730846741	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;statin	6.2	136.682982	82.79523599999997	2.23	3.0	22361520
+S1275	IGT;MS				DNK		no	no	5.9	123.744	314.42349999999993	603.0	3.0	23138775
+S1276	HF;CAD;T2D				DNK		yes	antilipid;antihta;thiazidique;beta_blockers;ca2_cbl;statin;asa						19328248
+S1277	CAD;T2D	60	male	25.0014667527	FRA	no	yes	antilipid;antihta;beta_blockers;ca2_cbl;ctrblock;statin;asa;PPI;xantoxinh						20259827
+S1278	IGT;MS	66	female	32.5288112328	FRA	no	yes	antihta;thiazidique;ace_inhib	6.1	137.680668	65.63037	1.58	2.0	24896725
+S1279	HF;CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;kspdiur;beta_blockers;statin;asa;PPI						16826410
+S1280	T2D	54	female	43.649791693	DEU	no	yes	PPI						20619265
+S1281	T2D	53	male	26.2593106931	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;fibrate;statin;xantoxinh						22149368
+S1282	HF;CAD;T2D	58	female	26.85074343	FRA	no	yes	antilipid;antihta;diuranse;ace_inhib;beta_blockers;statin;amiodaron;asa;cumarine;PPI						13883868
+S1283	T2D	72	male	28.5467128028	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;metformin;dppiv;insulin;bolus;statin;cumarine						22186342
+S1284	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;statin;asa						20027531
+S1285	CAD;T2D	74	male	30.827249233200003	FRA	no	yes	antilipid;antihta;beta_blockers;statin;asa						21555686
+S1286	T2D	63	male	26.9496657506	FRA	no	no	antihta;antidiab;at2_inhib;metformin;dppiv						21890134
+S1287	T2D	52	male	49.2108780971	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;insulin;bolus;statin						20513602
+S1288	CAD;T2D	55	male	24.7314602723	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						25910531
+S1289	MS				DNK		no	no	5.3	92.808	166.5116	1.33	3.0	21194711
+S1290	T2D	65	male	29.9009138335	DEU	no	no	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv						20794374
+S1291	MS	47	female	41.7325443787	FRA	no	no	no						20138564
+S1292	T2D	40	male	26.033393924099997	FRA	no	no	antihta;antidiab;ca2_cbl;su;metformin						21718528
+S1293	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						20713225
+S1294	IGT	47	male	23.2760847107	FRA	no	no	no	5.7	121.717692	69.66916199999999	0.67	4.0	23458340
+S1295	CAD				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;clopidogrel;nitrate;PPI						20902283
+S1296	MS				DNK		yes	no	5.2	108.276	174.48289999999997	5.83	4.0	20322221
+S1297	MS	57	female	27.4747474747	DEU	no	no	antihta;ace_inhib	5.67	134.57160000000002	84.1415	1.61	4.0	22177865
+S1298	IGT;MS	60	male	43.9760512587	DEU	yes	no	antihta;ace_inhib	6.08	173.24160000000003	146.14049999999995	16.3	4.0	20507750
+S1299	MS	41	female	41.4714496385	FRA	no	no	antilipid;ezetimibe						21196967
+S1300	IGT;MS	30	female	37.7508650519	FRA	no	no	no	6.0	137.680668	70.67886	4.91	2.0	20477874
+S1301	healthy	59	female	20.5126274982	DEU	no	yes	no	5.39	132.6381	64.6561	0.1	4.0	22238621
+S1302	T2D	71	female	33.803297626500004	DEU	no	yes	antihta;antidiab;diuranse;at2_inhib;ca2_cbl;metformin;dppiv;insulin;bolus;PPI;xantoxinh						18324478
+S1303	healthy	42	female	44.666337935600005	FRA	yes		no	5.1	101.763972	107.02798799999998	6.52	4.0	20138280
+S1304	CAD;T2D				DNK		yes	antilipid;statin;asa						23039459
+S1305	T2D	69	male	26.818115836799997	DEU	no	yes	antidiab;metformin;dppiv;PPI						22541383
+S1306	T2D	64	male	32.0781503515	DEU	no	no	antidiab;metformin;dppiv						21484874
+S1307	MS	43	female	44.844290657399995	DEU	no	yes	antihta;thiazidique	5.62	132.6381	172.71149999999997	17.9	4.0	19910920
+S1308	T2D	28	female	47.5163593099	DEU	no	no	antihta;antidiab;ace_inhib;metformin;dppiv						21669278
+S1309	T2D	68	female	30.9711481261	DEU	no	no	antihta;antidiab;diuranse;thiazidique;ace_inhib;beta_blockers;metformin;dppiv;xantoxinh						17498006
+S1310	T2D	63	male	36.7094461787	DEU	no	no	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;cumarine;other_antiarythmic;PPI						21400276
+S1311	MS				DNK		no	antilipid;antihta;at2_inhib;statin;PPI	5.6	143.079	150.569	1.32	3.0	21093298
+S1312	healthy	56	female	23.1717687075	DEU	no	yes	no	5.15	171.6948	105.3983	464.0	3.0	20540618
+S1313	healthy				DNK		no	no	5.5	116.01	61.11329999999999	1.14	4.0	20809378
+S1314	CAD	65	male	29.8328931798	FRA	no		antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;statin;ezetimibe;clopidogrel						20148109
+S1315	healthy	52	male	21.693663225300003	FRA	no	no	no	5.5	91.787112	57.552786	267.0	4.0	20248125
+S1316	healthy	32	male	23.8300924085	DEU	no	yes	no	5.2	91.6479	46.0564	239.0	3.0	20027564
+S1317	MS				DNK		yes	antihta;beta_blockers	5.6	104.409	123.11229999999998	5.49	3.0	22116312
+S1318	IGT;MS				DNK		no	antilipid;antihta;ca2_cbl;statin	5.8	61.87200000000001	360.4799	2.25	2.0	20479651
+S1319	T2D	68	male	32.8449679211	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;ctrblock;su;metformin;insulin;bolus;statin;asa						9330815
+S1320	T2D	62	male	27.3801166021	DEU	no	no	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;asa						32397827
+S1321	T2D	75	male	25.966730127	DEU	no	no	antihta;antidiab;diuranse;at2_inhib;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;insulin;bolus						20159105
+S1322	CAD;T2D	67	male	26.0719635386	FRA	no	no	antilipid;antihta;at2_inhib;beta_blockers;statin;asa;PPI						23263601
+S1323	MS	31	female	45.36271809	DEU	no	yes	no	5.02	95.5149	160.3117	20.0	3.0	22689308
+S1324	IGT	65	female	22.5	FRA	no	no	no	5.8	142.66909800000005	201.9396	3.35	4.0	23545505
+S1325	T2D	62	female	24.2862918623	FRA	no	no	antihta;antidiab;beta_blockers;metformin						20020887
+S1326	T2D	58	female	24.677021338400003	FRA	no		antidiab;insulin;bolus						22296767
+S1327	T2D				DNK		no	antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv						21499025
+S1328	T2D	69	female	29.1094870854	FRA	no	no	no						20644931
+S1329	CAD;T2D	59	male	27.7796201068	FRA		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						20902391
+S1330	IGT;MS	37	male	49.2356069899	FRA	no	no	no	5.9	147.657528	109.047384	5.87	3.0	21141072
+S1331	HF;CAD;T2D				DNK		yes	antilipid;antihta;diuranse;ace_inhib;kspdiur;statin;antithombo;asa						20412086
+S1332	IGT;MS	61	female	38.5355435275	FRA	no	yes	antihta;ace_inhib	6.4	142.66909800000005	134.28983399999998	4.76	5.0	21687188
+S1333	T2D	42	male	39.3591558913	FRA	no	yes	no						23579316
+S1334	IGT;MS	44	female	48.6317668055	DEU	no	yes	antihta;thiazidique;PPI	6.07	145.3992	312.6521	9.1	5.0	24591347
+S1335	CAD	69	male	37.0099829559	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;su;metformin;insulin;bolus;statin;asa;clopidogrel;PPI						21620379
+S1336	T2D	69	male	35.653906533000004	DEU	yes	yes	antihta;thiazidique;ace_inhib;beta_blockers;asa;PPI						19693013
+S1337	CAD;T2D	62	female	24.1176470588	FRA	no	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						21660554
+S1338	CAD				DNK		no	antilipid;antihta;antidiab;beta_blockers;ca2_cbl;su;metformin;glp_1;dppiv;insulin;statin;asa;clopidogrel						19128428
+S1339	T2D	53	female	33.9973224066	FRA	yes	yes	antihta;antidiab;thiazidique;at2_inhib;su;metformin;dppiv;PPI						20050737
+S1340	IGT;MS	46	female	44.2269697307	FRA	yes	no	no	6.0	137.680668	123.183156	8.43	6.0	41996465
+S1341	MS	36	male	48.1946723898	DEU	no	yes	no	5.47	112.9164	84.1415	2.08	3.0	19947608
+S1342	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;statin;asa						20577456
+S1343	HF;CAD				DNK		no	antilipid;antihta;antidiab;diuranse;metformin;dppiv;statin;asa;nitrate;PPI						45919374
+S1344	HF;CAD;T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;ca2_cbl;statin;asa						20245254
+S1345	IGT;MS	50	female	37.8839758412	FRA	no	yes	cumarine	6.3	139.67604	86.834028	4.12	3.0	20187056
+S1346	T2D				DNK		no	antilipid;antihta;antidiab;ace_inhib;ca2_cbl;metformin;dppiv;statin						21062667
+S1347	healthy	24	female	21.5830256806	DEU	no	yes	no	4.92	46.404	209.0252	15.6	4.0	21483145
+S1348	CAD;T2D				DNK		no	antilipid;antihta;thiazidique;at2_inhib;ca2_cbl;statin;asa						19003649
+S1349	MS	46	female	36.6178936138	FRA	no	no	no	5.4	147.657528	96.931008	1.95	3.0	20173947
+S1350	T2D				DNK		no	antidiab;metformin;dppiv						47521497
+S1351	T2D	65	male	33.733492423	FRA	no	no	antidiab;su;metformin;dppiv;asa						21262859
+S1352	IGT;MS				DNK		no	antilipid;antihta;ace_inhib;kspdiur;ca2_cbl;statin	6.1	108.276	59.3419	754.0	4.0	21473259
+S1353	MS	26	male	21.4719632709	DEU	no	no	no	5.48	94.3548	45.1707	1.71	3.0	20253227
+S1354	healthy	53	male	22.1970931397	FRA	no		no	5.2	91.787112	46.446108		4.0	20454918
+S1355	MS				DNK		no	no	5.6	131.47799999999998	138.1692	1.88	4.0	21337007
+S1356	T2D	71	female	27.0163363791	DEU	no	no	antidiab;metformin;dppiv						17367750
+S1357	IGT;MS	37	female	37.892103839899995	FRA	no	yes	no	5.9	106.75240200000002	49.475202	2.31	2.0	21241828
+S1358	healthy	44	female	24.5847891702	FRA	no		no	5.5	136.682982	77.746746	1.95	4.0	25415069
+S1359	HF;CAD				DNK		no	antilipid;antihta;antidiab;diuranse;ace_inhib;kspdiur;beta_blockers;metformin;dppiv;insulin;statin;ezetimibe;amiodaron;antithombo;asa;nitrate						27910061
+S1360	T2D				DNK		no	antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;dppiv;statin						24794111
+S1361	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;fibrate;asa;PPI						20449165
+S1362	T2D				DNK		no	antihta;at2_inhib;ca2_cbl						21413372
+S1363	healthy	55	female	22.261857576999997	FRA	no	no	no	5.4	149.65290000000005	91.882518	4.96	3.0	22134605
+S1364	IGT;MS	58	female	43.246618106099994	DEU	no	yes	antihta;at2_inhib	5.71	182.1357	134.6264	31.9	4.0	21419868
+S1365	IGT;MS	23	male	57.2609550237	DEU	no	yes	antihta;ace_inhib;beta_blockers;ca2_cbl	5.89	109.4361	92.1128	30.1	4.0	20643442
+S1366	T2D	54	male	28.215392562	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;kspdiur;ca2_cbl;metformin;dppiv						20954079
+S1367	MS	54	female	36.4891518738	DEU	no	yes	PPI	5.58	155.0667	97.427	3.01	4.0	20795136
+S1368	MS	28	female	47.1622142082	DEU	no	no	xantoxinh	5.66	162.02730000000005	233.8248	5.09	4.0	20858907
+S1369	IGT;MS	32	female	61.0802469136	DEU	yes	yes	no	5.92	118.7169	123.11229999999998	18.3	4.0	20349104
+S1370	IGT;MS	63	female	23.026279720700003	FRA	no	yes	antilipid;antihta;at2_inhib;ca2_cbl;statin;asa	6.4	78.817194	77.746746	693.0	4.0	24199824
+S1371	CAD				DNK		no	antilipid;antihta;antidiab;ca2_cbl;metformin;dppiv;statin;ezetimibe						20455710
+S1372	T2D				DNK		no	antihta;at2_inhib;beta_blockers						20051322
+S1373	healthy	69	female	21.8716659046	DEU	no	yes	no	5.19	124.5174	74.3988	12.6	6.0	21842305
+S1374	MS				DNK		no	antilipid;antihta;ace_inhib;statin;asa	5.5	108.276	92.1128	1.62	2.0	21548325
+S1375	T2D	65	male	34.515670931500004	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;ctrblock;glp_1;dppiv;insulin;statin;PPI						20341302
+S1376	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;ezetimibe;clopidogrel;PPI;xantoxinh						22424373
+S1377	IGT	58	female	22.2212852083	FRA	yes	no	no	5.7	106.75240200000002	44.426712	1.13	4.0	20256158
+S1378	MS	34	female	45.2704957209	FRA	no	no	PPI						26682863
+S1379	T2D	60	female	32.1566624695	FRA	no	yes	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;metformin;asa;PPI						20736601
+S1380	CAD;T2D	39	male	23.6310982401	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa;clopidogrel;nitrate						20545130
+S1381	IGT;MS				DNK		no	PPI	6.0	139.21200000000002	101.85549999999998	2.39	3.0	21484506
+S1382	T2D	73	male	32.481373306	DEU	no	yes	antihta;antidiab;ace_inhib;insulin;bolus						19992019
+S1383	T2D	62	male	32.6233206785	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;glp_1;dppiv;statin						20832653
+S1384	IGT;MS	44	female	33.7697663812	FRA	no	no	no	5.7	142.66909800000005	162.561378	1.57	6.0	20199243
+S1385	MS	39	female	43.053894525699995	FRA	no		no	5.3	123.713064	130.25104199999998		4.0	20791179
+S1386	IGT;MS	64	male	29.308313482	FRA	no		antilipid;antihta;thiazidique;at2_inhib;statin;ezetimibe;asa	6.0	103.759344	125.20255199999998	797.0	4.0	21705939
+S1387	MS	39	male	54.2229516475	DEU	no	yes	antihta;thiazidique;ace_inhib	5.35	153.9066	139.9406	16.3	2.0	20549190
+S1388	HF;CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						26696982
+S1389	healthy	48	female	21.3746552475	DEU	no	no	no	5.39	109.8228	55.7991	0.1	3.0	26466261
+S1390	MS	25	female	40.7898883092	DEU	yes	yes	no	5.38	152.3598	89.4557	26.7	4.0	19972154
+S1391	T2D	66	male	35.3806337584	DEU	no	no	antihta;antidiab;thiazidique;ace_inhib;metformin;dppiv;insulin;bolus;asa						19968163
+S1392	T2D				DNK		no	antilipid;antihta;antidiab;ca2_cbl;su;metformin;dppiv;statin						20253423
+S1393	T2D	56	female	28.503213957800003	FRA	no	no	antilipid;antidiab;su;statin						20715750
+S1394	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						23621803
+S1395	healthy				DNK		no	antilipid;statin;clopidogrel	5.5	96.675	113.3696	3.41	4.0	20778944
+S1396	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate						21841132
+S1397	CAD				DNK		yes	antilipid;antidiab;insulin;bolus;statin;antithombo;asa						11608872
+S1398	CAD				DNK		no	antilipid;antihta;beta_blockers;statin;asa						23734351
+S1399	MS	37	female	37.8889547767	DEU	no	yes	no	5.18	134.57160000000002	66.4275	7.24	3.0	20991852
+S1400	T2D	56	female	31.6474746519	FRA	yes		antilipid;antidiab;su;insulin;statin						20407161
+S1401	healthy	69	female	20.3374836865	FRA	no	yes	no	5.6	192.553398	70.67886	383.0	2.0	20805800
+S1402	T2D	57	male	30.4499540863	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;metformin;bolus;statin						20412709
+S1403	MS	40	female	68.48499702390001	DEU	yes	yes	no	5.37	90.8745	163.8545	8.84	5.0	21031224
+S1404	T2D	65	female	33.3568848332	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv;statin;asa;PPI;xantoxinh						20060076
+S1405	IGT;MS	64	female	50.3935762035	DEU	no	yes	antihta;diuranse;antithombo	5.79	171.6948	119.5695	4.27	4.0	20855664
+S1406	T2D				DNK		no	antilipid;antihta;antidiab;at2_inhib;metformin;dppiv;statin;asa						20517761
+S1407	IGT;MS	54	female	40.2687758446	FRA	yes		antihta;thiazidique;at2_inhib	6.1	155.639016	129.241344	13.7	4.0	20645600
+S1408	healthy	58	female	21.8517157272	DEU	no	yes	no	5.19	105.5691	51.3706	211.0	2.0	22547059
+S1409	HF;CAD;T2D				DNK		yes	antilipid;statin;asa;clopidogrel						28135826
+S1410	CAD;T2D	76	male	27.0836663292	FRA	no	no	antilipid;antihta;beta_blockers;statin;asa						20427904
+S1411	IGT;MS	61	female	36.438976462	FRA	no	yes	antilipid;antihta;beta_blockers;statin;PPI	6.0	173.59736400000003	333.20034	15.9	6.0	21077001
+S1412	CAD				DNK		no	antilipid;antihta;antidiab;at2_inhib;metformin;dppiv;statin;asa;nitrate;xantoxinh						20148615
+S1413	MS	64	female	44.0183518006	DEU	no	yes	antihta;ace_inhib	5.38	116.3967	128.42649999999998	1.46	4.0	21322729
+S1414	T2D	70	female	33.9317378464	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;dppiv;statin;asa;PPI						19381702
+S1415	IGT;MS	42	female	44.3658876451	FRA	no	no	antihta;thiazidique;at2_inhib	6.0	140.67372600000002	97.94070599999998	1.3	1.0	21164177
+S1416	healthy				DNK		no	antilipid;statin	5.5	108.276	72.6274	711.0	3.0	21844908
+S1417	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;ca2_cbl;statin;antithombo;asa						21125451
+S1418	CAD	74	male	25.8226743477	FRA	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;su;metformin;dppiv;insulin;statin;asa						21420945
+S1419	MS	23	male	54.2659279778	DEU	yes	no	no	5.55	92.0346	108.9411	12.2	6.0	20290783
+S1420	IGT;MS	54	male	32.7760366592	FRA	no	no	antihta;thiazidique;ace_inhib	5.9	110.743146	465.47077800000005	1.68	4.0	21704970
+S1421	MS	47	female	44.572154098	DEU	no	no	antihta;at2_inhib;beta_blockers;ca2_cbl	5.5	130.7046	228.5106	10.1	6.0	20957781
+S1422	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;ca2_cbl;statin;antithombo;asa;PPI						20777445
+S1423	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;ca2_cbl;statin;antithombo;asa;nitrate						21235384
+S1424	T2D	70	male	28.437066026999997	DEU	no	yes	antihta;antidiab;ace_inhib;metformin;dppiv;asa						24244456
+S1425	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20769326
+S1426	MS	42	female	44.7721383935	DEU	no	yes	antihta;beta_blockers	5.62	95.9016	54.0277	1.62	4.0	20515564
+S1427	IGT;MS	22	female	35.0045913682	DEU	no	yes	no	5.87	104.409	119.5695	21.1	4.0	24731362
+S1428	CAD;T2D	68	male	27.004451607199996	FRA	no	no	no						18106700
+S1429	MS	66	female	34.7644970414	FRA	yes	no	antihta;ace_inhib;PPI	5.4	98.770914	135.299532	2.7	1.0	23457059
+S1430	MS				DNK		no	no	5.2	166.28099999999995	59.3419	1.83	4.0	21826561
+S1431	IGT	65	female	22.5180802104	FRA	no		no	5.7	148.655214	68.659464	2.24	1.0	20141153
+S1432	IGT;MS	74	female	26.0633551457	DEU	no	no	antilipid;antihta;beta_blockers;statin	6.07	170.9214	177.14	3.08	4.0	20609653
+S1433	IGT;MS	69	female	36.1344002524	DEU	no	yes	antihta;beta_blockers;PPI	6.17	200.3106	143.4834	8.55	4.0	20383235
+S1434	MS	69	male	29.8409163868	FRA	no	no	antilipid;statin;ezetimibe	5.5	91.787112	70.67886	406.0	3.0	28474283
+S1435	T2D	56	male	33.0578512397	DEU	yes	yes	antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv;xantoxinh						13371024
+S1436	T2D	63	male	27.2321261025	FRA	no		antilipid;antidiab;su;metformin;dppiv;statin						14712867
+S1437	CAD				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate						21191222
+S1438	T2D	63	female	28.6492882498	DEU	no	no	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;PPI						21350799
+S1439	IGT;MS	61	male	29.7067696828	FRA	yes	yes	antilipid;statin;asa	6.0	73.828764	170.63896200000005	1.4	4.0	22497160
+S1440	CAD;T2D	66	male	29.1951626013	FRA	yes	yes	no						20562976
+S1441	IGT;MS	38	male	52.4605861633	FRA	yes	no	antihta;ace_inhib	5.8	150.650586	158.52258600000005	9.98	4.0	20081551
+S1442	MS				DNK		no	no	5.6	116.01	77.0559	11.6	2.0	22472651
+S1443	CAD;T2D	56	male	26.2576036006	FRA	no	no	antilipid;statin;antithombo						20358387
+S1444	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						22055799
+S1445	MS	45	female	66.7401285583	DEU	no	no	antihta;ace_inhib;beta_blockers;ca2_cbl;asa;PPI;xantoxinh	5.45	162.02730000000005	157.6546	20.1	4.0	25098835
+S1446	MS				DNK		no	PPI	5.6	170.14800000000002	112.4839	1.2	3.0	21567812
+S1447	IGT;MS				DNK		yes	PPI	5.8	139.21200000000002	153.22609999999997	4.63	4.0	24104392
+S1448	healthy	57	male	24.9429147383	FRA	yes	no	antilipid;antihta;kspdiur;statin	5.1	92.784798	575.5278599999998	2.23	4.0	32673298
+S1449	T2D	59	female	30.4296875	FRA	no	no	antihta;thiazidique;beta_blockers;ca2_cbl;ctrblock;PPI						21800676
+S1450	HF;CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;kspdiur;beta_blockers;statin;asa;PPI						22043292
+S1451	healthy	71	female	24.0830449827	DEU	yes	yes	no	5.41	209.9781	135.5121	3.78	4.0	20185872
+S1452	IGT;MS	37	female	36.284668787	FRA	no		no	6.4	102.761658	84.81463199999997	1.81	4.0	21393412
+S1453	T2D	69	male	40.211000104499995	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;su;metformin;glp_1;fibrate;cumarine						16125933
+S1454	IGT;MS				DNK		no	antilipid;antihta;beta_blockers;statin;asa	5.7	104.409	114.2553	982.0	4.0	20744485
+S1455	T2D	61	male	42.7155911908	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;dppiv;insulin;bolus;statin						21267684
+S1456	MS				DNK		yes	antilipid;antihta;ca2_cbl;statin	5.2	104.409	128.42649999999998	939.0	4.0	21245767
+S1457	IGT;MS	49	female	51.1228435455	FRA	no	yes	antihta;thiazidique;at2_inhib;PPI	6.1	139.67604	158.52258600000005	9.13	4.0	20071342
+S1458	IGT;MS	59	female	47.282149823900006	FRA	no		antihta;thiazidique;at2_inhib;ca2_cbl	5.9	119.72232	134.28983399999998	10.6	7.0	21284683
+S1459	T2D	67	male	25.6658863409	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv;statin;clopidogrel						20926621
+S1460	IGT;MS	33	female	46.0043774348	FRA	no	yes	PPI	6.0	129.69918	56.54308799999999	6.86	4.0	20325690
+S1461	MS				DNK		no	antilipid;statin;asa	5.5	69.60600000000001	76.1702	657.0	4.0	23209493
+S1462	T2D	61	female	27.66096987	FRA	no	no	antilipid;antidiab;metformin;statin						20688901
+S1463	CAD;T2D	75	male	28.6010224197	FRA	no	yes	antilipid;antihta;at2_inhib;beta_blockers;ca2_cbl;statin;antithombo;asa;PPI						20626873
+S1464	MS				DNK		yes	PPI	5.4	123.744	178.02569999999997	0.7509999999999999	2.0	20568806
+S1465	T2D				DNK		yes	antilipid;antihta;diuranse;beta_blockers;statin;asa;nitrate						23982656
+S1466	T2D	69	male	40.5626649738	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;insulin;bolus;statin;asa;PPI;xantoxinh						15525451
+S1467	healthy	65	male	24.3151738997	DEU	no	yes	antihta;at2_inhib	5.59	136.1184	92.9985	3.16	3.0	20370537
+S1468	CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;ca2_cbl;statin;asa						22154467
+S1469	MS	63	female	45.5624110109	FRA	yes		no						20275689
+S1470	MS				DNK		yes	no	5.3	135.345	135.5121	285.0	3.0	21229156
+S1471	T2D	63	male	30.3737438368	DEU	yes	no	antidiab;metformin;dppiv;insulin;bolus						21834894
+S1472	IGT;MS				DNK		no	no	5.7	100.542	188.6541	342.0	4.0	20407368
+S1473	T2D	57	female	32.1164174771	FRA	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;metformin;statin;ezetimibe						20556273
+S1474	healthy	46	female	22.5797728502	DEU	yes	yes	no	5.51	64.9656	33.6566	765.0	4.0	20086381
+S1475	healthy	29	female	20.113222901	FRA	no	yes	no	5.4	93.782484	58.562484	4.6	5.0	20946427
+S1476	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;asa;PPI						20027361
+S1477	healthy	73	female	22.4107625744	DEU	no	yes	no	5.06	150.81300000000005	106.284	706.0	4.0	20419491
+S1478	CAD;T2D				DNK		yes	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;asa						20331544
+S1479	T2D	68	male	31.385823563699997	FRA	no		antilipid;antidiab;metformin;insulin;bolus;statin;asa;clopidogrel;PPI						20966037
+S1480	MS	42	female	47.0849486243	DEU	no	no	antihta;antidiab;thiazidique;su;glp_1						19984531
+S1481	CAD				DNK		no	antilipid;antihta;antidiab;kspdiur;beta_blockers;su;metformin;dppiv;statin;antithombo;asa;nitrate						20765978
+S1482	HF;CAD				DNK		no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;su;metformin;dppiv;statin;clopidogrel;PPI						24342428
+S1483	IGT;MS	63	female	40.8472609733	FRA	no	yes	no	6.2	192.553398	272.61846	21.5	3.0	20584432
+S1484	IGT;MS	61	male	34.6528955425	FRA	no	yes	antilipid;antihta;thiazidique;at2_inhib;kspdiur;beta_blockers;ca2_cbl;ctrblock;ezetimibe;asa	6.2	103.759344	68.659464	1.72	4.0	20340945
+S1485	IGT;MS	63	male	39.1395555556	FRA	no	no	antihta;thiazidique;at2_inhib;beta_blockers;asa;other_antiarythmic	6.2	124.71075	253.434198	2.18	3.0	20461627
+S1486	MS	39	male	42.5749768794	DEU	yes	no	no	5.12	122.9706	241.7961	998.0	4.0	20961933
+S1487	T2D	46	male	27.4239611233	FRA	no	yes	antidiab;su;insulin;bolus						15247579
+S1488	T2D	56	female	29.7241091674	FRA	no	yes	antilipid;antihta;antidiab;at2_inhib;su;metformin;dppiv;statin;asa;PPI						21542286
+S1489	healthy				DNK		yes	no	5.4	135.345	108.9411	1.02	1.0	21632221
+S1490	IGT				DNK		yes	no	5.7	108.276	42.5136	458.0	3.0	21632867
+S1491	healthy	38	female	22.1730294673	DEU	no	yes	no	5.6	112.143	54.9134	665.0	3.0	20561639
+S1492	CAD				DNK		no	antilipid;antihta;antidiab;diuranse;metformin;dppiv;fibrate;statin;asa						20326167
+S1493	T2D	64	male	33.114186851199996	DEU	no	no	antihta;antidiab;ace_inhib;metformin;dppiv						20693070
+S1494	T2D				DNK		yes	antilipid;antihta;antidiab;diuranse;at2_inhib;ca2_cbl;ctrblock;metformin;dppiv;statin;asa						20267909
+S1495	T2D				DNK		no	antilipid;antihta;antidiab;ace_inhib;metformin;glp_1;dppiv;insulin;bolus;statin						20353777
+S1496	T2D	44	female	34.0783672899	FRA	no	no	antilipid;antidiab;metformin;dppiv;statin						23927177
+S1497	CAD				DNK		no	antilipid;antihta;beta_blockers;statin;ezetimibe;antithombo;asa;nitrate;PPI						20353755
+S1498	CAD				DNK		yes	antilipid;antihta;ca2_cbl;statin;ezetimibe;asa;clopidogrel						20440381
+S1499	IGT;MS	64	female	40.112178125300005	FRA	no	no	antilipid;antihta;at2_inhib;kspdiur;ca2_cbl;statin	6.4	73.828764	95.92131	2.87	3.0	20129252
+S1500	T2D	70	female	29.53125	DEU	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;metformin;dppiv;statin						20357521
+S1501	HF;CAD				DNK		yes	antilipid;antihta;antidiab;at2_inhib;beta_blockers;metformin;dppiv;fibrate;statin;asa;clopidogrel;xantoxinh						23350615
+S1502	IGT;MS	68	male	26.1894282669	DEU	no	no	antihta;ace_inhib	6.1	155.0667	77.9416	652.0	3.0	20054523
+S1503	HF;CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;cumarine						25422550
+S1504	IGT	69	male	24.5084467313	DEU	no	no	no	5.79	207.2712	100.08409999999998	2.92	6.0	22843502
+S1505	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						21753740
+S1506	T2D	63	female	32.0773985488	FRA	no	no	antihta;antidiab;thiazidique;at2_inhib;metformin						20356386
+S1507	T2D	65	female	25.3462443579	DEU	no	yes	antihta;antidiab;ace_inhib;metformin;dppiv						21602431
+S1508	HF;CAD				DNK		yes	antilipid;antihta;antidiab;ace_inhib;beta_blockers;dppiv;statin;cumarine;digitalis						20787726
+S1509	healthy				DNK		yes	no	5.4	123.744	45.1707	341.0	3.0	21910183
+S1510	T2D	61	male	28.2918473667	FRA	yes	no	antilipid;antihta;antidiab;beta_blockers;metformin;statin;antithombo;other_antiarythmic;PPI						15059667
+S1511	T2D	73	male	28.5467128028	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv;fibrate;statin						19976536
+S1512	MS				DNK		no	no	5.2	174.015	109.8268	1.26	4.0	21405801
+S1513	MS				DNK		no	no	5.5	158.547	66.4275	662.0	3.0	23789367
+S1514	MS	62	male	36.7931467363	DEU	no	no	antihta;antidiab;diuranse;thiazidique;ace_inhib;ca2_cbl;ctrblock;metformin;glp_1;dppiv;asa;PPI;xantoxinh						22502765
+S1515	healthy	44	female	17.9496951763	DEU	no	yes	no	5.14	103.2489	106.284	297.0	4.0	20310563
+S1516	IGT;MS				DNK		no	no	5.7	185.616	165.6259	0.68	3.0	20674110
+S1517	CAD;T2D	51	male	28.8611209054	FRA	yes	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						18766382
+S1518	healthy	56	female	23.046875	DEU	yes	yes	no	4.88	114.4632	52.2563	2.52	6.0	20435834
+S1519	T2D	68	female	40.9314099769	FRA	no	no	antilipid;antihta;antidiab;diuranse;at2_inhib;kspdiur;ca2_cbl;su;metformin;statin;PPI						20218155
+S1520	healthy	49	female	20.9750566893	DEU	no	no	antihta;ca2_cbl	5.24	90.8745	62.8847	1.25	2.0	21533731
+S1521	T2D	37	female	35.8689873022	FRA	no		antidiab;metformin						21411611
+S1522	MS				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;digitalis	5.3	119.877	134.6264	2.77	4.0	20345956
+S1523	MS	66	female	49.80716253439999	DEU	no	yes	antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv						20993556
+S1524	MS	35	female	43.7444767075	DEU	no	yes	no	5.35	115.2366	105.3983	21.9	4.0	21208304
+S1525	T2D	56	female	32.174730536599995	FRA	no	yes	antidiab;su;metformin;insulin						21064628
+S1526	IGT;MS				DNK		no	antihta;kspdiur;ca2_cbl;ctrblock	5.8	150.81300000000005	77.9416	1.9	3.0	21245481
+S1527	IGT;MS	52	female	45.24069404189999	FRA	no	yes	no	6.0	120.720006	137.318928	838.0	4.0	20126244
+S1528	T2D				DNK		yes	no						21784209
+S1529	T2D	68	male	25.9752556495	DEU	no	no	no						26319185
+S1530	IGT;MS	70	female	29.1114159427	DEU	no	no	antilipid;antihta;beta_blockers;ca2_cbl;ezetimibe	5.99	158.1603	185.1113	5.24	4.0	20051172
+S1531	T2D				DNK		no	antidiab;metformin;dppiv						12853898
+S1532	CAD;T2D				DNK		no	antilipid;antihta;diuranse;at2_inhib;ca2_cbl;statin;ezetimibe;asa;nitrate;PPI						20179265
+S1533	MS	25	female	47.3991997538	DEU	no	no	no	5.48	66.8991	76.1702	4.36	4.0	20655050
+S1534	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;asa						21092023
+S1535	T2D	46	female	26.6848143853	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;metformin;dppiv;statin						20511930
+S1536	MS				DNK		no	no	5.4	119.877	107.1697	1.72	4.0	20417073
+S1537	MS	61	male	39.8188209843	DEU	no	yes	antihta;ace_inhib;ca2_cbl	5.17	94.3548	102.7412	2.36	4.0	20042093
+S1538	MS				DNK		no	no	5.3	146.946	286.0811	2.51	4.0	23731056
+S1539	HF;CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;nitrate						20591048
+S1540	IGT;MS	43	female	43.4005263925	FRA	no	yes	no	6.2	94.78017	151.45469999999997	1.03	3.0	22423345
+S1541	IGT;MS	61	male	31.732941303	FRA	no	no	antilipid;statin;asa	5.8	89.79174	217.08507000000003	1.31	4.0	20233795
+S1542	MS	45	female	39.1545372245	DEU	yes	yes	antihta;diuranse;PPI	5.54	174.4017	81.4844	1.59	4.0	20068741
+S1543	CAD;T2D	75	male		FRA	no		antihta;beta_blockers;ca2_cbl;antithombo;PPI						21225556
+S1544	healthy	56	female	24.921875	DEU	no	no	no	5.06	146.1726	76.1702	884.0	3.0	21594792
+S1545	MS				DNK		no	antihta;ace_inhib	5.4	154.68	71.7417	0.45	3.0	20811418
+S1546	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20183701
+S1547	T2D	68	male	32.3428638941	DEU	no	no	antihta;antidiab;ace_inhib;metformin;dppiv;insulin;bolus						18545135
+S1548	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20016066
+S1549	T2D	62	male	27.7376202621	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;su;metformin;statin;ezetimibe;asa						20372404
+S1550	T2D	58	male	35.7444753049	DEU	no	no	antilipid;antihta;antidiab;diuranse;beta_blockers;metformin;glp_1;insulin;bolus;sglt2;statin;ezetimibe;asa;cumarine						20286515
+S1551	T2D	63	male	27.6795859109	DEU	yes	no	antidiab;metformin;dppiv						15374062
+S1552	MS				DNK		yes	no	5.4	139.21200000000002	226.7392	2.86	4.0	27864056
+S1553	T2D	53	female	39.2497484542	FRA	no	no	no						20861060
+S1554	healthy	64	male	23.064198995	DEU	yes	yes	no	5.41	189.8697	113.3696	3.63	6.0	21029183
+S1555	IGT;MS	37	male	40.3460052986	DEU	no	yes	antihta;at2_inhib	6.12	155.4534	133.7407	1.62	3.0	22874928
+S1556	healthy	41	female	21.1004678102	DEU	no	yes	no	5.1	151.97310000000004	65.5418	856.0	4.0	19989442
+S1557	T2D	70	female	34.1411370218	FRA	no	yes	antilipid;antihta;antidiab;at2_inhib;su;metformin;statin;clopidogrel;PPI						21763870
+S1558	T2D	61	male	27.6244897959	DEU	no	yes	no						24057003
+S1559	MS	49	female	35.0138877199	FRA	no	yes	PPI	5.4	221.486292	204.968694	3.78	4.0	20386306
+S1560	HF;CAD;T2D	53	female	30.0800592346	FRA	no		antilipid;antihta;ace_inhib;kspdiur;beta_blockers;statin;asa;clopidogrel;PPI						20011761
+S1561	T2D	65	female	47.950545778599995	DEU	no	no	antihta;antidiab;beta_blockers;metformin;dppiv						23697996
+S1562	MS	37	female	41.5854450942	FRA	no	yes	no	5.6	120.720006	69.66916199999999	5.88	6.0	26472396
+S1563	healthy				DNK		yes	no	5.3	116.01	44.285	0.91	4.0	28961017
+S1564	T2D	68	female	28.311965811999997	DEU	no	no	antihta;antidiab;thiazidique;ace_inhib;ca2_cbl;insulin;bolus						21979810
+S1565	healthy				DNK		no	no	5.2	100.542	47.8278	0.1	3.0	20772418
+S1566	IGT;MS				DNK		yes	PPI	5.7		416.279	0.5579999999999999	3.0	20154334
+S1567	T2D	70	female	31.8058003525	DEU	no	no	antihta;antidiab;thiazidique;metformin;dppiv						21673609
+S1568	healthy				DNK		no	no	5.6	96.675	46.9421	1.1	2.0	22015877
+S1569	IGT;MS	59	female	29.745094566	FRA	no	no	no	6.1	193.55108400000003	159.53228399999998	1.24	4.0	20684495
+S1570	T2D	63	male	26.4452710741	FRA	no	no	antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;su						20589132
+S1571	CAD				DNK		yes	antilipid;antihta;ca2_cbl;statin;antithombo;nitrate						20459538
+S1572	CAD;T2D	59	male	28.3699010643	FRA	no	no	antilipid;antihta;beta_blockers;statin;antithombo;asa;PPI						19700525
+S1573	T2D				DNK		no	antilipid;antihta;antidiab;thiazidique;ace_inhib;metformin;dppiv;insulin;bolus;statin;asa						20374490
+S1574	T2D	71	male	33.6979591837	DEU	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;metformin;dppiv;statin;asa;PPI						20500477
+S1575	MS	25	male	46.3872791915	DEU	no	no	no	4.7	99.7686	93.8842	9.36	3.0	20032798
+S1576	T2D	68	male	26.8917310216	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;insulin;bolus;statin;xantoxinh						35530875
+S1577	T2D	67	female	28.5836507007	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;kspdiur;ca2_cbl;su;metformin;glp_1;insulin;statin;asa						20434276
+S1578	IGT;MS	52	male	37.6535869996	FRA	no	no	antilipid;statin	5.8	94.78017	97.94070599999998	4.5	3.0	21661777
+S1579	MS				DNK		yes	antihta;ca2_cbl	5.4	123.744	87.6843	2.4	6.0	20523269
+S1580	T2D	66	male	31.0888629606	FRA	no	no	antidiab;metformin						21745969
+S1581	healthy	41	female	21.9651056015	DEU	no	yes	no	4.8	94.3548	39.8565	337.0	4.0	20649051
+S1582	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						19287013
+S1583	MS	46	female	42.4845041322	DEU	no	no	no	5.47	151.1997	327.709	5.48	3.0	21430057
+S1584	MS				DNK		no	no	5.4	127.611	74.3988	456.0	4.0	27675744
+S1585	MS	41	female	52.508503401400006	DEU	no	yes	antihta;thiazidique;at2_inhib						23117869
+S1586	MS	31	female	49.015275849	DEU	no	yes	no	5.39	78.50009999999997	139.0549	15.4	4.0	21059350
+S1587	T2D	49	male	32.2376713344	FRA	no	no	antidiab;su;metformin;dppiv						21439403
+S1588	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20852017
+S1589	T2D	41	male	30.9713596427	FRA	no	no	antidiab;metformin						21672370
+S1590	MS	34	female	52.2448979592	DEU	no	yes	antihta;thiazidique;at2_inhib;beta_blockers	5.62	87.3942	171.8258	12.7	4.0	20543983
+S1591	IGT;MS	63	female	25.4736758831	DEU	no	no	antihta;thiazidique;at2_inhib;beta_blockers	5.98	186.0027	192.1969	0.6659999999999999	3.0	20518919
+S1592	T2D	61	male	51.5481341266	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;kspdiur;beta_blockers;ca2_cbl;su;metformin;glp_1;asa;xantoxinh						19470836
+S1593	MS	44	male	35.3420585653	DEU	no	no	antihta;beta_blockers	5.3	115.6233	123.99799999999998	2.33	5.0	20618818
+S1594	T2D	52	female	32.3868211897	FRA	no	no	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;su;metformin;dppiv;insulin;asa						20959142
+S1595	T2D	67	male	33.3208534969	FRA	no	yes	antidiab;su;metformin;dppiv;asa						20006609
+S1596	T2D	52	female	43.62087656470001	FRA	no	yes	antidiab;metformin;dppiv						24908573
+S1597	CAD				DNK		yes	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;ca2_cbl;ezetimibe;asa						19609729
+S1598	MS				DNK		no	no	5.3	100.542	112.4839	387.0	4.0	21061998
+S1599	T2D	62	male	33.4452479339	DEU	no	no	antilipid;antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv;insulin;bolus;statin;asa;PPI						17659329
+S1600	CAD;T2D	69	male	22.9053972531	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						20361048
+S1601	T2D	60	female	34.6809085992	DEU	no	no	antilipid;antihta;antidiab;at2_inhib;kspdiur;beta_blockers;ca2_cbl;insulin;bolus;statin						14928412
+S1602	T2D	69	male	29.8257795733	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;bolus;asa;PPI						20466200
+S1603	healthy				DNK		yes	no	5.5	112.143	54.9134	505.0	6.0	22654336
+S1604	HF;CAD;T2D	34	male	24.2906574394	FRA	yes	no	antilipid;antihta;ace_inhib;statin;asa;cumarine;other_antiarythmic						19353030
+S1605	IGT;MS	54	female	39.5987654321	DEU	no	yes	antihta;thiazidique;ace_inhib;beta_blockers;PPI	5.77	119.1036	187.7684	7.6	4.0	20401824
+S1606	MS	31	female	47.9313142239	DEU	no	yes	antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;insulin						20744202
+S1607	MS				DNK		no	antilipid;antihta;thiazidique;at2_inhib;statin;clopidogrel	5.6	73.473	103.6269	1.74	4.0	21875762
+S1608	healthy				DNK		no	no	5.3	104.409	52.2563	1.68	4.0	28308541
+S1609	MS				DNK		no	antihta;ace_inhib;ca2_cbl	5.4	108.276	184.2256	906.0	4.0	21241591
+S1610	IGT;MS	65	female	36.9723224532	FRA	no	yes	antihta;kspdiur;beta_blockers	6.1	149.65290000000005	256.46329199999997	3.4	5.0	21339135
+S1611	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;clopidogrel						31232658
+S1612	T2D	59	male	29.3352171327	DEU	yes	yes	antidiab;insulin;bolus;PPI						21445290
+S1613	CAD	65	male	30.5908599243	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv;statin;asa;nitrate;PPI						9993336
+S1614	healthy				DNK		no	no	5.6	154.68	59.3419	535.0	4.0	21650669
+S1615	healthy				DNK		no	no	5.3	127.611	52.2563	0.68	2.0	27446821
+S1616	T2D	52	female	35.7851473923	DEU	no	yes	cumarine						20121587
+S1617	IGT;MS				DNK		no	clopidogrel	5.7	170.14800000000002	160.3117	3.26	7.0	21465036
+S1618	T2D	59	male	25.1843340036	DEU	no	yes	antihta;antidiab;diuranse;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv						15986360
+S1619	healthy	52	female	21.526947262800004	DEU	no	yes	no	4.87	77.34	51.3706	845.0	5.0	20598399
+S1620	IGT;MS	46	female	39.8612402179	FRA	no	no	antihta;thiazidique	5.7	136.682982	116.11526999999998	14.7	3.0	20195803
+S1621	healthy	69	female	21.1328125	DEU	no	yes	no	5.22	114.84990000000002	53.142	3.04	4.0	20945720
+S1622	healthy	28	female	20.0623227478	DEU	no	yes	no	5.42	64.9656	61.99899999999999	0.71	3.0	20746451
+S1623	CAD;T2D	69	male	26.927973457800004	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						57802722
+S1624	CAD				DNK		yes	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;statin;antithombo;asa;nitrate;xantoxinh						23069629
+S1625	CAD;T2D	59	male	32.2578326589	FRA	no	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						19887023
+S1626	T2D				DNK		yes	antilipid;antihta;thiazidique;statin;asa						52032231
+S1627	T2D	54	female	32.109375	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;su;metformin;statin						20397422
+S1628	CAD	44	male	25.2330886729	FRA	yes	no	antilipid;antihta;beta_blockers;statin;asa						19311730
+S1629	MS	44	female	40.3777513385	DEU	yes	yes	PPI	5.2	105.18240000000002	183.3399	15.7	3.0	21666796
+S1630	IGT;MS	64	female	52.1875	DEU	no	yes	antihta;at2_inhib;PPI	5.91	267.9831	142.5977	7.35	4.0	21163582
+S1631	CAD;T2D	61	male	24.7540352229	FRA	no	no	antilipid;antihta;beta_blockers;ca2_cbl;statin;asa						20313105
+S1632	healthy	49	female	21.218087696	FRA	no	yes	no	5.4	81.810252	88.853424	1.11	2.0	20243173
+S1633	IGT;MS				DNK		no	antihta;thiazidique;at2_inhib	6.0	119.877	85.9129	6.16	4.0	23838250
+S1634	T2D	65	male	41.1352040816	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;metformin;insulin;bolus;asa						21252262
+S1635	T2D	65	female	33.296525709	FRA	no	no	antihta;antidiab;ace_inhib;beta_blockers;ca2_cbl;metformin;asa						11323560
+S1636	healthy	66	female	19.6932803623	DEU	no	yes	no	5.04	126.8376	55.7991	411.0	2.0	20543359
+S1637	CAD;T2D				DNK		yes	antilipid;statin;antithombo;asa						20166244
+S1638	IGT;MS				DNK		no	antihta;thiazidique	5.9	177.882	83.2558	1.18	4.0	20868518
+S1639	CAD;T2D				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;statin;antithombo;clopidogrel						20775355
+S1640	healthy	54	male	24.3374797188	FRA	no	yes	no	5.2	99.7686	131.26074	2.05	4.0	20190378
+S1641	healthy	72	male	23.9529079861	DEU	no	yes	no	5.31	163.57410000000004	76.1702	274.0	1.0	19954693
+S1642	MS	56	female	46.5333333333	FRA	no	yes	antihta;thiazidique;at2_inhib	5.5	118.724634	69.66916199999999	7.74	4.0	21540036
+S1643	CAD	62	female	26.6412724325	FRA	no	yes	antilipid;antihta;antidiab;ace_inhib;su;metformin;statin;antithombo;asa;PPI						20225563
+S1644	CAD				DNK		no	antilipid;statin;antithombo;asa						20201312
+S1645	MS	51	female	38.1590136054	DEU	no	no	no	5.18	127.611	99.1984	0.8740000000000001	5.0	20230594
+S1646	IGT;MS	39	female	39.7888321995	DEU	no	yes	antihta;thiazidique;ace_inhib;ctrblock	6.1	134.57160000000002	273.6813	46.5	5.0	19689339
+S1647	IGT;MS	70	female	22.6308855332	FRA	no	no	antilipid;antihta;kspdiur;statin;asa	6.1	116.729262	166.60017	2.1	5.0	21325756
+S1648	T2D	61	male	35.8772358598	FRA	no	yes	antilipid;antidiab;su;metformin;dppiv;insulin;statin						22631557
+S1649	CAD	62	male	28.697944835	FRA	yes	no	antilipid;antihta;diuranse;at2_inhib;kspdiur;beta_blockers;statin;asa;cumarine;PPI						20489212
+S1650	CAD;T2D				DNK		yes	antilipid;antihta;thiazidique;beta_blockers;statin;asa;clopidogrel						20713376
+S1651	T2D	58	female	30.3382203513	DEU	yes	no	antilipid;antidiab;metformin;dppiv;statin						20455741
+S1652	T2D	71	female	45.3606509671	FRA	no	no	antihta;antidiab;thiazidique;kspdiur;metformin						22027653
+S1653	CAD;T2D				DNK		yes	antilipid;antihta;at2_inhib;beta_blockers;statin;asa						20409066
+S1654	T2D	49	female	41.2328970851	DEU	no	yes	antihta;beta_blockers;PPI						20579915
+S1655	CAD	64	male	34.4163265306	FRA	no	no	antilipid;antihta;antidiab;at2_inhib;beta_blockers;su;metformin;statin;asa;other_antiarythmic;PPI						11812882
+S1656	IGT;MS	59	female	37.2937029322	DEU	yes	yes	antihta;ace_inhib	5.85	138.0519	127.5408	4.69	3.0	20174487
+S1657	MS	31	female	48.3746556474	DEU	no	no	antidiab;metformin;dppiv						23188744
+S1658	T2D	56	female	29.3622540911	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;metformin;dppiv;statin						20236372
+S1659	CAD				DNK		no	antilipid;antihta;at2_inhib;beta_blockers;statin;antithombo;asa;nitrate						21752598
+S1660	T2D	56	male	32.2451973354	FRA	no	no	antilipid;antidiab;metformin;dppiv;statin						20851324
+S1661	healthy				DNK		yes	antihta;beta_blockers	5.5	146.946	74.3988	0.7440000000000001	2.0	21381147
+S1662	T2D	52	male	40.4158414034	FRA	no		antilipid;antidiab;metformin;statin						20746906
+S1663	MS	44	female	50.7992719146	FRA	no	no	no	5.5	114.73389	71.688558	3.48	4.0	24456124
+S1664	MS	44	female	49.9446258773	DEU	no	no	no	5.69	171.6948	93.8842	4.47	3.0	20950924
+S1665	T2D	50	female	35.145748973	FRA	no	no	antilipid;antidiab;su;metformin;dppiv;statin;asa						21541002
+S1666	healthy				DNK		no	PPI	5.2	174.015	120.4552	294.0	4.0	20907077
+S1667	IGT;MS	46	male	49.6465092791	DEU	no	yes	antihta;ace_inhib;beta_blockers;cumarine;PPI	5.85	209.5914	189.5398	5.58	4.0	21298317
+S1668	HF;CAD;T2D	70	female	29.8532636195	FRA	no	yes	antilipid;antihta;at2_inhib;kspdiur;beta_blockers;statin;asa						16066888
+S1669	MS	22	female	37.0934145169	FRA	no	no	no	5.1	93.782484	82.79523599999997	7.67	4.0	20645969
+S1670	healthy	52	female	23.0607966457	DEU	no	yes	no	5.17	82.75380000000001	78.8273	342.0	4.0	28564767
+S1671	MS	35	female	43.928416955	FRA	no	yes	no	5.5	116.729262	64.620672	14.9	2.0	48023303
+S1672	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20093530
+S1673	healthy	66	male	21.3491209798	FRA	no	no	no	5.4	103.759344	69.66916199999999	1.62	5.0	20071554
+S1674	healthy	52	male	23.4926106802	DEU	no	no	no	5.26	135.7317	102.7412	0.1	4.0	22149332
+S1675	IGT;MS	29	female	50.2409297052	FRA	yes	yes	no	6.3	93.782484	176.69715	15.8	4.0	20568643
+S1676	T2D	72	male	26.642249527399997	DEU	yes	no	antihta;antidiab;at2_inhib;beta_blockers;ca2_cbl;su;metformin						21785940
+S1677	T2D	53	male	39.9619306446	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;metformin;dppiv;statin						19663954
+S1678	HF;CAD				DNK		yes	antilipid;antihta;antidiab;diuranse;ace_inhib;kspdiur;beta_blockers;metformin;dppiv;statin;asa						19467743
+S1679	CAD;T2D				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;nitrate						20608166
+S1680	T2D	39	female	53.7113690267	FRA	no	yes	antidiab;insulin;bolus						24441491
+S1681	IGT;MS	53	female	47.5156226185	DEU	no	yes	no	5.97	127.611	143.4834	3.77	4.0	20904702
+S1682	MS				DNK		no	no	5.1	162.41400000000004	116.9124	0.58	6.0	20618531
+S1683	MS	53	female	40.0006591869	FRA	no	no	antihta;thiazidique;at2_inhib	5.5	145.662156	99.960102	8.88	4.0	20147152
+S1684	CAD;T2D				DNK		yes	antilipid;antihta;diuranse;at2_inhib;beta_blockers;statin;asa						22042227
+S1685	MS	50	male	39.7662527392	DEU	no	yes	antihta;antidiab;ace_inhib;metformin;dppiv;PPI						21161571
+S1686	T2D	57	female	35.5859375	DEU	no	yes	antihta;antidiab;diuranse;beta_blockers;ca2_cbl;metformin;dppiv						20113976
+S1687	CAD				DNK		yes	antilipid;antihta;thiazidique;ace_inhib;beta_blockers;statin;asa						20423388
+S1688	CAD	64	male	26.0923210916	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;su;metformin;statin;asa;clopidogrel;PPI;xantoxinh						20922656
+S1689	IGT				DNK		no	no	5.7	131.47799999999998	77.9416	0.1	1.0	26704325
+S1690	MS				DNK		no	antihta;thiazidique;ca2_cbl	5.1	108.276	85.9129	1.21	3.0	27911648
+S1691	healthy				DNK		no	asa	5.5	127.611	53.142	1.15	4.0	20947890
+S1692	CAD;T2D	51	male	42.96875	FRA	no	no	antihta;thiazidique;ace_inhib;ca2_cbl						14049010
+S1693	CAD;T2D	55	male	32.6011142422	FRA	no	yes	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa;PPI						26471091
+S1694	healthy	50	female	21.6093715088	DEU	no	no	no	5.03	135.345	90.3414	2.95	5.0	21418413
+S1695	healthy	60	female	22.024983563400003	FRA	no	no	no	5.6	184.57191	91.882518	626.0	4.0	20675873
+S1696	MS	45	male	41.6233090531	DEU	no	no	antihta;thiazidique;at2_inhib;ca2_cbl;PPI	5.22	129.1578	87.6843	4.85	4.0	20551113
+S1697	T2D	64	female	32.265625	DEU	no	yes	antidiab;metformin;dppiv						30488179
+S1698	T2D	54	female	35.9252965158	FRA	no	yes	antihta;antidiab;thiazidique;at2_inhib;metformin						23609556
+S1699	T2D	68	female	37.7532921258	FRA	no	no	antidiab;su;metformin						22159108
+S1700	CAD	58	male	31.4814814815	FRA	no	yes	antilipid;antihta;ca2_cbl;statin;asa;clopidogrel						9612156
+S1701	T2D	48	male	29.686707200700003	FRA	no	no	antidiab;metformin						19777146
+S1702	T2D	38	female	37.6481953728	FRA	no	yes	antihta;antidiab;ace_inhib;beta_blockers;metformin						20647291
+S1703	T2D	53	male	30.830449827	DEU	yes	no	antilipid;antihta;antidiab;beta_blockers;metformin;dppiv;insulin;bolus;statin						20396605
+S1704	healthy	25	male	18.9801990356	DEU	no	no	no	4.78	54.13800000000001	78.8273	9.69	3.0	22938424
+S1705	IGT	66	male	24.0415854451	FRA	no		no	5.8	146.65984200000003	96.931008	0.8440000000000001	4.0	20216477
+S1706	IGT				DNK		no	no	5.7	131.47799999999998	98.3127	0.5670000000000001	3.0	23625041
+S1707	T2D	47	male	33.2137959144	FRA	no	no	antidiab;metformin;dppiv						20508557
+S1708	MS	51	female	37.6962936593	FRA	no		no						21107755
+S1709	IGT;MS	62	female	42.6792161954	DEU	no	yes	antilipid;antihta;thiazidique;at2_inhib;ca2_cbl;statin;clopidogrel;PPI;xantoxinh	5.78	82.75380000000001	90.3414	1.52	4.0	20456451
+S1710	T2D	64	male	29.767565260900003	FRA	no	no	antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin						20938789
+S1711	T2D	44	female	57.3165436387	FRA	no	no	no						20264621
+S1712	IGT;MS	39	male	40.298472330100005	FRA	yes	no	no	5.9	92.784798	105.008592	2.8	4.0	25307091
+S1713	T2D	69	female	41.7840824184	FRA	no	yes	no						0
+S1714	T2D	61	male	30.000152866999997	DEU	no	yes	antihta;antidiab;ace_inhib;metformin;dppiv						21193351
+S1715	healthy				DNK		no	no	5.2	112.143	75.2845	0.7879999999999999	3.0	20273849
+S1716	T2D	68	male	35.46875	DEU	yes	yes	antilipid;antidiab;metformin;dppiv;statin;xantoxinh						20914910
+S1717	T2D	59	female	30.7421875	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;kspdiur;ca2_cbl;su;metformin;dppiv;insulin;statin						20387366
+S1718	MS				DNK		yes	antihta;at2_inhib;ca2_cbl;asa;PPI	5.4	139.21200000000002	74.3988	2.82	3.0	21962113
+S1719	MS	37	female	44.3252595156	DEU		no	antihta;thiazidique;beta_blockers						20197501
+S1720	T2D	65	male	39.3636621315	FRA	no	no	antidiab;metformin;dppiv						21194321
+S1721	IGT;MS	52	male	45.2909986113	DEU	yes	no	antihta;thiazidique;at2_inhib;ca2_cbl	6.31	168.6012	129.3122	1.09	3.0	20995589
+S1722	T2D	66	female	33.515625	FRA	no	no	antilipid;fibrate;antithombo						23594601
+S1723	T2D				DNK		no	antilipid;antihta;diuranse;at2_inhib;ca2_cbl;statin						20503920
+S1724	IGT;MS	54	female	45.7440166493	DEU	no	yes	antihta;thiazidique;at2_inhib;ca2_cbl	5.97	64.9656	181.5685	13.1	6.0	20294468
+S1725	T2D	55	female	41.5214896455	FRA	no	yes	antihta;thiazidique;at2_inhib						20793062
+S1726	T2D	66	male	25.4104876511	DEU	no	yes	antihta;antidiab;ace_inhib;ca2_cbl;insulin;bolus						20288348
+S1727	healthy	29	female	21.4055661896	FRA	no	yes	no	5.1	67.842648	61.59157800000001	1.83	1.0	20395228
+S1728	healthy	61	female	20.8105188009	FRA	no	no	no	5.5	153.643644	227.18205	0.77	4.0	19662225
+S1729	IGT				DNK		no	no	5.9	174.015	107.1697	3.55	2.0	19973597
+S1730	IGT;MS				DNK		no	antilipid;statin	6.1	81.20700000000002	162.9688	1.52	4.0	20912312
+S1731	MS	41	female	36.5121384298	FRA	no	no	no						22543564
+S1732	IGT;MS				DNK		no	no	6.1	108.276	102.7412	3.75	4.0	22448347
+S1733	MS				DNK		no	no	5.4	139.21200000000002	98.3127	1.24	4.0	21503058
+S1734	IGT;MS	62	male	31.8275398973	FRA	no	no	antihta;thiazidique;ace_inhib;beta_blockers	6.3	182.576538	71.688558	4.02	3.0	20705234
+S1735	T2D	53	male	26.0488349001	FRA	no	no	antilipid;antidiab;su;metformin;dppiv;statin						11230921
+S1736	T2D	64	female	31.107266436	DEU	no	no	antihta;antidiab;at2_inhib;metformin;dppiv						20162913
+S1737	T2D	60	female	30.1543911975	FRA	no	yes	no						21729243
+S1738	IGT	66	male	19.8404759598	FRA	no	no	no	5.7	117.726948	56.54308799999999	2.4	4.0	24248462
+S1739	MS	61	female	58.0859375	DEU	no	yes	antihta;antidiab;diuranse;at2_inhib;ace_inhib;glp_1						20598370
+S1740	MS	30	female	44.337385675	DEU	no	yes	PPI	5.49	144.62580000000003	149.68329999999995	18.2	4.0	20513858
+S1741	T2D	70	female	33.892370715300004	DEU	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;ctrblock;metformin;dppiv;statin;cumarine						21101279
+S1742	MS	38	female	34.0914552095	FRA	no	no	antihta;thiazidique;at2_inhib;kspdiur;beta_blockers;ca2_cbl;ctrblock	5.6	96.77554200000002	86.834028	4.09	4.0	20735175
+S1743	MS				DNK		yes	no	5.4	116.01	133.7407	1.7	4.0	20529766
+S1744	CAD;T2D				DNK		no	antilipid;statin;asa						11707646
+S1745	T2D	57	male	29.924692826	DEU	no	no	antilipid;antihta;antidiab;diuranse;at2_inhib;beta_blockers;ca2_cbl;ctrblock;metformin;dppiv;statin						17814309
+S1746	IGT;MS	48	female	41.45878825	FRA	no	yes	no	5.9	130.696866	78.75644399999999	3.25	4.0	28414922
+S1747	MS	51	female	48.448117538999995	DEU	yes	yes	antilipid;antihta;antidiab;thiazidique;ace_inhib;metformin;statin						20626734
+S1748	IGT	66	female	22.4059415484	FRA	no	no	no	5.7	187.564968	74.717652	1.52	4.0	20257207
+S1749	T2D	61	male	27.592592592600003	DEU	no	no	antidiab;metformin;dppiv;insulin						15038613
+S1750	MS	58	female	28.775478119499997	FRA	no	yes	antihta;at2_inhib;kspdiur	5.2	137.680668	109.047384	884.0	3.0	20146783
+S1751	healthy	28	female	56.753650621999995	DEU	no	yes	PPI	5.6	70.3794	99.1984	23.7	4.0	20812625
+S1752	MS	37	female	55.252361775	DEU	no	yes	antihta;ace_inhib	5.11	105.9558	108.0554	5.43	6.0	20334720
+S1753	CAD;T2D	68	male	24.3893480257	FRA	no	no	antilipid;antihta;ace_inhib;beta_blockers;statin;asa						20418398
+S1754	IGT	69	male	21.7711011433	FRA	no	no	no	5.7	144.66447000000005	79.76614199999999	0.8740000000000001	4.0	20185195
+S1755	CAD;T2D				DNK		no	antilipid;antihta;ace_inhib;beta_blockers;statin;antithombo;asa						25151230
+S1756	MS				DNK		yes	no	5.4	96.675	217.8822	616.0	3.0	20604532
+S1757	IGT;MS	60	female	37.1823228115	FRA	no		antilipid;antihta;thiazidique;kspdiur;statin	6.1	101.763972	123.183156	6.58	5.0	22117344
+S1758	MS	46	female	54.45719954649999	DEU	no	no	antihta;thiazidique;at2_inhib;ca2_cbl	5.69	137.2785	55.7991	3.97	4.0	21705150
+S1759	MS				DNK		yes	antihta;at2_inhib	5.1	100.542	67.3132	1.19	2.0	28190828
+S1760	T2D	66	female	29.8316334352	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;statin						20519836
+S1761	T2D	67	female	33.7344510546	DEU	no	yes	antihta;antidiab;diuranse;kspdiur;beta_blockers;metformin;dppiv;cumarine;digitalis						20985201
+S1762	IGT;MS	26	female	45.831565140200006	FRA	no	no	no	6.2	84.80331000000002	101.979498	5.82	3.0	20116106
+S1763	IGT;MS	28	female	52.7916068028	FRA	no	no	no	6.1	89.79174	109.047384	3.63	4.0	20203306
+S1764	T2D	61	female	27.5864995915	FRA	no		antihta;antidiab;thiazidique;kspdiur;ca2_cbl;metformin;digitalis						20700498
+S1765	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;ezetimibe;antithombo;asa						20832789
+S1766	IGT	74	female	18.8429752066	DEU	no	no	no	5.91	177.4953	122.22659999999998	4.59	4.0	22204849
+S1767	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						26610946
+S1768	T2D	64	male	27.2423223183	FRA	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;ca2_cbl;su;metformin;dppiv;insulin;statin;asa;xantoxinh						8178032
+S1769	T2D	66	male	28.2247108246	FRA	no	no	antilipid;antidiab;metformin;fibrate						19706389
+S1770	CAD;T2D				DNK		yes	antilipid;antihta;diuranse;ace_inhib;ca2_cbl;statin;clopidogrel;cumarine;digitalis						20647727
+S1771	healthy	49	female	20.2625931069	DEU	no	yes	no	5.52	129.5445	92.1128	0.5820000000000001	3.0	20634687
+S1772	IGT;MS	61	female	37.0123375687	FRA	no	yes	antihta;ace_inhib	5.8	156.636702	129.241344	4.21	4.0	21761747
+S1773	HF;CAD	69	male	30.818540433899997	FRA	no	no	antilipid;antihta;antidiab;ace_inhib;beta_blockers;metformin;statin;asa;clopidogrel;PPI						15407589
+S1774	T2D	71	male	25.826446281	DEU	no	no	antilipid;antihta;antidiab;thiazidique;ace_inhib;beta_blockers;su;metformin;dppiv;statin;PPI						24804587
+S1775	MS				DNK		yes	antihta;ace_inhib;beta_blockers;ca2_cbl;PPI	4.9	108.276	215.2251	8.8	4.0	20432122
+S1776	CAD;T2D	72	male	27.0562421972	FRA	no		antilipid;antihta;diuranse;beta_blockers;statin;asa						20132350
+S1777	T2D	55	male	29.7904406092	FRA	no	no	antidiab;metformin						21320467
+S1778	IGT;MS	37	female	50.234375	DEU	no	yes	no	6.01	103.6356	182.4542	13.2	3.0	21099282
+S1779	HF;CAD				DNK		yes	antilipid;antihta;ace_inhib;beta_blockers;ca2_cbl;statin;asa;clopidogrel;xantoxinh						20044538
+S1780	T2D	66	male	36.7859751644	DEU	no	no	antihta;antidiab;diuranse;thiazidique;ace_inhib;beta_blockers;insulin;bolus;antithombo						15633948
+S1781	T2D	65	female	31.4460964441	FRA	no	yes	antidiab;su;metformin						21137173
+S1782	IGT				DNK		no	no	5.7	123.744	95.6556	343.0	6.0	21095200
+S1783	T2D	68	male	25.8950984278	FRA	no	no	antidiab;su;metformin						21588712
+S1784	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						18055203
+S1785	healthy	62	male	23.081349562600003	FRA	no	yes	no	5.6	152.645958	86.834028	662.0	4.0	21254685
+S1786	T2D	68	male	33.2028277742	FRA	no	yes	antilipid;antihta;antidiab;ace_inhib;beta_blockers;insulin;bolus;statin;cumarine						15698040
+S1787	IGT;MS	55	female	36.8927070391	FRA	no	no	no	5.7	173.59736400000003	119.14436399999998	1.59	4.0	20701888
+S1788	T2D	54	male	35.0535207414	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;insulin;bolus;statin						13539606
+S1789	MS				DNK		yes	no	5.2	143.079	83.2558	0.5579999999999999	2.0	21855963
+S1790	T2D	65	female	51.2225747395	FRA	no	yes	antihta;ace_inhib;ca2_cbl						20651748
+S1791	T2D	54	male	28.4668605268	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;kspdiur;beta_blockers;ca2_cbl;su;metformin;dppiv;statin;asa						20074534
+S1792	IGT;MS	58	female	43.041464331099995	FRA	no	no	antilipid;statin	6.0	154.64133	135.299532	1.35	4.0	21237981
+S1793	T2D	66	male	27.3647632731	DEU	no	yes	antihta;antidiab;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;PPI						20728053
+S1794	T2D	64	male	30.1061176592	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;metformin;dppiv;xantoxinh						12848849
+S1795	IGT;MS	40	female	39.1040434173	FRA	no	yes	no	5.7	99.7686	106.01829	14.6	4.0	20221043
+S1796	healthy				DNK		no	no	5.3	154.68	68.1989	1.75	5.0	21308724
+S1797	T2D	65	female	38.5121107266	DEU	no	yes	antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;insulin;bolus						20744168
+S1798	T2D	70	female	35.5440499671	DEU	no	yes	antidiab;su;dppiv;PPI						20231594
+S1799	T2D	70	male	31.159402172399997	DEU	no	yes	antihta;antidiab;at2_inhib;ca2_cbl;metformin;dppiv						20464830
+S1800	MS				DNK		no	no	5.2	96.675	137.2835	1.54	4.0	21448271
+S1801	CAD;T2D	73	male	20.5714285714	FRA	yes	no	antilipid;antihta;thiazidique;at2_inhib;beta_blockers;statin;asa						11680970
+S1802	T2D	57	male	35.291320694899994	FRA	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;ca2_cbl;metformin;fibrate						19384259
+S1803	MS	67	male	29.0483405336	FRA	no	no	antilipid;antihta;at2_inhib;statin;antithombo;other_antiarythmic	5.4	141.671412	82.79523599999997	1.15	4.0	36352602
+S1804	MS	48	female	41.8202211184	DEU	no	yes	antihta;ace_inhib	5.25	151.97310000000004	100.08409999999998	10.7	4.0	21176607
+S1805	healthy				DNK		yes	no	5.5	123.744	64.6561	0.97	4.0	34919859
+S1806	MS	39	female	39.4809688581	DEU	no	no	no	4.97	131.09130000000002	102.7412	1.84	6.0	20083173
+S1807	MS	54	female	65.0666666667	DEU		yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;statin;PPI						22896992
+S1808	CAD;T2D				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa						27008706
+S1809	T2D	68	male	27.602014462800003	DEU	no	no	antihta;antidiab;ace_inhib;beta_blockers;su;metformin;dppiv;PPI;xantoxinh						22338951
+S1810	IGT	56	female	21.598654633	FRA	no	yes	no		139.67604	80.77584	622.0	2.0	20832555
+S1811	T2D	64	female	34.7474747475	DEU	no	yes	antidiab;insulin;bolus						20916808
+S1812	MS				DNK		yes	no	5.5	104.409	85.9129	4.64	6.0	20414515
+S1813	CAD;T2D				DNK		no	antilipid;antihta;beta_blockers;statin;antithombo;asa						20223409
+S1814	MS				DNK		no	no	5.4	112.143	84.1415	532.0	4.0	20834588
+S1815	MS	31	female	44.5913682277	DEU	yes	yes	no	5.62	137.6652	121.3409	4.75	4.0	20503118
+S1816	IGT;MS	69	female	27.5491540924	DEU	no	yes	antihta;at2_inhib;PPI	6.05	122.9706	61.99899999999999	12.9	2.0	20625841
+S1817	T2D	45	female	30.5974698979	FRA	no		antidiab;metformin;dppiv						43457006
+S1818	T2D	61	female	28.228474165	FRA	no	yes	antilipid;antidiab;metformin;dppiv;statin						21076958
+S1819	HF;CAD				DNK		no	antilipid;antihta;antidiab;thiazidique;metformin;dppiv;insulin;bolus;statin;asa						20419828
+S1820	T2D	72	male	30.7418619893	DEU	no	no	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;insulin;statin;asa						16142399
+S1821	T2D	61	female	39.5825628698	FRA	no		antilipid;antihta;antidiab;beta_blockers;metformin;statin;asa;other_antiarythmic						20222349
+S1822	CAD;T2D				DNK		no	antilipid;statin;antithombo;asa						21683622
+S1823	healthy	42	male	23.8845316246	FRA	yes	no	no	5.1	99.7686	84.81463199999997	0.1	3.0	23803240
+S1824	MS	52	male	28.6703601108	FRA	yes	no	no	5.5	135.685296	223.143258	1.31	4.0	20243221
+S1825	T2D	60	female	38.0659843353	FRA	no	yes	antilipid;antihta;antidiab;thiazidique;at2_inhib;beta_blockers;ca2_cbl;metformin;dppiv;statin						20849712
+S1826	MS	47	male	52.463107638900006	DEU	no	yes	antihta;antidiab;diuranse;ace_inhib;kspdiur;beta_blockers;dppiv;bolus;cumarine						22644691
+S1827	IGT;MS				DNK		no	antihta;ca2_cbl	5.8	73.473	109.8268	3.99	3.0	20650273
+S1828	MS	46	male	47.2467093346	FRA	no	yes	no	5.6	119.72232	209.007486	7.55	4.0	20252964
+S1829	MS				DNK		yes	antihta;at2_inhib;kspdiur;PPI	5.5	131.47799999999998	143.4834	2.27	3.0	24635201
+S1830	CAD				DNK		yes	antilipid;antihta;beta_blockers;statin;antithombo;asa;nitrate						20858928
+S1831	MS	36	male	43.440109121599995	FRA	no	yes	antidiab;su;metformin;glp_1						19937342

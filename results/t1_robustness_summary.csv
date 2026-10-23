@@ -1,0 +1,25 @@
+comparison,method,prev,tested,sig_q05
+T2D_naive vs healthy,wilcoxon,0.1,184,30
+T2D_naive vs healthy,wilcoxon,0.05,234,35
+T2D_naive vs healthy,wilcoxon,0.25,122,27
+T2D_naive vs healthy,clr_t,0.1,184,30
+T2D_naive vs healthy,clr_t_cc,0.1,184,24
+T2D_naive vs healthy,clr_lm_adj,0.1,184,4
+T2D_naive vs obese_nondiab,wilcoxon,0.1,182,82
+T2D_naive vs obese_nondiab,wilcoxon,0.05,228,96
+T2D_naive vs obese_nondiab,wilcoxon,0.25,116,54
+T2D_naive vs obese_nondiab,clr_t,0.1,182,86
+T2D_naive vs obese_nondiab,clr_t_cc,0.1,182,62
+T2D_naive vs obese_nondiab,clr_lm_adj,0.1,182,0
+T2D_met vs T2D_nomet,wilcoxon,0.1,195,109
+T2D_met vs T2D_nomet,wilcoxon,0.05,243,121
+T2D_met vs T2D_nomet,wilcoxon,0.25,117,73
+T2D_met vs T2D_nomet,clr_t,0.1,195,113
+T2D_met vs T2D_nomet,clr_t_cc,0.1,195,98
+T2D_met vs T2D_nomet,clr_lm_adj,0.1,195,92
+T2D_met vs healthy,wilcoxon,0.1,182,108
+T2D_met vs healthy,wilcoxon,0.05,235,130
+T2D_met vs healthy,wilcoxon,0.25,115,69
+T2D_met vs healthy,clr_t,0.1,182,113
+T2D_met vs healthy,clr_t_cc,0.1,182,100
+T2D_met vs healthy,clr_lm_adj,0.1,182,58

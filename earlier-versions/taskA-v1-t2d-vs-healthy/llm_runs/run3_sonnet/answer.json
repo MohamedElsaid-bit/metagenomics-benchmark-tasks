@@ -1,0 +1,3 @@
+{"primary_driver":"metformin","driver_fraction_T2D":0.518,
+"T2D_intrinsic":{"Escherichia_coli":"increased","Intestinibacter_bartlettii":"no_robust_difference","Faecalibacterium_prausnitzii":"no_robust_difference","Roseburia_hominis":"no_robust_difference","Akkermansia_muciniphila":"no_robust_difference"},
+"driver_effect_within_T2D":{"Escherichia_coli":"increased","Intestinibacter_bartlettii":"decreased","Faecalibacterium_prausnitzii":"decreased","Roseburia_hominis":"decreased","Akkermansia_muciniphila":"no_robust_difference"}}

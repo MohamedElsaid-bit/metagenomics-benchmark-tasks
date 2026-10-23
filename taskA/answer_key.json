@@ -1,0 +1,44 @@
+{
+  "task_id": "mgx_drug_coprescription_confounding",
+  "drug_labels": {
+    "metformin": {
+      "accept": [
+        "independent"
+      ]
+    },
+    "proton_pump_inhibitor": {
+      "accept": [
+        "independent"
+      ]
+    },
+    "sulfonylurea": {
+      "accept": [
+        "not_independent"
+      ]
+    },
+    "statin": {
+      "accept": [
+        "not_independent"
+      ]
+    },
+    "insulin": {
+      "accept": [
+        "not_independent"
+      ]
+    }
+  },
+  "strongest_independent_drug": {
+    "accept": [
+      "metformin"
+    ]
+  },
+  "statin_metformin_overlap": {
+    "value": 0.409,
+    "tolerance": 0.01
+  },
+  "drug_explaining_sulfonylurea_signal": {
+    "accept": [
+      "metformin"
+    ]
+  }
+}

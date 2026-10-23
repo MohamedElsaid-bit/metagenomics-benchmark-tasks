@@ -1,0 +1,70 @@
+{
+  "task_id": "mgx_crc_partial_contamination",
+  "flagged_sample_ids": {
+    "required": [
+      "P005",
+      "P009",
+      "P013",
+      "P016",
+      "P022",
+      "P029",
+      "P030",
+      "P037",
+      "P040",
+      "P043",
+      "P046",
+      "P047",
+      "P049",
+      "P056",
+      "P062",
+      "P094",
+      "P099",
+      "P107",
+      "P110",
+      "P111",
+      "P114"
+    ],
+    "max_extra": 18,
+    "rule": "every contaminated sample must be flagged (recall 1.0); the guard on extras is deliberately non-binding, set at 18 = 20 percent of the 93 clean samples, to exclude only degenerate answers that discard a large share of valid data. Over-flagging within that guard is judged by whether the species calls remain correct."
+  },
+  "flagged_sample_origin": {
+    "accept": [
+      "oral"
+    ]
+  },
+  "crc_vs_control": {
+    "Fusobacterium_nucleatum": {
+      "accept": [
+        "enriched_in_CRC"
+      ]
+    },
+    "Peptostreptococcus_stomatis": {
+      "accept": [
+        "enriched_in_CRC"
+      ]
+    },
+    "Parvimonas_micra": {
+      "accept": [
+        "enriched_in_CRC"
+      ]
+    },
+    "Rothia_dentocariosa": {
+      "accept": [
+        "not_significant"
+      ]
+    },
+    "Eubacterium_rectale": {
+      "accept": [
+        "not_significant"
+      ]
+    },
+    "Streptococcus_salivarius": {
+      "accept": [
+        "not_significant"
+      ]
+    }
+  },
+  "n_flagged_samples_consistency": {
+    "rule": "n_flagged_samples must equal len(flagged_sample_ids)"
+  }
+}

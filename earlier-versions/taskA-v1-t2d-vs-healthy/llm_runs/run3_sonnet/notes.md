@@ -1,0 +1,3 @@
+T2D (n=792) vs healthy (n=234); log10(rel abund+0.001) per species, OLS with age, BMI, sex, country. Metformin is in 51.8% of T2D and ~0% of healthy (1 person), so it is confounded with T2D.
+Crude T2D effects (E. coli up, F. prausnitzii/R. hominis/Akkermansia down) mostly vanish after adjusting for metformin, or when comparing metformin-free T2D with healthy (F. prausnitzii, R. hominis, I. bartlettii, Akkermansia n.s.; E. coli remains modestly up, ~+0.4 log10, p 0.001-0.04).
+Within T2D, metformin users vs non-users (adjusted): E. coli +1.05 log10, I. bartlettii -0.52, F. prausnitzii -0.62, R. hominis -0.57 (all p<1e-8); Akkermansia no difference.

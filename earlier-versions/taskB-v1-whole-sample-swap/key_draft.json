@@ -1,0 +1,24 @@
+{
+  "n_non_stool":12,
+  "non_stool_sample_ids":[
+    "C016",
+    "C020",
+    "C023",
+    "C036",
+    "C041",
+    "C051",
+    "C057",
+    "C060",
+    "C075",
+    "C083",
+    "C092",
+    "C100"
+  ],
+  "n_significant_clean":12,
+  "clean_Fusobacterium_nucleatum":"enriched_in_CRC",
+  "clean_Parvimonas_micra":"not_significant",
+  "clean_Peptostreptococcus_stomatis":"enriched_in_CRC",
+  "clean_Porphyromonas_asaccharolytica":"enriched_in_CRC",
+  "clean_Porphyromonas_gingivalis":"not_significant",
+  "clean_Faecalibacterium_prausnitzii":"not_significant"
+}
