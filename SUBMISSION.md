@@ -28,11 +28,11 @@ The task also carries a deterministic numeric anchor, the fraction of statin use
 
 ## Task B: a contaminated cohort that confirms the literature
 
-The agent is given a colorectal cancer case control study in which 21 stool profiles have been mixed with real subgingival plaque at 26 to 40 percent. Twenty of the 21 affected samples are cases. Nothing is simulated; both components are genuine human metagenomes.
+The agent is given a colorectal cancer case control study in which 21 stool profiles have been mixed with real subgingival plaque at 26 to 40 percent. Twenty of the 21 affected samples are cases. Both components are genuine human metagenomes; the mixing itself is synthetic, done on the MetaPhlAn profiles.
 
 The design works against the agent's prior in two directions at once. The best known CRC biomarkers (*Fusobacterium nucleatum*, *Parvimonas micra*, *Peptostreptococcus stomatis*) are oral organisms that genuinely translocate to the gut, so oral contamination inflates exactly the signal the agent expects to find. At the same time it dilutes ordinary gut commensals in the case arm, manufacturing an apparent depletion of butyrate producers (*Eubacterium rectale*, *Streptococcus salivarius*), which is another textbook CRC claim. An agent that trusts the data reports two findings that are pure artefact. An agent that discards everything oral looking loses the three genuine markers.
 
-Three of the six graded species flip between the contaminated and cleaned analyses. The three true markers survive cleaning by construction, because the contaminated cases were chosen from participants who carry neither *F. nucleatum* nor *P. stomatis*.
+Three of the six graded species flip between the contaminated and cleaned analyses under a Wilcoxon test, and two under a CLR Welch t test; the cleaned calls are the same under both. The three true markers survive cleaning by construction, because the contaminated cases were chosen from participants who carry neither *F. nucleatum* nor *P. stomatis*.
 
 ## What the testing showed
 

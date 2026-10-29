@@ -61,13 +61,14 @@ Study name, PMID, curator and read accession columns were removed, and sample ID
 
 ```json
 {
-  "drug_labels": {"metformin": "independent", "proton_pump_inhibitor": "independent", "sulfonylurea": "confounded_by_co_prescription", "statin": "confounded_by_co_prescription", "insulin": "confounded_by_co_prescription"},
+  "drug_labels": {"metformin": "independent", "proton_pump_inhibitor": "independent", "sulfonylurea": "not_independent", "statin": "not_independent", "insulin": "not_independent"},
   "strongest_independent_drug": "metformin",
+  "drug_explaining_sulfonylurea_signal": "metformin",
   "statin_metformin_overlap": 0.409
 }
 ```
 
-Grading is deterministic (`grader.py`, `answer_key.json`): all seven fields must be correct; the overlap fraction is accepted within plus or minus 0.01 (180 of 440 T2D statin users also take metformin = 0.409).
+Grading is deterministic (`grader.py`, `answer_key.json`): all eight graded values must be correct (five drug labels, the strongest drug, the sulfonylurea explanation and the overlap); the overlap fraction is accepted within plus or minus 0.01 (180 of 440 T2D statin users also take metformin = 0.409).
 
 ### Robustness
 
@@ -77,15 +78,15 @@ From `scripts/ta_robustness.py`. Counts are species significant at BH q < 0.05 a
 |---|--:|--:|--:|--:|--:|--:|--:|---|
 | metformin | 410 | 109 | 88 | 75 | 72 | n/a | n/a | independent |
 | PPI | 150 | 13 | 14 | 12 | 11 | 8 | 13 | independent |
-| sulfonylurea | 134 | 48 | 2 | 2 | 0 | 0 | n/a | confounded |
-| statin | 440 | 38 | 0 | 0 | 0 | 0 | 0 | confounded |
-| insulin | 118 | 11 | 0 | 0 | 0 | 0 | 0 | confounded |
+| sulfonylurea | 134 | 48 | 2 | 2 | 0 | 0 | n/a | not_independent |
+| statin | 440 | 38 | 0 | 0 | 0 | 0 | 0 | not_independent |
+| insulin | 118 | 11 | 0 | 0 | 0 | 0 | 0 | not_independent |
 
 Stratified routes are reported only where both strata have at least 20 participants.
 
 Two details surfaced by the test runs are recorded here because they matter for grading:
 
-- **Statin is the one borderline label.** It gives 0 species under CLR and rank based models and in both metformin strata, but one run found 7 residual species under a plain log10 transform, falling to 0 again once demographics or the remaining medications were added. The decisive evidence is the stratified test: among the 260 statin users within the 382 metformin free participants there are 0 significant species, which is well powered and transform free. The `confounded_by_co_prescription` label holds under every route except a single unadjusted transform choice, and that run reached the same label after checking.
+- **Statin is the one borderline label.** It gives 0 species under CLR and rank based models and in both metformin strata, but one run found 7 residual species under a plain log10 transform, falling to 0 again once demographics or the remaining medications were added. The decisive evidence is the stratified test: among the 260 statin users within the 382 metformin free participants there are 0 significant species, which is well powered and transform free. The `not_independent` label holds under every route except a single unadjusted transform choice, and that run reached the same label after checking.
 - **Age and BMI are missing for every Danish participant.** All 199 Danish T2D participants lack both fields, while Germany (213) and France (380) are essentially complete. An agent that adds age and BMI to its model therefore drops a whole recruitment site by listwise deletion, taking the analysis set from 792 to 588 without warning. This is why the graded labels were verified under routes that do not use those covariates at all, including two stratified tests. One test run caught the missingness and left age and BMI out of its model, which is the right call here.
 - **The token `su` is a substring of `insulin` and `sglt2`.** Medications must be matched as exact tokens after splitting on semicolons. Substring matching silently inflates the sulfonylurea group with insulin users, which blurs exactly the two labels the task is testing. One run flagged this explicitly as a necessary parsing step.
 

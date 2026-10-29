@@ -6,7 +6,7 @@
 
 **Dataset:** A CRC stool cohort (ZellerG_2014, ExperimentHub EH5938) in which 21 profiles were mixed with real subgingival plaque profiles (GhensiP_2019, ExperimentHub EH5542) at 26 to 40 percent, 20 of the 21 in the case arm. Both from curatedMetagenomicData, release 2021-03-31. Source papers: doi:10.15252/msb.20145645 and doi:10.1038/s41522-020-00155-7.
 
-**Skill explanation:** Tests whether the agent checks sample provenance before interpreting a case control result, in a setting where the contamination reproduces what the literature predicts. The oral contamination inflates the canonical CRC markers and simultaneously dilutes gut commensals, manufacturing a false butyrate producer depletion. Three of the six graded species flip if the contamination is left in.
+**Skill explanation:** Tests whether the agent checks sample provenance before interpreting a case control result, in a setting where the contamination reproduces what the literature predicts. The oral contamination inflates the canonical CRC markers and simultaneously dilutes gut commensals, manufacturing a false butyrate producer depletion. If the contamination is left in, three of the six graded species flip under a Wilcoxon test and two under a CLR Welch t test.
 
 **LLM behavior:** Opus passed 2 of 2, Sonnet failed. All three got the statistics right; the split was on detection. Sonnet scored whole genera, which pulls in gut residents such as *Prevotella copri*, found a fuzzy boundary and left two contaminated samples in. PCA does not separate the contaminated samples, so ordination shortcuts fail.
 
@@ -90,7 +90,7 @@ In the companion task the contaminated samples are pure plaque, so they contain 
 | PCA on CLR, first 4 components | separates cleanly | **overlaps on every component** |
 | Oral specific species score | 0.0 to 0.3 percent in stool vs 58 to 99 percent | 0.0 to 3.0 percent in stool vs 12.8 to 33.1 percent |
 
-Detection requires going looking for oral specific taxa. The remaining gap is wide: `scripts/t3_flagset_sensitivity.py` shows that **any threshold from 3 to 12 percent on a summed oral species score returns exactly the 21 affected samples**, with no false positives and no misses. The answer is therefore well defined, but only for an agent that scores oral *species*. Scoring whole *genera* fails, because *Prevotella copri*, *Streptococcus thermophilus* and *Veillonella* are ordinary gut residents: a genus level score at a 13 percent cut returns 14 of the 21 plus 5 genuine stool samples.
+Detection requires going looking for oral specific taxa. The remaining gap is wide: `scripts/t3_flagset_sensitivity.py` shows that **any threshold from 3 to 12 percent on a summed oral species score returns exactly the 21 affected samples**, with no false positives and no misses. The answer is therefore well defined, but only for an agent that scores oral *species*. Scoring whole *genera* blurs the boundary, because *Prevotella copri*, *Streptococcus thermophilus* and *Veillonella* are ordinary gut residents. With the genus panel in `scripts/t3_flagset_sensitivity.py`, a cut at 10 percent flags all 21 plus 20 clean samples and a cut at 15 percent flags all 21 plus 12; there is no threshold that separates cleanly. (An earlier draft of this file quoted a genus result that did not reproduce from that script; corrected 2026-10-29.)
 
 ### Robustness of the species calls
 
@@ -102,10 +102,10 @@ All six calls were computed under Wilcoxon and CLR Welch t test at prevalence fi
 | *Peptostreptococcus stomatis* | enriched | enriched | all methods |
 | *Parvimonas micra* | enriched | enriched | all methods |
 | *Rothia dentocariosa* | enriched (q = 0.02) | not significant (q = 0.50) | all methods |
-| *Eubacterium rectale* | depleted (q = 0.01) | not significant (q = 0.06 to 0.11) | all methods |
+| *Eubacterium rectale* | depleted under Wilcoxon (q = 0.01); not significant under CLR t | not significant (q = 0.06 to 0.11) | cleaned call stable; naive call depends on the test |
 | *Streptococcus salivarius* | depleted (q = 0.01) | not significant (q = 0.14) | all methods |
 
-The three true markers survive cleaning by construction. The three artefacts disappear. Flag sets that recover 18 or more of the 21 affected samples reproduce all six calls; sets that recover only 14 start to flip *E. rectale* or *S. salivarius* back, which is the expected behaviour of an under cleaned analysis rather than a grading defect.
+The three true markers survive cleaning by construction, and the artefacts disappear. The cleaned calls are identical under both tests, so the answer key does not depend on the method. Sensitivity to incomplete cleaning does depend on it: under Wilcoxon, flag sets that recover 18 or more of the 21 affected samples reproduce all six calls, while under CLR t missing even 3 flips *S. salivarius* back to depleted. Sets that recover only 14 flip *E. rectale* or *S. salivarius* under both. This is the expected behaviour of an under cleaned analysis rather than a grading defect, and it is why the grader requires full recall.
 
 ## Skill tested
 
